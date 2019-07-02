@@ -1,0 +1,775 @@
+premise,hypothesis,label
+A dog looking at the camera <b><u>in  snow</u></b>.,"A dog looking at the camera <b><u>in red snow</u></b>.
+",not_entailment
+It holds me back <b><u>in  life</u></b>.,"It holds me back <b><u>in private life</u></b>.
+",not_entailment
+The act could clearly cost him <b><u>his  life</u></b>.,"The act could clearly cost him <b><u>his private life</u></b>.
+",not_entailment
+A woman in a black cap <b><u>and  outfit sits</u></b> in the sand.,"A woman in a black cap <b><u>and green outfit sits</u></b> in the sand.
+",not_entailment
+The man dressed in a blue wizard<b><u>'s  outfit  is</u></b> walking through a building.,"The man dressed in a blue wizard<b><u>'s green outfit is</u></b> walking through a building.
+",not_entailment
+<b><u>A  puppy on</u></b> a bed with blue sheets and pillow.,"<b><u>A blonde puppy on</u></b> a bed with blue sheets and pillow.
+",not_entailment
+A young boy holds <b><u>a  puppy up</u></b> in front of a spiderman poster.,"A young boy holds <b><u>a blonde puppy up</u></b> in front of a spiderman poster.
+",not_entailment
+Friday that rift with France officially was deemed <b><u>a  piece of</u></b> history.,"Friday that rift with France officially was deemed <b><u>a little piece of</u></b> history.
+",not_entailment
+<b><u>A  couple of</u></b> people are riding ATV's on a dirt track.,"<b><u>A interracial couple of</u></b> people are riding ATV's on a dirt track.
+",not_entailment
+"Three Oklahoma Sooners playing football against <b><u>another  team,</u></b> one of the sooners with the ball in their possession.","Three Oklahoma Sooners playing football against <b><u>another red team,</u></b> one of the sooners with the ball in their possession.
+",not_entailment
+<b><u>A  team of</u></b> soccer players in white strips are running around cones on a sports field.,"<b><u>A red team of</u></b> soccer players in white strips are running around cones on a sports field.
+",not_entailment
+"Remember <b><u>our  talk at</u></b> Graffam Academy, Commencement night.","Remember <b><u>our pleasant talk at</u></b> Graffam Academy, Commencement night.
+",not_entailment
+"Human rights groups put <b><u>the  figure closer</u></b> to 30,000.","Human rights groups put <b><u>the popular figure closer</u></b> to 30,000.
+",not_entailment
+"Gold has always held <b><u>some  value,</u></b> even during times of near anarchy.","Gold has always held <b><u>some moral value,</u></b> even during times of near anarchy.
+",not_entailment
+They are investing in these homes because <b><u>the  value has</u></b> been going up.,"They are investing in these homes because <b><u>the moral value has</u></b> been going up.
+",not_entailment
+"With a wiser man in office, they might have withered on the vine due to lack <b><u>of  support</u></b>.","With a wiser man in office, they might have withered on the vine due to lack <b><u>of public support</u></b>.
+",entailment
+Last I <b><u>heard  support in</u></b> the US for a woman's right to choose was running about 60%.,"Last I <b><u>heard public support in</u></b> the US for a woman's right to choose was running about 60%.
+",entailment
+"Seles ended the match <b><u>in  style,</u></b> with a one-handed forehand volley winner.","Seles ended the match <b><u>in same style,</u></b> with a one-handed forehand volley winner.
+",not_entailment
+A man wearing a hi-viz jacket is drilling into <b><u>the  road</u></b>.,"A man wearing a hi-viz jacket is drilling into <b><u>the fenced road</u></b>.
+",not_entailment
+Two yellow dogs are running side by side down <b><u>a  road</u></b>.,"Two yellow dogs are running side by side down <b><u>a fenced road</u></b>.
+",not_entailment
+A car is parked by the side of <b><u>the  road near</u></b> mountains.,"A car is parked by the side of <b><u>the fenced road near</u></b> mountains.
+",not_entailment
+A man looks out over the water with <b><u>an  object in</u></b> his hand.,"A man looks out over the water with <b><u>a white object in</u></b> his hand.
+",not_entailment
+And a seismic shift in <b><u>the  way NFL</u></b> coaches lead their teams was nudged.,"And a seismic shift in <b><u>the new way NFL</u></b> coaches lead their teams was nudged.
+",entailment
+Osher sees such hybrid films as <b><u>one  way Sony</u></b> can differentiate itself from rivals.,"Osher sees such hybrid films as <b><u>one new way Sony</u></b> can differentiate itself from rivals.
+",not_entailment
+A man in a blue coat and red hat holds <b><u>a  sign with</u></b> very small writing.,"A man in a blue coat and red hat holds <b><u>an avrovulcan.com sign with</u></b> very small writing.
+",not_entailment
+A man putting up letters on <b><u>a  sign with</u></b> a long pole in front of a store.,"A man putting up letters on <b><u>an avrovulcan.com sign with</u></b> a long pole in front of a store.
+",not_entailment
+<b><u>This  guy is</u></b> nothing more than an Obama spammer.,"<b><u>This same guy is</u></b> nothing more than an Obama spammer.
+",entailment
+"However, I would argue that the utility of this theory alone provides its own justification for <b><u>its  use</u></b>.","However, I would argue that the utility of this theory alone provides its own justification for <b><u>its cunning use</u></b>.
+",not_entailment
+He kept <b><u>his  head turned</u></b> away all the timeLinkwas talking to us.,"He kept <b><u>his curly head turned</u></b> away all the timeLinkwas talking to us.
+",not_entailment
+"The visitor turned to theShawanoe, who gravely nodded <b><u>his  head</u></b>.","The visitor turned to theShawanoe, who gravely nodded <b><u>his curly head</u></b>.
+",not_entailment
+Daoudlet <b><u>his  head loll</u></b>.,"Daoudlet <b><u>his curly head loll</u></b>.
+",not_entailment
+She survived <b><u>her  experience as</u></b> a prisoner.,"She survived <b><u>her little experience as</u></b> a prisoner.
+",not_entailment
+Being aFrenchprivate meant being <b><u>any  kind of</u></b> aFrenchman.,"Being aFrenchprivate meant being <b><u>any particular kind of</u></b> aFrenchman.
+",entailment
+I am indebted to you for <b><u>that  kind of</u></b> training.,"I am indebted to you for <b><u>that particular kind of</u></b> training.
+",entailment
+"Geeze, cut <b><u>the  guy some</u></b> slack.","Geeze, cut <b><u>the white guy some</u></b> slack.
+",not_entailment
+A hiker is walking along <b><u>a  path at</u></b> the foot of some snow capped mountains.,"A hiker is walking along <b><u>a sandy path at</u></b> the foot of some snow capped mountains.
+",not_entailment
+We all know they are underpaid for <b><u>the  work they</u></b> do.,"We all know they are underpaid for <b><u>the good work they</u></b> do.
+",entailment
+The emergency money had lost <b><u>its  value</u></b>.,"The emergency money had lost <b><u>its high value</u></b>.
+",entailment
+Theay are obviously pushing <b><u>an  agenda</u></b>.,"Theay are obviously pushing <b><u>a social agenda</u></b>.
+",not_entailment
+RosalindWescotthad gone home to tell her mother of <b><u>her  love</u></b>.,"RosalindWescotthad gone home to tell her mother of <b><u>her great love</u></b>.
+",entailment
+A man in black and white cap <b><u>and  scarf</u></b>.,"A man in black and white cap <b><u>and red scarf</u></b>.
+",not_entailment
+A person with drawn moustache and beard wearing <b><u>a  scarf and</u></b> beads in his hair.,"A person with drawn moustache and beard wearing <b><u>a red scarf and</u></b> beads in his hair.
+",not_entailment
+Older gentleman in a red coat and black and white polka <b><u>dot  scarf</u></b>.,"Older gentleman in a red coat and black and white polka <b><u>dot red scarf</u></b>.
+",not_entailment
+A dog stands on <b><u>the  beach with</u></b> a large rock behind him.,"A dog stands on <b><u>the pebble beach with</u></b> a large rock behind him.
+",not_entailment
+Two girls throw <b><u>a  ball back</u></b> and forth in their backyard.,"Two girls throw <b><u>a red ball back</u></b> and forth in their backyard.
+",not_entailment
+A man in the dooorway of <b><u>a  bus looking</u></b> onward.,"A man in the dooorway of <b><u>a white bus looking</u></b> onward.
+",not_entailment
+<b><u>A  bus filled</u></b> with passengers in Chicago at night.,"<b><u>A white bus filled</u></b> with passengers in Chicago at night.
+",not_entailment
+A beige dog with <b><u>a  collar looks</u></b> on as a brown dog swims in the water.,"A beige dog with <b><u>an orange collar looks</u></b> on as a brown dog swims in the water.
+",not_entailment
+A man in a leather jacket with <b><u>the  collar popped</u></b> kisses the neck of a woman in a gray coat wearing a white scarf.,"A man in a leather jacket with <b><u>the orange collar popped</u></b> kisses the neck of a woman in a gray coat wearing a white scarf.
+",not_entailment
+What replaces DeLay<b><u>'s  approach  is</u></b> unclear.,"What replaces DeLay<b><u>'s new approach is</u></b> unclear.
+",not_entailment
+"Then came AIDS, which turned casual sex into <b><u>a  form of</u></b> Russian roulette.","Then came AIDS, which turned casual sex into <b><u>a human form of</u></b> Russian roulette.
+",entailment
+The mother wondered what <b><u>the  girl would</u></b> do with her last night at home.,"The mother wondered what <b><u>the nice girl would</u></b> do with her last night at home.
+",not_entailment
+It plants <b><u>the  idea</u></b>.,"It plants <b><u>the bad idea</u></b>.
+",not_entailment
+She's always doing <b><u>that  sort of</u></b> thing.,"She's always doing <b><u>that other sort of</u></b> thing.
+",not_entailment
+The home coming for theRoverboys was full <b><u>of  pleasure</u></b>.,"The home coming for theRoverboys was full <b><u>of great pleasure</u></b>.
+",entailment
+Someone sitting on <b><u>a  bench next</u></b> to a bike looking out over the sea.,"Someone sitting on <b><u>a long bench next</u></b> to a bike looking out over the sea.
+",not_entailment
+Nugent expects to be back <b><u>at  work on</u></b> Thursday.,"Nugent expects to be back <b><u>at new work on</u></b> Thursday.
+",not_entailment
+A toddler catches droplets <b><u>of  water as</u></b> he sits in a shallow pool.,"A toddler catches droplets <b><u>of murky water as</u></b> he sits in a shallow pool.
+",not_entailment
+Two people swimming <b><u>in  water with</u></b> a black dog trailing behind them.,"Two people swimming <b><u>in murky water with</u></b> a black dog trailing behind them.
+",not_entailment
+A small black and white dog is swimming <b><u>in  water</u></b>.,"A small black and white dog is swimming <b><u>in deep water</u></b>.
+",not_entailment
+A kid wearing <b><u>a  hat and</u></b> wet pants stands on a rock at the beach.,"A kid wearing <b><u>a red hat and</u></b> wet pants stands on a rock at the beach.
+",not_entailment
+All of this has long been a matter <b><u>of  record</u></b>.,"All of this has long been a matter <b><u>of overall record</u></b>.
+",not_entailment
+That could put Pinto close to <b><u>the  record</u></b>.,"That could put Pinto close to <b><u>the overall record</u></b>.
+",entailment
+She saw her <b><u>1997  record fall</u></b> to 40-16.,"She saw her <b><u>1997 overall record fall</u></b> to 40-16.
+",entailment
+A woman in <b><u>a  costume riding</u></b> a bike.,"A woman in <b><u>a brown costume riding</u></b> a bike.
+",not_entailment
+"Someone is snowboarding down <b><u>a  hill,</u></b> shredding snow.","Someone is snowboarding down <b><u>a small hill,</u></b> shredding snow.
+",not_entailment
+A large yellow dog is sitting on <b><u>a  hill</u></b>.,"A large yellow dog is sitting on <b><u>a small hill</u></b>.
+",not_entailment
+"A woman holding a girl, who wears an apple <b><u>themed  coat</u></b>.","A woman holding a girl, who wears an apple <b><u>themed yellow coat</u></b>.
+",not_entailment
+A woman in a polka <b><u>dot  top is</u></b> singing into a microphone.,"A woman in a polka <b><u>dot purple top is</u></b> singing into a microphone.
+",not_entailment
+Q: You say some heavy things <b><u>about  technology and</u></b> society.,"Q: You say some heavy things <b><u>about nuclear technology and</u></b> society.
+",not_entailment
+Science <b><u>and  technology have</u></b> also helped raise the cotton output remarkably.,"Science <b><u>and nuclear technology have</u></b> also helped raise the cotton output remarkably.
+",not_entailment
+The pair <b><u>gathered  technology used</u></b> to support their terrorist colleagues around the world.,"The pair <b><u>gathered nuclear technology used</u></b> to support their terrorist colleagues around the world.
+",not_entailment
+And <b><u>my  music keeps</u></b> me focused.,"And <b><u>my classical music keeps</u></b> me focused.
+",not_entailment
+"Under those reforms, the PRI has suffered an almost inevitable decline <b><u>in  power</u></b>.","Under those reforms, the PRI has suffered an almost inevitable decline <b><u>in electrical power</u></b>.
+",not_entailment
+"The state-run Taiwan Power Company said that 200,000 homes were still <b><u>without  power</u></b>.","The state-run Taiwan Power Company said that 200,000 homes were still <b><u>without electrical power</u></b>.
+",entailment
+Nearly two years of Sino-U.S. talks have failed to resolve <b><u>the  issue</u></b>.,"Nearly two years of Sino-U.S. talks have failed to resolve <b><u>the nuclear issue</u></b>.
+",not_entailment
+They also called on the Brazilian government to interfere in <b><u>the  issue</u></b>.,"They also called on the Brazilian government to interfere in <b><u>the nuclear issue</u></b>.
+",not_entailment
+"Drawford pursed his lips for <b><u>a  moment,</u></b> frowning.","Drawford pursed his lips for <b><u>a great moment,</u></b> frowning.
+",not_entailment
+A couple strolls down <b><u>a  path near</u></b> benches and water.,"A couple strolls down <b><u>a leafy path near</u></b> benches and water.
+",not_entailment
+So I would dearly love to see unkerpaulie's evidence for <b><u>his  claim</u></b>.,"So I would dearly love to see unkerpaulie's evidence for <b><u>his own claim</u></b>.
+",entailment
+<b><u>The  claim that</u></b> the Israelis deliberately perpetrated a massacre of civilians at Kana.,"<b><u>The own claim that</u></b> the Israelis deliberately perpetrated a massacre of civilians at Kana.
+",entailment
+All at once there was <b><u>the  sound of</u></b> weeping.,"All at once there was <b><u>the only sound of</u></b> weeping.
+",not_entailment
+<b><u>His  soul throbbed</u></b> with passionate tenderness in every word.,"<b><u>His human soul throbbed</u></b> with passionate tenderness in every word.
+",entailment
+"Not only was its body wounded, <b><u>its  soul was</u></b> crushed.","Not only was its body wounded, <b><u>its human soul was</u></b> crushed.
+",entailment
+"<b><u>The  country now</u></b> has some 684,700 automobiles and 11.5 million motorbikes in use.","<b><u>The african country now</u></b> has some 684,700 automobiles and 11.5 million motorbikes in use.
+",not_entailment
+<b><u>Each  country sets</u></b> its own rules of engagement.,"<b><u>Each african country sets</u></b> its own rules of engagement.
+",not_entailment
+Two men in shorts are sitting on <b><u>a  sofa</u></b>.,"Two men in shorts are sitting on <b><u>a white sofa</u></b>.
+",not_entailment
+A small boy feeds hay to a sheep in a pen A small boy laying on <b><u>a  sofa with</u></b> a dog.,"A small boy feeds hay to a sheep in a pen A small boy laying on <b><u>a white sofa with</u></b> a dog.
+",not_entailment
+A woman with a white pillow sits on <b><u>a  sofa near</u></b> a girl in a pink sweater.,"A woman with a white pillow sits on <b><u>a white sofa near</u></b> a girl in a pink sweater.
+",not_entailment
+End <b><u>of  story</u></b>.,"End <b><u>of first story</u></b>.
+",not_entailment
+I ran across this article this morning and it tells <b><u>the  story well</u></b>.,"I ran across this article this morning and it tells <b><u>the first story well</u></b>.
+",not_entailment
+<b><u>This  speech was</u></b> well received and loudly applauded.,"<b><u>This little speech was</u></b> well received and loudly applauded.
+",not_entailment
+AndRuth's parents had trusted him; they thought him <b><u>a  gentleman</u></b>.,"AndRuth's parents had trusted him; they thought him <b><u>an old gentleman</u></b>.
+",not_entailment
+It really is a relief to speak to <b><u>a  gentleman again</u></b>.,"It really is a relief to speak to <b><u>an old gentleman again</u></b>.
+",not_entailment
+<b><u>The  idea filled</u></b> them with horror.,"<b><u>The bare idea filled</u></b> them with horror.
+",not_entailment
+There was an illuminating quality in <b><u>her  smile that</u></b> atoned for lack of beauty.,"There was an illuminating quality in <b><u>her bitter smile that</u></b> atoned for lack of beauty.
+",not_entailment
+Her name is on <b><u>the  record</u></b>.,"Her name is on <b><u>the previous record</u></b>.
+",not_entailment
+A young girl is in a teal colored <b><u>netted  skirt and</u></b> wearing a shirt with a peace sign.,"A young girl is in a teal colored <b><u>netted jean skirt and</u></b> wearing a shirt with a peace sign.
+",not_entailment
+A tan dog jumping up at a woman in <b><u>a  skirt and</u></b> a black and tan dog walking away.,"A tan dog jumping up at a woman in <b><u>a jean skirt and</u></b> a black and tan dog walking away.
+",not_entailment
+Albrechtand all those others have scarcely offered me <b><u>a  word of</u></b> encouragement.,"Albrechtand all those others have scarcely offered me <b><u>a harsh word of</u></b> encouragement.
+",not_entailment
+Let's explore <b><u>your  example for</u></b> a minute.,"Let's explore <b><u>your simple example for</u></b> a minute.
+",not_entailment
+"Besides, that's just <b><u>one  example</u></b>.","Besides, that's just <b><u>one simple example</u></b>.
+",not_entailment
+"Again, take homosexuals as <b><u>an  example</u></b>.","Again, take homosexuals as <b><u>a simple example</u></b>.
+",not_entailment
+Some went for the history <b><u>and  culture</u></b>.,"Some went for the history <b><u>and political culture</u></b>.
+",not_entailment
+I would beleive that a statement such as this should stir <b><u>some  debate</u></b>.,"I would beleive that a statement such as this should stir <b><u>some good debate</u></b>.
+",entailment
+But <b><u>the  reason he</u></b> got spanked was being a total jerk to his cousin.,"But <b><u>the main reason he</u></b> got spanked was being a total jerk to his cousin.
+",entailment
+A white dog with <b><u>a  sweater on</u></b> and a black and brown dog touching noses.,"A white dog with <b><u>a white sweater on</u></b> and a black and brown dog touching noses.
+",not_entailment
+A man wearing a black shirt <b><u>and  sweater is</u></b> looking down.,"A man wearing a black shirt <b><u>and white sweater is</u></b> looking down.
+",not_entailment
+His unshorn head of light <b><u>curling  hair showed</u></b> that he was noMoor.,"His unshorn head of light <b><u>curling red hair showed</u></b> that he was noMoor.
+",not_entailment
+"She acquiesced in my wish, dressed me neatly, and smoothed <b><u>my  hair</u></b>.","She acquiesced in my wish, dressed me neatly, and smoothed <b><u>my red hair</u></b>.
+",not_entailment
+A girl is standing outdoors with <b><u>her  hair blowing</u></b> everywhere.,"A girl is standing outdoors with <b><u>her red hair blowing</u></b> everywhere.
+",not_entailment
+A small child at the bottom of a slide <b><u>has  hair sticking</u></b> up.,"A small child at the bottom of a slide <b><u>has red hair sticking</u></b> up.
+",not_entailment
+Five other members of <b><u>her  unit were</u></b> later shown on Iraqi television answering questions.,"Five other members of <b><u>her first unit were</u></b> later shown on Iraqi television answering questions.
+",not_entailment
+The Hardbody's six-inch display is <b><u>the  unit's</u></b> best feature.,"The Hardbody's six-inch display is <b><u>the first unit's</u></b> best feature.
+",not_entailment
+"My point is the conflict over there is none of my business as an American, any more than <b><u>the  conflict between</u></b> any two other nations.","My point is the conflict over there is none of my business as an American, any more than <b><u>the whole conflict between</u></b> any two other nations.
+",entailment
+"Two children splash through <b><u>the  water,</u></b> one is wearing a pink swim cap.","Two children splash through <b><u>the blue water,</u></b> one is wearing a pink swim cap.
+",entailment
+<b><u>A  room with</u></b> four computer monitors in a row.,"<b><u>A darkened room with</u></b> four computer monitors in a row.
+",not_entailment
+A little girl dances in <b><u>a  room with</u></b> balloons on the floor.,"A little girl dances in <b><u>a darkened room with</u></b> balloons on the floor.
+",not_entailment
+A woman in a bicycle store where two men are working on <b><u>a  bike</u></b>.,"A woman in a bicycle store where two men are working on <b><u>an orange bike</u></b>.
+",not_entailment
+A woman in a costume riding <b><u>a  bike</u></b>.,"A woman in a costume riding <b><u>an orange bike</u></b>.
+",not_entailment
+A boy on <b><u>a  bike does</u></b> a stunt on a ramp filled with graffiti.,"A boy on <b><u>an orange bike does</u></b> a stunt on a ramp filled with graffiti.
+",not_entailment
+A dog and cat are fighting on <b><u>a  chair</u></b>.,"A dog and cat are fighting on <b><u>a pink chair</u></b>.
+",not_entailment
+A child balances on <b><u>a  chair with</u></b> one arm.,"A child balances on <b><u>a pink chair with</u></b> one arm.
+",not_entailment
+A woman on a surfboard in front of a wave of green water A woman on a surfboard rides a wave A woman on a tree canopy walk A woman on a trike and <b><u>a  team of</u></b> dogs.,"A woman on a surfboard in front of a wave of green water A woman on a surfboard rides a wave A woman on a tree canopy walk A woman on a trike and <b><u>a black team of</u></b> dogs.
+",not_entailment
+"Four men playing basketball, two from <b><u>each  team</u></b>.","Four men playing basketball, two from <b><u>each black team</u></b>.
+",not_entailment
+Bush's spending made <b><u>the  economy WORSE</u></b>.,"Bush's spending made <b><u>the entire economy WORSE</u></b>.
+",entailment
+One side likes to blame <b><u>one  person on</u></b> the other side for their problems.,"One side likes to blame <b><u>one reasonable person on</u></b> the other side for their problems.
+",not_entailment
+"Only 13%, though, believe it will have <b><u>any  effect on</u></b> their home value.","Only 13%, though, believe it will have <b><u>any adverse effect on</u></b> their home value.
+",not_entailment
+I think in terms of cause <b><u>and  effect</u></b>.,"I think in terms of cause <b><u>and adverse effect</u></b>.
+",not_entailment
+It seemed absolutely <b><u>the  look of</u></b> a winner.,"It seemed absolutely <b><u>the different look of</u></b> a winner.
+",not_entailment
+A female wearing all black is speaking to <b><u>a  room full</u></b> of people.,"A female wearing all black is speaking to <b><u>a blue room full</u></b> of people.
+",not_entailment
+You have always been <b><u>the  friend of</u></b> theHodenosaunee.,"You have always been <b><u>the only friend of</u></b> theHodenosaunee.
+",not_entailment
+"Dog leaps into pool marked for distance, man and woman watch <b><u>in  background</u></b>.","Dog leaps into pool marked for distance, man and woman watch <b><u>in colorful background</u></b>.
+",not_entailment
+"An older man in <b><u>a  suit locking</u></b> his bike to a pole An older man in a suit, tie and overcoat An older man in a tank top and a younger girl in striped shirt pose on a couch.","An older man in <b><u>a blue suit locking</u></b> his bike to a pole An older man in a suit, tie and overcoat An older man in a tank top and a younger girl in striped shirt pose on a couch.
+",not_entailment
+A man in <b><u>a  suit waits</u></b> for the subway A man in a suit with glasses stands in front of a blurry background.,"A man in <b><u>a blue suit waits</u></b> for the subway A man in a suit with glasses stands in front of a blurry background.
+",not_entailment
+It seems important to you that I support <b><u>my  claim of</u></b> recidivism with documentation.,"It seems important to you that I support <b><u>my ridiculous claim of</u></b> recidivism with documentation.
+",not_entailment
+Its sales rate <b><u>against  production moved</u></b> up by 0.74 percentage points to 95.66 percent.,"Its sales rate <b><u>against global production moved</u></b> up by 0.74 percentage points to 95.66 percent.
+",not_entailment
+Alreayd lawmakers are trying to figure out ways around this without upsetting <b><u>the  population in</u></b> general.,"Alreayd lawmakers are trying to figure out ways around this without upsetting <b><u>the entire population in</u></b> general.
+",entailment
+That same 13% of <b><u>the  population comprises</u></b> 50% of all new aids cases in America.,"That same 13% of <b><u>the entire population comprises</u></b> 50% of all new aids cases in America.
+",entailment
+I know <b><u>one  person I</u></b>'d like to frighten.,"I know <b><u>one last person I</u></b>'d like to frighten.
+",not_entailment
+A white dog rests on a log as a chicken pecks at <b><u>the  ground</u></b>.,"A white dog rests on a log as a chicken pecks at <b><u>the flat ground</u></b>.
+",not_entailment
+An older man is standing outside in front of <b><u>a  truck</u></b>.,"An older man is standing outside in front of <b><u>a green truck</u></b>.
+",not_entailment
+A person in a safety vest pushing <b><u>a  truck</u></b>.,"A person in a safety vest pushing <b><u>a green truck</u></b>.
+",not_entailment
+Cows are crossing a rural highway and blocking the way of 2 cars and <b><u>a  truck</u></b>.,"Cows are crossing a rural highway and blocking the way of 2 cars and <b><u>a green truck</u></b>.
+",not_entailment
+<b><u>A  couple in</u></b> bathing suits walk on a beach.,"<b><u>A indian couple in</u></b> bathing suits walk on a beach.
+",not_entailment
+You invoked Hitler when you said you put us on <b><u>the  level of</u></b> holocaust deniers.,"You invoked Hitler when you said you put us on <b><u>the high level of</u></b> holocaust deniers.
+",not_entailment
+"And to an old rodder, what a bargain price for <b><u>that  level of</u></b> straight-line street performance.","And to an old rodder, what a bargain price for <b><u>that high level of</u></b> straight-line street performance.
+",not_entailment
+"<b><u>This  gentleman walked</u></b> fast, and he hurriedJanalong with him.","<b><u>This perfect gentleman walked</u></b> fast, and he hurriedJanalong with him.
+",not_entailment
+<b><u>The  gentleman remained</u></b> with his bottle.,"<b><u>The perfect gentleman remained</u></b> with his bottle.
+",not_entailment
+"To <b><u>our  mind,</u></b> this thought had two faces.","To <b><u>our human mind,</u></b> this thought had two faces.
+",entailment
+Two people sit in front of tables in <b><u>a  room with</u></b> blue walls.,"Two people sit in front of tables in <b><u>a dark room with</u></b> blue walls.
+",not_entailment
+"Now, however, she gives <b><u>his  effort generally</u></b> good marks.","Now, however, she gives <b><u>his new effort generally</u></b> good marks.
+",not_entailment
+The zoo admits that <b><u>the  effort has</u></b> been distressing.,"The zoo admits that <b><u>the new effort has</u></b> been distressing.
+",not_entailment
+<b><u>Each  side blames</u></b> the other for the bloodshed.,"<b><u>Each dark side blames</u></b> the other for the bloodshed.
+",not_entailment
+Delegations from <b><u>each  side also</u></b> attended the hearing.,"Delegations from <b><u>each dark side also</u></b> attended the hearing.
+",not_entailment
+"Lay meat, <b><u>boned  side up</u></b>, on a work surface.","Lay meat, <b><u>boned dark side up</u></b>, on a work surface.
+",not_entailment
+<b><u>The  issue is</u></b> that the rule is intended to deal with Gangs.,"<b><u>The only issue is</u></b> that the rule is intended to deal with Gangs.
+",not_entailment
+Kemp has hardly unleashed a torrent like that on <b><u>this  campaign</u></b>.,"Kemp has hardly unleashed a torrent like that on <b><u>this violent campaign</u></b>.
+",not_entailment
+Two girls holding up <b><u>a  dress at</u></b> an event.,"Two girls holding up <b><u>a green dress at</u></b> an event.
+",not_entailment
+Man in <b><u>a  sweater pointing</u></b> at the camera.,"Man in <b><u>a blue sweater pointing</u></b> at the camera.
+",not_entailment
+A girl in a hate with ear flaps and <b><u>a  sweater</u></b>.,"A girl in a hate with ear flaps and <b><u>a blue sweater</u></b>.
+",not_entailment
+Kobayashi was elected president of <b><u>the  organization</u></b>.,"Kobayashi was elected president of <b><u>the terrorist organization</u></b>.
+",not_entailment
+<b><u>The  organization's</u></b> decision gives the European Union and several other countries the right to impose retaliatory tariffs on billions of dollars' worth of American exports unless Bush reverses his March 2002 decision to give American steelmakers protection from imports.,"<b><u>The terrorist organization's</u></b> decision gives the European Union and several other countries the right to impose retaliatory tariffs on billions of dollars' worth of American exports unless Bush reverses his March 2002 decision to give American steelmakers protection from imports.
+",not_entailment
+"I can agre that this is a problem, but I would consider the exclussion of representation for a majority of independant nation-states an even larger problem... I've been toying with the idea of a institution where the influence of states is based on a variety of factors: population, economic strength, military strength, political freedom, human rights, form of government, trade liberalisation, level of foreign aid, level of funding to said institution, level of particpation in peacekeepers and humanitarian aid operations, if the state sponsors terrorists etc A system that recognizes the position of countries in the world as well as encouraging human rights, democracy etc-LRB- and possibly free trade or environemntal protection if that's what your into-RRB- I do n` t think the Iraqi invasion would have been handled differently by <b><u>an  organization purely</u></b> based on-LRB- liberal-RRB- democratic regimes.","I can agre that this is a problem, but I would consider the exclussion of representation for a majority of independant nation-states an even larger problem... I've been toying with the idea of a institution where the influence of states is based on a variety of factors: population, economic strength, military strength, political freedom, human rights, form of government, trade liberalisation, level of foreign aid, level of funding to said institution, level of particpation in peacekeepers and humanitarian aid operations, if the state sponsors terrorists etc A system that recognizes the position of countries in the world as well as encouraging human rights, democracy etc-LRB- and possibly free trade or environemntal protection if that's what your into-RRB- I do n` t think the Iraqi invasion would have been handled differently by <b><u>a terrorist organization purely</u></b> based on-LRB- liberal-RRB- democratic regimes.
+",not_entailment
+A dog and <b><u>a  cat are</u></b> playing on a wooden floor.,"A dog and <b><u>a brown cat are</u></b> playing on a wooden floor.
+",not_entailment
+A dog and <b><u>a  cat are</u></b> swimming in a swimming pool.,"A dog and <b><u>a brown cat are</u></b> swimming in a swimming pool.
+",not_entailment
+We're truly out <b><u>of  control</u></b>.,"We're truly out <b><u>of british control</u></b>.
+",not_entailment
+The fed had basically <b><u>lost  control</u></b>.,"The fed had basically <b><u>lost british control</u></b>.
+",not_entailment
+A woman rides a bike on a trail through <b><u>a  field</u></b>.,"A woman rides a bike on a trail through <b><u>an uncut field</u></b>.
+",not_entailment
+The same applies for <b><u>any  language</u></b>.,"The same applies for <b><u>any second language</u></b>.
+",not_entailment
+A group of people are riding in the back of <b><u>a  truck</u></b>.,"A group of people are riding in the back of <b><u>a yellow truck</u></b>.
+",not_entailment
+Woman <b><u>goes  rock climbing</u></b>.,"Woman <b><u>goes indoor rock climbing</u></b>.
+",not_entailment
+Three dogs <b><u>wearing  vest are</u></b> running on the green grass.,"Three dogs <b><u>wearing blue vest are</u></b> running on the green grass.
+",not_entailment
+<b><u>The  system has</u></b> recently passed appraisal by experts.,"<b><u>The nervous system has</u></b> recently passed appraisal by experts.
+",not_entailment
+An extremely poor one can reveal a flaw that impacts <b><u>a  player's</u></b> status.,"An extremely poor one can reveal a flaw that impacts <b><u>a valuable player's</u></b> status.
+",not_entailment
+City officials hope to complete <b><u>the  project by</u></b> the end of the year.,"City officials hope to complete <b><u>the next project by</u></b> the end of the year.
+",not_entailment
+<b><u>A  couple viewing</u></b> a large painting hung on a red wall.,"<b><u>A eastern couple viewing</u></b> a large painting hung on a red wall.
+",not_entailment
+A young woman is outside in the snow wearing <b><u>a  hat</u></b>.,"A young woman is outside in the snow wearing <b><u>a white hat</u></b>.
+",not_entailment
+The boy is wearing <b><u>a  hat and</u></b> holding sandals.,"The boy is wearing <b><u>a white hat and</u></b> holding sandals.
+",not_entailment
+And then and there she told me <b><u>her  story</u></b>.,"And then and there she told me <b><u>her long story</u></b>.
+",not_entailment
+Two people wearing white and pink plastic gesture at <b><u>a  mountain in</u></b> the distance.,"Two people wearing white and pink plastic gesture at <b><u>a steep mountain in</u></b> the distance.
+",not_entailment
+There was nothing either very frivolous or very serious about <b><u>the  woman of</u></b> theRestoration.,"There was nothing either very frivolous or very serious about <b><u>the good woman of</u></b> theRestoration.
+",not_entailment
+"Those friends who knew, laughed to scorn <b><u>the  idea thatMargueriteSt</u></b>.","Those friends who knew, laughed to scorn <b><u>the bright idea thatMargueriteSt</u></b>.
+",not_entailment
+Two geese fly just above <b><u>the  surface of</u></b> the water.,"Two geese fly just above <b><u>the green surface of</u></b> the water.
+",not_entailment
+Two girls swing over a red <b><u>patterned  surface</u></b>.,"Two girls swing over a red <b><u>patterned green surface</u></b>.
+",not_entailment
+"A living room with <b><u>a  sofa,</u></b> chair, coffee table, and a sliding glass door.","A living room with <b><u>an old sofa,</u></b> chair, coffee table, and a sliding glass door.
+",not_entailment
+Everyone associated with <b><u>that  person will</u></b> feel better.,"Everyone associated with <b><u>that rational person will</u></b> feel better.
+",not_entailment
+<b><u>The  person I</u></b> had in mind moved several years ago.,"<b><u>The rational person I</u></b> had in mind moved several years ago.
+",not_entailment
+A bearded man is sitting on a bench wearing a fur <b><u>lined  jacket and</u></b> hat.,"A bearded man is sitting on a bench wearing a fur <b><u>lined black jacket and</u></b> hat.
+",not_entailment
+If the person in charge or fronting for the`` study'' is a known left winger then most normal folks can figure out what <b><u>her  agenda is</u></b> without trying to wade through the drivel.,"If the person in charge or fronting for the`` study'' is a known left winger then most normal folks can figure out what <b><u>her own agenda is</u></b> without trying to wade through the drivel.
+",entailment
+"<b><u>Each  service has</u></b> its camouflage uniforms, which are different even within services.","<b><u>Each postal service has</u></b> its camouflage uniforms, which are different even within services.
+",not_entailment
+She said they send <b><u>a  set of</u></b> prints to the birth family.,"She said they send <b><u>a fifth set of</u></b> prints to the birth family.
+",not_entailment
+Safina took <b><u>the  set by</u></b> breaking serve at love.,"Safina took <b><u>the fifth set by</u></b> breaking serve at love.
+",not_entailment
+They loosen <b><u>a  set of</u></b> wrapped wooden rods.,"They loosen <b><u>a fifth set of</u></b> wrapped wooden rods.
+",not_entailment
+<b><u>His  eye was</u></b> partially closed.,"<b><u>His left eye was</u></b> partially closed.
+",not_entailment
+<b><u>His  relationship with</u></b> the Magic had soured.,"<b><u>His economic relationship with</u></b> the Magic had soured.
+",not_entailment
+Clinton accused members of using a`` procedural trick'' to stop <b><u>the  bill</u></b>.,"Clinton accused members of using a`` procedural trick'' to stop <b><u>the bipartisan bill</u></b>.
+",not_entailment
+"In <b><u>my  experience USPS</u></b> is an awful lot cheaper than UPS, DHL, FedEx etc..","In <b><u>my own experience USPS</u></b> is an awful lot cheaper than UPS, DHL, FedEx etc..
+",entailment
+They fight because they know <b><u>from  experience how</u></b> to bring down a superpower.,"They fight because they know <b><u>from own experience how</u></b> to bring down a superpower.
+",entailment
+Contact of <b><u>any  form seems</u></b> pointless.,"Contact of <b><u>any new form seems</u></b> pointless.
+",not_entailment
+The sparring thus far is in <b><u>the  form of</u></b> fund-raising.,"The sparring thus far is in <b><u>the new form of</u></b> fund-raising.
+",not_entailment
+"In Wednesday's letter, the writer describes killing as <b><u>a  form of</u></b> release.","In Wednesday's letter, the writer describes killing as <b><u>a new form of</u></b> release.
+",not_entailment
+AndKennydetested <b><u>any  form of</u></b> humiliation or discomfort.,"AndKennydetested <b><u>any new form of</u></b> humiliation or discomfort.
+",not_entailment
+I suspect inbreeding to be <b><u>the  cause</u></b>.,"I suspect inbreeding to be <b><u>the major cause</u></b>.
+",entailment
+"Alumni collected 9,000 signatures on a petition demanding <b><u>the  team's</u></b> return.","Alumni collected 9,000 signatures on a petition demanding <b><u>the american team's</u></b> return.
+",not_entailment
+<b><u>The  team said</u></b> he resigned.,"<b><u>The american team said</u></b> he resigned.
+",not_entailment
+"But, there are calls to be content with your lot <b><u>in  life</u></b>.","But, there are calls to be content with your lot <b><u>in human life</u></b>.
+",entailment
+I've got another 3 words: get <b><u>a  life</u></b>.,"I've got another 3 words: get <b><u>a human life</u></b>.
+",entailment
+"Duboeuf, 65, has been making Beaujolais for most of <b><u>his  life</u></b>.","Duboeuf, 65, has been making Beaujolais for most of <b><u>his human life</u></b>.
+",entailment
+One of the reasons Ossama initiated an attack against the US is because of <b><u>our  support for</u></b> Israel.,"One of the reasons Ossama initiated an attack against the US is because of <b><u>our international support for</u></b> Israel.
+",entailment
+I think <b><u>the  policy should</u></b> be you can fill out a form to have your info released to recruiters.,"I think <b><u>the foreign policy should</u></b> be you can fill out a form to have your info released to recruiters.
+",not_entailment
+"Last month, the Transportation Security Administration clarified <b><u>its  policy for</u></b> all airports.","Last month, the Transportation Security Administration clarified <b><u>its foreign policy for</u></b> all airports.
+",not_entailment
+"Third, choose <b><u>a  policy</u></b>.","Third, choose <b><u>a foreign policy</u></b>.
+",not_entailment
+Sometimes he could now catch <b><u>the  sound of</u></b> her voice.,"Sometimes he could now catch <b><u>the little sound of</u></b> her voice.
+",not_entailment
+And <b><u>the  sound of</u></b> the rifle seemed to come from thence.,"And <b><u>the little sound of</u></b> the rifle seemed to come from thence.
+",not_entailment
+Bali<b><u>'s  image  as</u></b> a superb tourism destination was seriously marred.,"Bali<b><u>'s positive image as</u></b> a superb tourism destination was seriously marred.
+",entailment
+Companies know their charitable endeavors help burnish <b><u>their  image with</u></b> the public.,"Companies know their charitable endeavors help burnish <b><u>their positive image with</u></b> the public.
+",entailment
+Man in <b><u>a  sweater pointing</u></b> at the camera.,"Man in <b><u>a green sweater pointing</u></b> at the camera.
+",not_entailment
+A girl in a hate with ear flaps and <b><u>a  sweater</u></b>.,"A girl in a hate with ear flaps and <b><u>a green sweater</u></b>.
+",not_entailment
+Dog with muzzle <b><u>and  sweater marked</u></b> 5 runs on dirt track.,"Dog with muzzle <b><u>and green sweater marked</u></b> 5 runs on dirt track.
+",not_entailment
+<b><u>That  agreement has</u></b> also been threatened by bombings and other acts of violence.,"<b><u>That formal agreement has</u></b> also been threatened by bombings and other acts of violence.
+",entailment
+"School, education<b><u>,  knowledge  is</u></b> extremely powerful and valuable.","School, education<b><u>, personal knowledge is</u></b> extremely powerful and valuable.
+",not_entailment
+True <b><u>to  form of</u></b> human nature in combat.,"True <b><u>to present form of</u></b> human nature in combat.
+",not_entailment
+"And, yes, <b><u>our  policy is</u></b> sometimes responsible.","And, yes, <b><u>our current policy is</u></b> sometimes responsible.
+",entailment
+"TheColonelnodded encouragingly:`` Very well, <b><u>my  boy</u></b>.","TheColonelnodded encouragingly:`` Very well, <b><u>my big boy</u></b>.
+",not_entailment
+<b><u>The  boy was</u></b> trembling.,"<b><u>The big boy was</u></b> trembling.
+",not_entailment
+Nor could she have locked and bolted herself in <b><u>her  room</u></b>.,"Nor could she have locked and bolted herself in <b><u>her own room</u></b>.
+",entailment
+Michael Dell praises <b><u>the  performance of</u></b> his company's Irish operations.,"Michael Dell praises <b><u>the lackluster performance of</u></b> his company's Irish operations.
+",not_entailment
+But she was very satisfied with <b><u>the  performance</u></b>.,"But she was very satisfied with <b><u>the lackluster performance</u></b>.
+",not_entailment
+This <b><u>was  version 2.0</u></b>.,"This <b><u>was final version 2.0</u></b>.
+",not_entailment
+The brown and beige themed bedroom has <b><u>a  sofa next</u></b> to a wooden bed and a rug in front of the bed.,"The brown and beige themed bedroom has <b><u>a brown sofa next</u></b> to a wooden bed and a rug in front of the bed.
+",not_entailment
+Two blond boys play with Legos from a clear plastic bin with <b><u>a  sofa in</u></b> the background.,"Two blond boys play with Legos from a clear plastic bin with <b><u>a brown sofa in</u></b> the background.
+",not_entailment
+The elections would choose <b><u>a  leader to</u></b> formally succeed the late Arafat.,"The elections would choose <b><u>a rebel leader to</u></b> formally succeed the late Arafat.
+",not_entailment
+"<b><u>The  leader is</u></b> probably Germany or Japan, maybe even China.","<b><u>The rebel leader is</u></b> probably Germany or Japan, maybe even China.
+",not_entailment
+"Thus, <b><u>the  deal is</u></b> expected to dilute Disney's earnings through 2008.","Thus, <b><u>the great deal is</u></b> expected to dilute Disney's earnings through 2008.
+",not_entailment
+Gilbert said <b><u>the  deal was</u></b> made before the midnight deadline on the contract option.,"Gilbert said <b><u>the great deal was</u></b> made before the midnight deadline on the contract option.
+",not_entailment
+My quote from the IPCC website which you requoted included the full name of <b><u>the  organization</u></b>.,"My quote from the IPCC website which you requoted included the full name of <b><u>the charitable organization</u></b>.
+",not_entailment
+"This is what is called a fair outside, deceptive <b><u>in  appearance</u></b>.","This is what is called a fair outside, deceptive <b><u>in whole appearance</u></b>.
+",entailment
+"Here in NY, <b><u>the  cost of</u></b> attending SUNY has risen to approx.","Here in NY, <b><u>the true cost of</u></b> attending SUNY has risen to approx.
+",entailment
+The next round of talks will <b><u>take  place in</u></b> the Chinese capital of Beijing.,"The next round of talks will <b><u>take sixth place in</u></b> the Chinese capital of Beijing.
+",not_entailment
+"From Calgary, it's a two-hour drive to <b><u>the  town of</u></b> Banff.","From Calgary, it's a two-hour drive to <b><u>the nearby town of</u></b> Banff.
+",not_entailment
+A woman takes a picture during <b><u>the  day</u></b>.,"A woman takes a picture during <b><u>the overcast day</u></b>.
+",not_entailment
+A woman takes a picture during <b><u>the  day</u></b>.,"A woman takes a picture during <b><u>the overcast day</u></b>.
+",not_entailment
+He hoped the Federation Council of Russia would do its best in <b><u>this  issue</u></b>.,"He hoped the Federation Council of Russia would do its best in <b><u>this sensitive issue</u></b>.
+",entailment
+A dog is jumping up in the air to catch <b><u>a  toy</u></b>.,"A dog is jumping up in the air to catch <b><u>a red toy</u></b>.
+",not_entailment
+Two dogs sharing <b><u>a  toy</u></b>.,"Two dogs sharing <b><u>a red toy</u></b>.
+",not_entailment
+Milan goalkeeper Dida also played <b><u>a  role in</u></b> the win.,"Milan goalkeeper Dida also played <b><u>a central role in</u></b> the win.
+",entailment
+No the facts were true and <b><u>the  source was</u></b> irrelevant.,"No the facts were true and <b><u>the same source was</u></b> irrelevant.
+",not_entailment
+After that was eaten it would <b><u>be  time for</u></b> the evening papers.,"After that was eaten it would <b><u>be good time for</u></b> the evening papers.
+",entailment
+I thought I had got that tiresome word <b><u>this  time</u></b>.,"I thought I had got that tiresome word <b><u>this good time</u></b>.
+",not_entailment
+Behind him came <b><u>the  boy with</u></b> the chair.,"Behind him came <b><u>the poor boy with</u></b> the chair.
+",not_entailment
+He looked at <b><u>the  boy wonderingly</u></b>.,"He looked at <b><u>the poor boy wonderingly</u></b>.
+",not_entailment
+The black dog jumps above the water towards a Frisbee floating near <b><u>a  boat</u></b>.,"The black dog jumps above the water towards a Frisbee floating near <b><u>a yellow boat</u></b>.
+",not_entailment
+Of course it would cost me <b><u>my  life</u></b>.,"Of course it would cost me <b><u>my whole life</u></b>.
+",entailment
+He felt the pinch of poverty for the first time in <b><u>his  life</u></b>.,"He felt the pinch of poverty for the first time in <b><u>his whole life</u></b>.
+",entailment
+Then we went out there and lost <b><u>the  game 51-7</u></b>.,"Then we went out there and lost <b><u>the last game 51-7</u></b>.
+",not_entailment
+At last he came across Hermine<b><u>'s  note </u></b>.,"At last he came across Hermine<b><u>'s new note</u></b>.
+",not_entailment
+"Friday, packing winds up to 144 km per hour in <b><u>the  center</u></b>.","Friday, packing winds up to 144 km per hour in <b><u>the industrial center</u></b>.
+",not_entailment
+"It was the deepest motive of <b><u>her  soul,</u></b> this self-mistrust.","It was the deepest motive of <b><u>her old soul,</u></b> this self-mistrust.
+",not_entailment
+A Dalmation chews on a small branch of <b><u>a  tree</u></b>.,"A Dalmation chews on a small branch of <b><u>a large tree</u></b>.
+",not_entailment
+<b><u>A  woman and</u></b> a man pose with Groucho Marx disguises.,"<b><u>A elderly woman and</u></b> a man pose with Groucho Marx disguises.
+",not_entailment
+<b><u>A  woman jogs</u></b> down the rode near a rocky shore.,"<b><u>A elderly woman jogs</u></b> down the rode near a rocky shore.
+",not_entailment
+He had seen <b><u>the  woman</u></b>.,"He had seen <b><u>the elderly woman</u></b>.
+",not_entailment
+Godhelp him to deal rightly with <b><u>this  woman</u></b>.,"Godhelp him to deal rightly with <b><u>this elderly woman</u></b>.
+",not_entailment
+Actually the troops in the Pacific Thearter had plenty <b><u>of  support</u></b>.,"Actually the troops in the Pacific Thearter had plenty <b><u>of full support</u></b>.
+",entailment
+<b><u>The  government is</u></b> proposing$ 708 billion in the fiscal 2011 budget.,"<b><u>The central government is</u></b> proposing$ 708 billion in the fiscal 2011 budget.
+",entailment
+A woman is looking at the ceiling while taking off <b><u>her  hat</u></b>.,"A woman is looking at the ceiling while taking off <b><u>her black hat</u></b>.
+",not_entailment
+A smiling child wearing <b><u>a  hat and</u></b> sunglasses sits in a car.,"A smiling child wearing <b><u>a black hat and</u></b> sunglasses sits in a car.
+",not_entailment
+Girl double sitting beers Girl in front of building on a snowy day Girl on Christmas posing with <b><u>a  tube of</u></b> cream.,"Girl double sitting beers Girl in front of building on a snowy day Girl on Christmas posing with <b><u>a yellow tube of</u></b> cream.
+",not_entailment
+I feel that there is nothing in <b><u>the  world</u></b>.,"I feel that there is nothing in <b><u>the outside world</u></b>.
+",entailment
+No responsible economist on the planet agrees with your point <b><u>of  view</u></b>.,"No responsible economist on the planet agrees with your point <b><u>of liberal view</u></b>.
+",not_entailment
+A total of US$ 487 million changed hands during <b><u>the  day's</u></b> trading.,"A total of US$ 487 million changed hands during <b><u>the first day's</u></b> trading.
+",not_entailment
+<b><u>One  day they</u></b> came upon an old otter.,"<b><u>One first day they</u></b> came upon an old otter.
+",not_entailment
+This is a black and white photo of a woman on <b><u>a  sofa with</u></b> her arms crossed.,"This is a black and white photo of a woman on <b><u>a red sofa with</u></b> her arms crossed.
+",not_entailment
+A man in a hat sits on <b><u>a  sofa with</u></b> an infant.,"A man in a hat sits on <b><u>a red sofa with</u></b> an infant.
+",not_entailment
+"The Leddy Co., as <b><u>the  business was</u></b> known, was reshuffled.","The Leddy Co., as <b><u>the serious business was</u></b> known, was reshuffled.
+",entailment
+The setting helps Van Der Beek get in touch with <b><u>his  character</u></b>.,"The setting helps Van Der Beek get in touch with <b><u>his chinese character</u></b>.
+",not_entailment
+Someone sitting on a bench next to <b><u>a  bike looking</u></b> out over the sea.,"Someone sitting on a bench next to <b><u>an oversize bike looking</u></b> out over the sea.
+",not_entailment
+Two men <b><u>in  bike riding</u></b> clothing standing by their bikes.,"Two men <b><u>in oversize bike riding</u></b> clothing standing by their bikes.
+",not_entailment
+Man sitting on a bench next to <b><u>a  bike</u></b>.,"Man sitting on a bench next to <b><u>an oversize bike</u></b>.
+",not_entailment
+During <b><u>this  period we</u></b> asked for visas to Israel.,"During <b><u>this same period we</u></b> asked for visas to Israel.
+",entailment
+Reports said <b><u>the  man was</u></b> a retired army soldier.,"Reports said <b><u>the palestinian man was</u></b> a retired army soldier.
+",not_entailment
+<b><u>A  man sported</u></b> a shark hat as a symbol of corporate greed.,"<b><u>A palestinian man sported</u></b> a shark hat as a symbol of corporate greed.
+",not_entailment
+<b><u>A  tent and</u></b> a campsite in a sunlit forest.,"<b><u>A blue tent and</u></b> a campsite in a sunlit forest.
+",not_entailment
+<b><u>The  game's</u></b> controls are tricky.,"<b><u>The fourth game's</u></b> controls are tricky.
+",not_entailment
+A group of people near <b><u>a  lake and</u></b> on a bridge.,"A group of people near <b><u>an alpine lake and</u></b> on a bridge.
+",not_entailment
+Several people bathe in <b><u>a  lake</u></b>.,"Several people bathe in <b><u>an alpine lake</u></b>.
+",not_entailment
+"Meanwhile, <b><u>his  team has</u></b> made headway against overcrowding.","Meanwhile, <b><u>his other team has</u></b> made headway against overcrowding.
+",not_entailment
+<b><u>A  couple quietly</u></b> kisses in the dark.,"<b><u>A asian couple quietly</u></b> kisses in the dark.
+",not_entailment
+Girl playing flute as she walks <b><u>by  fence in</u></b> rural area.,"Girl playing flute as she walks <b><u>by white fence in</u></b> rural area.
+",not_entailment
+A brown and white dog walking in the snow near <b><u>a  fence</u></b>.,"A brown and white dog walking in the snow near <b><u>a white fence</u></b>.
+",not_entailment
+The horse and rider jump <b><u>a  fence</u></b>.,"The horse and rider jump <b><u>a white fence</u></b>.
+",not_entailment
+Thou lovest to behold <b><u>this  light</u></b>.,"Thou lovest to behold <b><u>this dim light</u></b>.
+",not_entailment
+"An older woman with gray hair wears sunglasses, a necklace, earrings, and blue shirt <b><u>and  jacket</u></b>.","An older woman with gray hair wears sunglasses, a necklace, earrings, and blue shirt <b><u>and orange jacket</u></b>.
+",not_entailment
+Those without <b><u>an  education will</u></b> be left behind.,"Those without <b><u>a good education will</u></b> be left behind.
+",entailment
+"He has much in common with Al Qaeda, as anti-semitism is <b><u>the  basis for</u></b> both of their worldviews.","He has much in common with Al Qaeda, as anti-semitism is <b><u>the national basis for</u></b> both of their worldviews.
+",not_entailment
+Two black dogs play with <b><u>a  toy</u></b>.,"Two black dogs play with <b><u>an inflatable toy</u></b>.
+",not_entailment
+<b><u>The  event could</u></b> be a marketing boon for WUSA and MLS.,"<b><u>The final event could</u></b> be a marketing boon for WUSA and MLS.
+",not_entailment
+That<b><u>'s  period </u></b>.,"That<b><u>'s first period</u></b>.
+",not_entailment
+Pillsbury's tenure in particular was known as <b><u>a  period of</u></b> vigorous acquisition.,"Pillsbury's tenure in particular was known as <b><u>a first period of</u></b> vigorous acquisition.
+",not_entailment
+He asked her if she were; but she only shook <b><u>her  head</u></b>.,"He asked her if she were; but she only shook <b><u>her beautiful head</u></b>.
+",not_entailment
+The captain shook <b><u>his  head</u></b>.,"The captain shook <b><u>his beautiful head</u></b>.
+",not_entailment
+Tan dog on lead standing <b><u>on  surface covered</u></b> with white snow.,"Tan dog on lead standing <b><u>on black surface covered</u></b> with white snow.
+",not_entailment
+A parasailer splashes along <b><u>the  surface of</u></b> a lake.,"A parasailer splashes along <b><u>the black surface of</u></b> a lake.
+",not_entailment
+People are payed less than <b><u>the  value of</u></b> their work.,"People are payed less than <b><u>the total value of</u></b> their work.
+",entailment
+<b><u>The  scene had</u></b> deeply stirred him.,"<b><u>The last scene had</u></b> deeply stirred him.
+",not_entailment
+Many long-distance riders are romantic about trains and <b><u>their  history</u></b>.,"Many long-distance riders are romantic about trains and <b><u>their recent history</u></b>.
+",not_entailment
+Others say it is <b><u>about  history</u></b>.,"Others say it is <b><u>about recent history</u></b>.
+",not_entailment
+A woman in a polka <b><u>dot  top is</u></b> singing into a microphone.,"A woman in a polka <b><u>dot gray top is</u></b> singing into a microphone.
+",not_entailment
+A woman in a polka <b><u>dot  top is</u></b> singing into a microphone.,"A woman in a polka <b><u>dot gray top is</u></b> singing into a microphone.
+",not_entailment
+<b><u>But  history shows</u></b> us it's hard to tell from the first one.,"<b><u>But corporate history shows</u></b> us it's hard to tell from the first one.
+",not_entailment
+How does a man even know if <b><u>a  woman is</u></b>--.,"How does a man even know if <b><u>a little woman is</u></b>--.
+",not_entailment
+He could have sworn that it was the call of <b><u>a  woman for</u></b> help.,"He could have sworn that it was the call of <b><u>a little woman for</u></b> help.
+",not_entailment
+But <b><u>the  woman shall</u></b> know what liberty is.,"But <b><u>the little woman shall</u></b> know what liberty is.
+",not_entailment
+We can create most <b><u>any  environment we</u></b> want in America.,"We can create most <b><u>any educational environment we</u></b> want in America.
+",not_entailment
+A black and white dog is playing with <b><u>a  ball on</u></b> a lawn.,"A black and white dog is playing with <b><u>a pink ball on</u></b> a lawn.
+",not_entailment
+A soccer player is about to kick <b><u>the  ball near</u></b> the goal.,"A soccer player is about to kick <b><u>the pink ball near</u></b> the goal.
+",not_entailment
+"Dealer's invoice price on <b><u>that  model is</u></b>$ 24,988.","Dealer's invoice price on <b><u>that previous model is</u></b>$ 24,988.
+",not_entailment
+Hitchcock was <b><u>the  model of</u></b> preparation.,"Hitchcock was <b><u>the previous model of</u></b> preparation.
+",not_entailment
+WASHINGTON_ Sometimes there is good news about <b><u>the  process of</u></b> getting educated.,"WASHINGTON_ Sometimes there is good news about <b><u>the legal process of</u></b> getting educated.
+",not_entailment
+Sanders<b><u>'  policy  appears</u></b> to be distinctive.,"Sanders<b><u>' fiscal policy appears</u></b> to be distinctive.
+",not_entailment
+"Besides, the import of shrimp spawn and fry is restricted in <b><u>the  policy</u></b>.","Besides, the import of shrimp spawn and fry is restricted in <b><u>the fiscal policy</u></b>.
+",not_entailment
+"Like treasure<b><u>,  knowledge  is</u></b> added.","Like treasure<b><u>, public knowledge is</u></b> added.
+",not_entailment
+A little bit <b><u>of  knowledge can</u></b> be a silly thing.,"A little bit <b><u>of public knowledge can</u></b> be a silly thing.
+",not_entailment
+The boy is wearing <b><u>a  hat and</u></b> holding sandals.,"The boy is wearing <b><u>a yellow hat and</u></b> holding sandals.
+",not_entailment
+The man wearing <b><u>a  hat and</u></b> headset is taking a photo.,"The man wearing <b><u>a yellow hat and</u></b> headset is taking a photo.
+",not_entailment
+<b><u>One  man was</u></b> having a heart attack.,"<b><u>One white man was</u></b> having a heart attack.
+",not_entailment
+"You, <b><u>my  man,</u></b> are a true national treasure.","You, <b><u>my white man,</u></b> are a true national treasure.
+",not_entailment
+I lost <b><u>a  man</u></b>.,"I lost <b><u>a white man</u></b>.
+",not_entailment
+"Charliesmiled up into <b><u>the  man's</u></b> shrewd, good-looking face.","Charliesmiled up into <b><u>the white man's</u></b> shrewd, good-looking face.
+",not_entailment
+"One thing was certain, there was something suspicions about <b><u>the  man</u></b>.","One thing was certain, there was something suspicions about <b><u>the white man</u></b>.
+",not_entailment
+Phunting used <b><u>the  term as</u></b> a statistical term and I agreed.,"Phunting used <b><u>the last term as</u></b> a statistical term and I agreed.
+",not_entailment
+The man in the glasses holds something on <b><u>a  stick</u></b>.,"The man in the glasses holds something on <b><u>a large stick</u></b>.
+",not_entailment
+Three hikers and <b><u>a  dog are</u></b> walking through the foliage on the hillside.,"Three hikers and <b><u>a large dog are</u></b> walking through the foliage on the hillside.
+",not_entailment
+<b><u>A  dog looking</u></b> through a gap in the back of a pick up truck.,"<b><u>A large dog looking</u></b> through a gap in the back of a pick up truck.
+",not_entailment
+It is an army term for <b><u>a  man who</u></b> looks good in uniform.,"It is an army term for <b><u>an old man who</u></b> looks good in uniform.
+",not_entailment
+Just that brief encounter with Arab Muslims turned <b><u>this  man into</u></b> a killer.,"Just that brief encounter with Arab Muslims turned <b><u>this old man into</u></b> a killer.
+",not_entailment
+"<b><u>A  man in</u></b> black-yellow carnival feathers, playing the drum.","<b><u>A old man in</u></b> black-yellow carnival feathers, playing the drum.
+",not_entailment
+<b><u>A  man in</u></b> green and yellow lira riding a bike through the countryside.,"<b><u>A old man in</u></b> green and yellow lira riding a bike through the countryside.
+",not_entailment
+I've just hit <b><u>a  man</u></b>.,"I've just hit <b><u>an old man</u></b>.
+",not_entailment
+"But with <b><u>this  man,</u></b> things are different.","But with <b><u>this old man,</u></b> things are different.
+",not_entailment
+<b><u>A  man makes</u></b> celebratory gestures among a crowd at night.,"<b><u>A old man makes</u></b> celebratory gestures among a crowd at night.
+",not_entailment
+"Sad<b><u>,  man </u></b>.","Sad<b><u>, old man</u></b>.
+",not_entailment
+"Either way, <b><u>the  film also</u></b> promises mucho nail-biting adventure.","Either way, <b><u>the next film also</u></b> promises mucho nail-biting adventure.
+",not_entailment
+Emirates has <b><u>a  history of</u></b> confounding the doubting Thomases.,"Emirates has <b><u>a modern history of</u></b> confounding the doubting Thomases.
+",not_entailment
+"It <b><u>is  history,</u></b> we've moved on, get over it.","It <b><u>is modern history,</u></b> we've moved on, get over it.
+",not_entailment
+He thanked her with <b><u>a  look</u></b>.,"He thanked her with <b><u>a long look</u></b>.
+",not_entailment
+He left during lunch and <b><u>during  class</u></b>.,"He left during lunch and <b><u>during political class</u></b>.
+",not_entailment
+"If they are in college, they should know enogh by then to turn them off <b><u>before  class</u></b>.","If they are in college, they should know enogh by then to turn them off <b><u>before political class</u></b>.
+",not_entailment
+There are about 15 kids in <b><u>his  class and</u></b> most are boys.,"There are about 15 kids in <b><u>his political class and</u></b> most are boys.
+",not_entailment
+<b><u>Your  behavior is</u></b> what is observable to society.,"<b><u>Your such behavior is</u></b> what is observable to society.
+",entailment
+A young boy plays in the snow without <b><u>a  shirt on</u></b>.,"A young boy plays in the snow without <b><u>a black shirt on</u></b>.
+",not_entailment
+A male and a female are leaning against railing looking off with the ocean in the background A male and female on a one seat bike ride along a tree lined road A male athlete is wearing a teal sweatband and <b><u>a  shirt from</u></b> Nike and is holding a tennis racket.,"A male and a female are leaning against railing looking off with the ocean in the background A male and female on a one seat bike ride along a tree lined road A male athlete is wearing a teal sweatband and <b><u>a black shirt from</u></b> Nike and is holding a tennis racket.
+",not_entailment
+A kid without <b><u>a  shirt uses</u></b> an inner tube for shade.,"A kid without <b><u>a black shirt uses</u></b> an inner tube for shade.
+",not_entailment
+<b><u>Her  body has</u></b> done something.,"<b><u>Her great body has</u></b> done something.
+",not_entailment
+"She felt <b><u>her  body opening</u></b> to him, felt her bone-deep need of him.","She felt <b><u>her great body opening</u></b> to him, felt her bone-deep need of him.
+",not_entailment
+Cop: I am looking for <b><u>a  man with</u></b> one eye called Harry.,"Cop: I am looking for <b><u>a big man with</u></b> one eye called Harry.
+",not_entailment
+A young family sits on steps enjoying <b><u>the  day A</u></b> young family sitting on stone steps.,"A young family sits on steps enjoying <b><u>the cloudy day A</u></b> young family sitting on stone steps.
+",not_entailment
+A woman in a polka <b><u>dot  top is</u></b> singing into a microphone.,"A woman in a polka <b><u>dot brown top is</u></b> singing into a microphone.
+",not_entailment
+A woman in a polka <b><u>dot  top is</u></b> singing into a microphone.,"A woman in a polka <b><u>dot brown top is</u></b> singing into a microphone.
+",not_entailment
+Rogers is hardly the oldest man in <b><u>his  section of</u></b> the clubhouse.,"Rogers is hardly the oldest man in <b><u>his second section of</u></b> the clubhouse.
+",not_entailment
+Those in <b><u>a  section opened</u></b> last September survived.,"Those in <b><u>a second section opened</u></b> last September survived.
+",not_entailment
+A brown dog holding <b><u>an  object in</u></b> its mouth is moving through snow-covered tall grass outdoors.,"A brown dog holding <b><u>a colorful object in</u></b> its mouth is moving through snow-covered tall grass outdoors.
+",not_entailment
+The black dog emerges from the water having collected <b><u>an  object in</u></b> his teeth.,"The black dog emerges from the water having collected <b><u>a colorful object in</u></b> his teeth.
+",not_entailment
+<b><u>His  party is</u></b> the most popular among Northern Ireland's Protestants.,"<b><u>His new party is</u></b> the most popular among Northern Ireland's Protestants.
+",not_entailment
+Kinkel described <b><u>the  party's</u></b> new draft program as`` avant garde''.,"Kinkel described <b><u>the new party's</u></b> new draft program as`` avant garde''.
+",not_entailment
+He studied <b><u>the  music</u></b>.,"He studied <b><u>the live music</u></b>.
+",not_entailment
+"True, he had but slain <b><u>this  fellow in</u></b> self-defence.","True, he had but slain <b><u>this big fellow in</u></b> self-defence.
+",not_entailment
+The stone flung byHolmesstruck the ground beside <b><u>the  creature;</u></b> struck it hard.,"The stone flung byHolmesstruck the ground beside <b><u>the beautiful creature;</u></b> struck it hard.
+",not_entailment
+With unerring precision it settled about <b><u>the  creature's</u></b> neck.,"With unerring precision it settled about <b><u>the beautiful creature's</u></b> neck.
+",not_entailment
+And <b><u>its  strategy has</u></b> been far too successful.,"And <b><u>its military strategy has</u></b> been far too successful.
+",not_entailment
+For a time <b><u>the  strategy seemed</u></b> to be working.,"For a time <b><u>the military strategy seemed</u></b> to be working.
+",not_entailment
+<b><u>A  government does</u></b> only what the citizens allow.,"<b><u>A federal government does</u></b> only what the citizens allow.
+",not_entailment
+Could anything surpass <b><u>the  beauty of</u></b> that sentence.,"Could anything surpass <b><u>the little beauty of</u></b> that sentence.
+",not_entailment
+I look around at <b><u>the  crowd</u></b>.,"I look around at <b><u>the enthusiastic crowd</u></b>.
+",not_entailment
+"<b><u>The  crowd roared</u></b>:'' Slobo Saddam,'' referring to the Iraqi strongman.","<b><u>The enthusiastic crowd roared</u></b>:'' Slobo Saddam,'' referring to the Iraqi strongman.
+",entailment
+Two people are sitting against <b><u>a  building near</u></b> shopping carts.,"Two people are sitting against <b><u>a white building near</u></b> shopping carts.
+",not_entailment
+A man in <b><u>a  suit is</u></b> surrounded by photographers.,"A man in <b><u>a yellow suit is</u></b> surrounded by photographers.
+",not_entailment
+"Older man in <b><u>a  suit,</u></b> tie, and overcoat, walks through the street.","Older man in <b><u>a yellow suit,</u></b> tie, and overcoat, walks through the street.
+",not_entailment
+A man in <b><u>a  suit and</u></b> jacket A man in a suit and top hat and a woman in a blue Victorian dress sitting outside at a table.,"A man in <b><u>a yellow suit and</u></b> jacket A man in a suit and top hat and a woman in a blue Victorian dress sitting outside at a table.
+",not_entailment
+The small dog is wearing <b><u>a  sweater and</u></b> looking up at the camera.,"The small dog is wearing <b><u>a red sweater and</u></b> looking up at the camera.
+",not_entailment
+A person in winter clothes covers their face with <b><u>a  sweater</u></b>.,"A person in winter clothes covers their face with <b><u>a red sweater</u></b>.
+",not_entailment
+"Rossmoved warily, alert to <b><u>any  sound</u></b>.","Rossmoved warily, alert to <b><u>any strange sound</u></b>.
+",not_entailment
+Our target was the terrorists' base <b><u>of  operation and</u></b> infrastructure.,"Our target was the terrorists' base <b><u>of joint operation and</u></b> infrastructure.
+",entailment
+"In <b><u>the  operation,</u></b> two persons were captured.","In <b><u>the joint operation,</u></b> two persons were captured.
+",not_entailment
+Talk <b><u>around  town is</u></b> that he may combine them into one high-end restaurant.,"Talk <b><u>around main town is</u></b> that he may combine them into one high-end restaurant.
+",not_entailment
+<b><u>The  project is</u></b> expected to be completed in six years.,"<b><u>The entire project is</u></b> expected to be completed in six years.
+",entailment
