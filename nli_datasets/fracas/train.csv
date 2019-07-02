@@ -1,0 +1,277 @@
+premise,hypothesis,label
+At least three commissioners spend time at home.,At least three commissioners spend a lot of time at home.,neutral
+Clients at the demonstration were all impressed by the system's performance. Smith was a client at the demonstration.,Smith was impressed by the system's performance.,entailment
+The PC-6082 is faster than some ITEL computer. The ITEL-ZX is an ITEL computer.,The PC-6082 is faster than the ITEL-ZX.,neutral
+Smith discovered new species for two years.,Smith discovered new species.,entailment
+"Bill suggested to Frank's boss that they should go to the meeting together, and Carl to Alan's wife.","If it was suggested that Bill and Frank should go together, it was suggested that Carl and Alan should go together.",entailment
+ITEL won more orders than APCOM.,ITEL won some orders.,entailment
+Helen saw the chairman of the department answer the phone. The chairman of the department is a person.,There is someone whom Helen saw answer the phone.,entailment
+"Before APCOM bought its present office building, it had been paying mortgage interest on the previous one for 8 years. Since APCOM bought its present office building it has been paying mortgage interest on it for more than 10 years.",APCOM has been paying mortgage interest for a total of 15 years or more.,entailment
+All mice are small animals. All elephants are large animals. Mickey is a large mouse. Dumbo is a small elephant.,Dumbo is larger than Mickey.,entailment
+John owns a red car. Bill owns a fast one.,Bill owns a fast red car.,entailment
+Has John spoken to Mary? Bill has.,Bill has spoken to Mary.,entailment
+Every European can travel freely within Europe. Every European is a person. Every person who has the right to live in Europe can travel freely within Europe.,Every European has the right to live in Europe.,neutral
+Dumbo is a four-legged animal.,Dumbo is four-legged.,entailment
+John went to Paris by car. Bill by train.,Bill went to Paris by train.,entailment
+A Swede won a Nobel prize. Every Swede is a Scandinavian.,A Scandinavian won a Nobel prize.,entailment
+Twenty men work in the Sales Department. But only one woman.,Two women work in the Sales Department.,contradiction
+Each Canadian resident can travel freely within Europe. Every Canadian resident is a resident of the North American continent.,Each resident of the North American continent can travel freely within Europe.,neutral
+The inhabitants of Cambridge voted for a Labour MP.,Every inhabitant of Cambridge voted for a Labour MP.,neutral
+"Bill suggested to Frank's boss that they should go to the meeting together, and Carl to Alan's wife.","If it was suggested that Bill, Frank and Frank's boss should go together, it was suggested that Carl, Alan and Alan's wife should go together.",entailment
+Mary used her workstation.,Mary is female.,entailment
+Smith wrote a report in two hours.,Smith wrote a report in one hour.,neutral
+Jones graduated in March and has been employed ever since. Jones has been unemployed in the past.,Jones was unemployed at some time before he graduated.,entailment
+Mickey is a small animal.,Mickey is a large animal.,contradiction
+The PC-6082 is faster than the ITEL-ZX and the ITEL-ZY.,The PC-6082 is faster than the ITEL-ZX.,entailment
+At least three female commissioners spend time at home.,At least three commissioners spend time at home.,entailment
+"Smith saw Jones sign the contract. When Jones signed the contract, his heart was beating.",Smith saw Jones' heart beat.,neutral
+John owns a red car. Bill owns a fast one.,Bill owns a fast car.,entailment
+At most ten commissioners spend time at home.,At most ten female commissioners spend time at home.,entailment
+The PC-6082 is faster than the ITEL-XZ.,The PC-6082 is fast.,neutral
+"John is going to Paris by car, and the students by train.",The students are going to Paris by train.,entailment
+At least three commissioners spend time at home.,At least three male commissioners spend time at home.,neutral
+John is a fatter politician than Bill.,John is fatter than Bill.,entailment
+Smith left before Jones left. Jones left before Anderson left.,Smith left before Anderson left.,entailment
+Each resident of the North American continent can travel freely within Europe. Every Canadian resident is a resident of the North American continent.,Each Canadian resident can travel freely within Europe.,entailment
+"John said that Mary wrote a report, and that Bill did too.",Bill said Mary wrote a report.,neutral
+Smith wrote a report for two hours.,Smith wrote a report.,neutral
+University graduates make poor stock-market traders. Smith is a university graduate.,Smith is likely to make a poor stock market trader.,entailment
+Smith and Jones left the meeting.,Smith left the meeting.,entailment
+"Smith, Jones and Anderson signed the contract.",Jones signed the contract.,entailment
+"John wants to know how many men work part time, and which.",John wants to know which men work part time.,entailment
+In 1994 ITEL sent a progress report every month.,ITEL sent a progress report in July 1994.,entailment
+Five men work part time. And forty five women.,Forty five women work part time.,entailment
+The really ambitious tenors are Italian.,There are really ambitious tenors who are Italian.,entailment
+In two years Smith owned a chain of businesses.,Smith owned a chain of business.,entailment
+Smith discovered a new species in 1991.,Smith discovered a new species in 1992.,neutral
+Both commissioners used to be in business.,Both female commissioners used to be in business.,neutral
+Smith delivered a report to ITEL. She also delivered them an invoice. And she delivered them a project proposal.,"Smith delivered a report, an invoice and a project proposal to ITEL.",entailment
+Neither leading tenor comes cheap. One of the leading tenors is Pavarotti.,Pavarotti is a leading tenor who comes cheap.,contradiction
+Every resident of the North American continent can travel freely within Europe. Every Canadian resident is a resident of the North American continent.,Every Canadian resident can travel freely within Europe.,entailment
+Most Europeans can travel freely within Europe.,Most Europeans who are resident outside Europe can travel freely within Europe.,neutral
+Smith was writing a report. Jones was writing a report. Smith was writing a report before Jones was writing a report.,Jones was writing a report after Smith was writing a report.,neutral
+No really great tenors are modest.,There are really great tenors who are modest.,contradiction
+Smith left. Jones left. Jones left before Smith left.,Smith left after Jones left.,entailment
+APCOM has a more important customer than ITEL.,APCOM has a more important customer than ITEL has.,entailment
+Smith wrote a report in two hours.,Smith wrote a report.,entailment
+Smith was running a business in 1991.,Smith was running it in 1992.,neutral
+The residents of major western countries can travel freely within Europe. All residents of major western countries are residents of western countries.,The residents of western countries have the right to live in Europe.,neutral
+Some delegates finished the survey on time.,Some Irish delegates finished the survey on time.,neutral
+ITEL won twice as many orders than APCOM. APCOM won ten orders.,ITEL won twenty orders.,entailment
+"When Jones got his job at the CIA, he knew that he would never be allowed to write his memoirs.",It is the case that Jones is not and will never be allowed to write his memoirs.,entailment
+John is a cleverer politician than Bill.,John is cleverer than Bill.,neutral
+The PC-6082 is as fast as the ITEL-XZ.,The PC-6082 is fast.,neutral
+Smith was present after Jones left. Jones left after Anderson was present.,Smith was present after Anderson was present.,neutral
+Bill spoke to everyone that John did. Bill spoke to Mary.,John spoke to Mary.,neutral
+Some delegates finished the survey.,Some delegates finished the survey on time.,neutral
+ITEL won more orders than APCOM did.,APCOM won some orders.,neutral
+Mickey is a small animal. Dumbo is a large animal.,Mickey is smaller than Dumbo.,entailment
+Exactly two lawyers and three accountants signed the contract.,Six lawyers signed the contract.,contradiction
+The PC-6082 is as fast as the ITEL-XZ. The PC-6082 is slow.,The ITEL-XZ is fast.,contradiction
+Many delegates obtained results from the survey.,Many delegates obtained interesting results from the survey.,neutral
+Just one accountant attended the meeting.,Some accountant attended the meeting.,entailment
+Smith was present. Jones was present. Smith was present after Jones was present.,Jones was present before Smith was present.,neutral
+GFI owns several computers. ITEL maintains them.,ITEL maintains all the computers that GFI owns.,entailment
+"Yesterday APCOM signed the contract. Today is Saturday, July 14th.","APCOM signed the contract Friday, 13th.",entailment
+"John said Mary wrote a report, and Bill did too.",John said Bill wrote a report.,entailment
+A company director awarded himself a large payrise.,A company director has awarded and been awarded a payrise.,entailment
+Every Italian man wants to be a great tenor. Some Italian men are great tenors.,There are Italian men who want to be a great tenor.,entailment
+Smith discovered many new species in two hours.,Smith spent two hours discovering new species.,entailment
+Every representative and client was at the meeting.,Every representative was at the meeting.,neutral
+Smith discovered a new species in two hours.,Smith discovered a new species.,entailment
+John owns a red car. Bill owns a fast one.,Bill owns a fast red car.,neutral
+The PC-6082 is as fast as the ITEL-XZ.,The PC-6082 is faster than the ITEL-XZ.,neutral
+Software faults were blamed for the system failure.,The system failure was blamed on one or more software faults.,entailment
+Smith discovered a new species in 1991.,Smith discovered it in 1992.,contradiction
+Smith saw Jones sign the contract or cross out the crucial clause.,Smith either saw Jones sign the contract or saw Jones cross out the crucial clause.,entailment
+Smith has been to Florence twice in the past. Smith will go to Florence twice in the coming year.,Two years from now Smith will have been to Florence at least four times.,entailment
+ITEL won the contract from APCOM in 1993.,ITEL won a contract in 1993.,entailment
+ITEL tried to win the contract in 1992.,ITEL won the contract in 1992.,neutral
+All the people who were at the meeting voted for a new chairman.,Everyone at the meeting voted for a new chairman.,entailment
+An Italian became the world's greatest tenor.,There was an Italian who became the world's greatest tenor.,entailment
+Every customer who owns a computer has a service contract for it. MFI is a customer that owns exactly one computer.,MFI has a service contract for all its computers.,entailment
+All Europeans have the right to live in Europe. Every European is a person. Every person who has the right to live in Europe can travel freely within Europe.,All Europeans can travel freely within Europe.,entailment
+"John went to Paris by car, and Bill by train.",Bill went to Paris by train.,entailment
+Mickey is a small animal. Dumbo is a large animal.,Mickey is larger than Dumbo.,contradiction
+Smith wrote his first novel in 1991.,Smith wrote his first novel in 1992.,contradiction
+"Smith, Jones and several lawyers signed the contract.",Jones signed the contract.,entailment
+Many delegates obtained interesting results from the survey.,Many delegates obtained results from the survey.,entailment
+Smith represents his company and so does Jones.,Jones represents Jones' company.,entailment
+The PC-6082 is faster than any ITEL computer. The ITEL-ZX is an ITEL computer.,The PC-6082 is faster than the ITEL-ZX.,entailment
+Each European has the right to live in Europe. Every European is a person. Every person who has the right to live in Europe can travel freely within Europe.,Each European can travel freely within Europe.,entailment
+ITEL has made a loss since 1992. It is now 1996.,ITEL made a loss in 1993.,neutral
+John found Mary before Bill.,John found Mary before Bill found Mary.,entailment
+Every representative has read this report. No two representatives have read it at the same time. No representative took less than half a day to read the report. There are sixteen representatives.,It took the representatives more than a week to read the report.,entailment
+John and his colleagues went to a meeting. They hated it.,John hated the meeting.,neutral
+John said Bill had hurt himself.,Someone said John had been hurt.,neutral
+Smith signed one contract. Jones signed another contract.,Smith and Jones signed two contracts.,entailment
+Smith swam to the shore. Jones swam to the shore. Smith swam to the shore before Jones swam to the shore.,Jones swam to the shore after Smith swam to the shore.,entailment
+Smith wrote a novel in 1991.,Smith wrote a novel in 1992.,neutral
+Kim is a clever person.,Kim is clever.,entailment
+Smith left the meeting before he lost his temper.,Smith lost his temper.,neutral
+ITEL sold 3000 more computers than APCOM. APCOM sold exactly 2500 computers.,ITEL sold 5500 computers.,entailment
+John and his colleagues went to a meeting. They hated it.,John hated the meeting.,entailment
+Few committee members are from southern Europe.,Few female committee members are from southern Europe.,entailment
+All residents of the North American continent can travel freely within Europe. Every Canadian resident is a resident of the North American continent.,All Canadian residents can travel freely within Europe.,entailment
+At most ten commissioners spend time at home.,At most ten commissioners spend a lot of time at home.,entailment
+Each department has a dedicated line. They rent them from BT.,Every department rents a line from BT.,entailment
+"John said Mary wrote a report, and Bill did too.",Bill said Mary wrote a report.,entailment
+Many delegates obtained interesting results from the survey.,Many British delegates obtained interesting results from the survey.,neutral
+Two out of ten machines are missing. They have been removed.,Two machines have been removed.,entailment
+Every committee has a chairman. He is appointed its members.,Every committee has a chairman appointed by members of the committee.,entailment
+"When they opened the M25, traffic increased.",,neutral
+Smith was running his own business in two years.,Smith ran his own business.,entailment
+ITEL has a factory in Birmingham.,ITEL currently has a factory in Birmingham.,entailment
+John spoke to Mary. So did Bill. John spoke to Mary at four o'clock.,Bill spoke to Mary at four o'clock.,neutral
+Smith wrote to a representative every week.,There is a representative that Smith wrote to every week.,neutral
+The chairman read out the items on the agenda.,The chairman read out every item on the agenda.,entailment
+Smith signed two contracts. Jones also signed them.,Smith and Jones signed two contracts.,entailment
+John spoke to Mary. So did Bill.,Bill spoke to Mary.,entailment
+John is a man and Mary is a woman. John represents his company and so does Mary.,Mary represents John's company.,entailment
+Smith wrote a report for two hours.,Smith wrote a report for an hour.,entailment
+Smith wrote a report in two hours.,Smith spent two hours writing the report.,neutral
+Most Europeans can travel freely within Europe. All Europeans are people. All people who are resident in Europe can travel freely within Europe.,Most Europeans are resident in Europe.,neutral
+The PC-6082 is as fast as the ITEL-XZ.,The PC-6082 is slower than the ITEL-XZ.,contradiction
+Smith represents his company and so does Jones.,Jones represents Smith's company.,entailment
+Fido is not a small animal.,Fido is a large animal.,neutral
+Neither commissioner spends time at home.,One of the commissioners spends a lot of time at home.,contradiction
+Smith saw Jones sign the contract.,Jones signed the contract.,entailment
+Smith wrote a report in two hours.,Smith spent more than two hours writing the report.,contradiction
+John is a former university student.,John is a university student.,contradiction
+ITEL was building MTALK in 1993.,ITEL finished MTALK in 1993.,neutral
+A Scandinavian won a Nobel prize. Every Swede is a Scandinavian.,A Swede won a Nobel prize.,neutral
+Neither commissioner spends a lot of time at home.,One of the female commissioners spends a lot of time at home.,neutral
+ITEL won more orders than APCOM did. APCOM won ten orders.,ITEL won at least eleven orders.,entailment
+The PC-6082 is as fast as the ITEL-XZ. The ITEL-XZ is fast.,The PC-6082 is fast.,entailment
+Every representative and client was at the meeting.,Every representative was at the meeting.,entailment
+John owns a car. Bill owns one too.,Bill owns a car.,entailment
+No delegate finished the report on time.,Some Scandinavian delegate finished the report on time.,contradiction
+The residents of member states have the right to live in Europe. All residents of member states are individuals. Every individual who has the right to live in Europe can travel freely within Europe.,The residents of member states can travel freely within Europe.,entailment
+All mice are small animals. Mickey is a large mouse.,Mickey is small.,neutral
+At least three tenors will take part in the concert.,There are tenors who will take part in the concert.,entailment
+No delegate finished the report.,Some delegate finished the report on time.,contradiction
+Smith believed that ITEL had won the contract in 1992.,ITEL won the contract in 1992.,neutral
+Smith left. Jones left. Smith left before Jones left.,Jones left after Smith left.,entailment
+Since 1992 ITEL has made a loss. It is now 1996.,ITEL made a loss in 1993.,entailment
+John owns a red car. Bill owns a blue one.,Bill owns a blue car.,entailment
+A few committee members are from Scandinavia. All committee members are people. All people who are from Sweden are from Scandinavia.,At least a few committee members are from Sweden.,neutral
+John had his paper accepted. Bill doesn't know why.,Bill knows why John had his paper accepted.,contradiction
+Smith left after Jones left. Jones left after Anderson left.,Smith left after Anderson left.,entailment
+John has a genuine diamond.,John has a diamond.,entailment
+The residents of western countries can travel freely within Europe. All residents of major western countries are residents of western countries.,The residents of major western countries have the right to live in Europe.,entailment
+Most Europeans are resident in Europe. All Europeans are people. All people who are resident in Europe can travel freely within Europe.,Most Europeans can travel freely within Europe.,entailment
+"John went to Paris by car, and Bill to Berlin.",Bill went to Berlin by car.,entailment
+Neither commissioner spends a lot of time at home.,Neither commissioner spends time at home.,neutral
+John is a successful former university student.,John is successful.,entailment
+Just one accountant attended the meeting.,No accountants attended the meeting.,contradiction
+John is a man and Mary is a woman. John represents his company and so does Mary.,Mary represents her own company.,entailment
+ITEL has developed a new editor since 1992. It is now 1996.,ITEL developed a new editor in 1993.,neutral
+Most great tenors are Italian.,There are great tenors who are Italian.,entailment
+Every Canadian resident can travel freely within Europe. Every Canadian resident is a resident of the North American continent.,Every resident of the North American continent can travel freely within Europe.,neutral
+Smith wrote a report in two hours. Smith started writing the report at 8 am.,Smith had finished writing the report by 11 am.,entailment
+Most Europeans who are resident in Europe can travel freely within Europe.,Most Europeans can travel freely within Europe.,neutral
+Many great tenors are German.,There are great tenors who are German.,entailment
+ITEL owned APCOM from 1988 to 1992.,ITEL owned APCOM in 1990.,entailment
+Few committee members are from Portugal. All committee members are people. All people who are from Portugal are from southern Europe.,There are few committee members from southern Europe.,neutral
+Both commissioners used to be leading businessmen.,Both commissioners used to be businessmen.,entailment
+The PC-6082 is faster than the ITEL-XZ. The PC-6082 is fast.,The ITEL-XZ is fast.,neutral
+A few female committee members are from Scandinavia.,At least a few committee members are from Scandinavia.,entailment
+Smith attended a meeting. She chaired it.,Smith chaired a meeting.,entailment
+"Smith arrived in Paris on the 5th of May, 1995. Today is the 15th of May, 1995. She is still in Paris.","Smith was in Paris on the 7th of May, 1995.",entailment
+Smith lived in Birmingham for two years.,Smith lived in Birmingham for a year.,entailment
+Both leading tenors are excellent. Leading tenors who are excellent are indispensable.,Both leading tenors are indispensable.,entailment
+John and his colleagues went to a meeting. They hated it.,John's colleagues hated the meeting.,entailment
+Jones revised the contract. Smith revised the contract. Jones revised the contract after Smith did.,Smith revised the contract before Jones did.,entailment
+John is a former successful university student.,John is successful.,neutral
+Several delegates got the results published.,Several delegates got the results published in major national newspapers.,neutral
+When Smith arrived in Katmandu she had been travelling for three days.,Smith had been travelling the day before she arrived in Katmandu.,entailment
+The PC-6082 is faster than 500 MIPS. The ITEL-ZX is slower than 500 MIPS.,The PC-6082 is faster than the ITEL-ZX.,entailment
+ITEL always delivers reports late. In 1993 ITEL delivered reports.,ITEL delivered reports late in 1993.,entailment
+"The conference started on July 4th, 1994. It lasted 2 days.","The conference was over on July 8th, 1994.",entailment
+ITEL won more orders than APCOM did.,ITEL won some orders.,entailment
+Smith claimed he had costed his proposal and so did Jones.,Jones claimed he had costed his own proposal.,entailment
+Every report has a cover page. R-95-103 is a report. Smith signed the cover page.,Smith signed the cover page of R-95-103.,entailment
+Since 1992 ITEL has been in Birmingham. It is now 1996.,Itel was in Birmingham in 1993.,entailment
+No one gambling seriously stops until he is broke. No one can gamble when he is broke.,Everyone who starts gambling seriously stops the moment he is broke.,entailment
+The residents of member states can travel freely within Europe. All residents of member states are individuals. Every individual who has the right to live anywhere in Europe can travel freely within Europe.,The residents of member states have the right to live anywhere in Europe.,neutral
+ITEL won more orders than the APCOM contract.,ITEL won the APCOM contract.,entailment
+Just one accountant attended the meeting.,Some accountant attended the meeting.,entailment
+The PC-6082 is faster than the ITEL-ZX or the ITEL-ZY.,The PC-6082 is faster than the ITEL-ZX.,entailment
+Every customer who owns a computer has a service contract for it. MFI is a customer that owns several computers.,MFI has a service contract for all its computers.,entailment
+Smith represents his company and so does Jones.,Smith represents Jones' company.,neutral
+Every mammal is an animal.,Every four-legged mammal is a four-legged animal.,entailment
+Kim is a clever politician.,Kim is clever.,neutral
+Some Irish delegates finished the survey on time.,Some delegates finished the survey on time.,entailment
+Smith had left the house at a quarter past five. Then she took a taxi to the station.,Smith left the house before she took a taxi to the station.,entailment
+"Smith, Anderson and Jones met.",There was a group of people that met.,entailment
+"John needed to buy a car, and Bill did.",Bill bought a car.,neutral
+John has spoken to Mary. Bill is going to.,Bill will speak to Mary.,entailment
+An Irishman won a Nobel prize.,An Irishman won the Nobel prize for literature.,neutral
+ITEL built MTALK in 1993.,ITEL finished MTALK in 1993.,entailment
+No delegate finished the report on time.,No delegate finished the report.,neutral
+Smith was present. Jones was present. Smith was present before Jones was present.,Jones was present after Smith was present.,neutral
+Both commissioners used to be businessmen.,Both commissioners used to be leading businessmen.,neutral
+John spoke to Mary. On Friday.,John spoke to Mary on Friday.,entailment
+"John went to Paris by car, and Bill by train to Berlin.",Bill went to Berlin by train.,entailment
+John found Mary before Bill.,John found Mary before John found Bill.,entailment
+No Scandinavian delegate finished the report on time.,Some delegate finished the report on time.,neutral
+The PC-6082 is faster than the ITEL-XZ. The ITEL-XZ is fast.,The PC-6082 is fast.,entailment
+Smith left the house at a quarter past five. She took a taxi to the station and caught the first train to Luxembourg.,,neutral
+John spoke to Mary at four o'clock. So did Bill.,Bill spoke to Mary at four o'clock.,entailment
+All APCOM managers have company cars. Jones is an APCOM manager.,Jones has more than one company car.,neutral
+"Either Smith, Jones or Anderson signed the contract.",Jones signed the contract.,neutral
+No one who starts gambling seriously stops until he is broke.,Everyone who starts gambling seriously continues until he is broke.,entailment
+Many British delegates obtained interesting results from the survey.,Many delegates obtained interesting results from the survey.,neutral
+A few committee members are from Sweden. All committee members are people. All people who are from Sweden are from Scandinavia.,At least a few committee members are from Scandinavia.,entailment
+Few great tenors are poor.,There are great tenors who are poor.,neutral
+Each Italian tenor wants to be great. Some Italian tenors are great.,There are Italian tenors who want to be great.,entailment
+Smith left. Jones left. Smith left after Jones left.,Jones left before Smith left.,entailment
+Just one accountant attended the meeting.,No accountant attended the meeting.,contradiction
+Some great tenors are Swedish.,There are great tenors who are Swedish.,entailment
+All mice are small animals. Mickey is a large mouse.,Mickey is a large animal.,contradiction
+Smith ran his own business for two years.,Smith ran his own business for a year.,entailment
+"Bill suggested to Frank's boss that they should go to the meeting together, and Carl to Alan's wife.","If it was suggested that Bill and Frank should go together, it was suggested that Carl and Alan's wife should go together.",neutral
+Smith discovered a new species for an hour.,,neutral
+"Smith saw Jones sign the contract. If Jones signed the contract, his heart was beating.",Smith saw Jones' heart beat.,neutral
+Several Portuguese delegates got the results published in major national newspapers.,Several delegates got the results published in major national newspapers.,entailment
+ITEL managed to win the contract in 1992.,ITEL won the contract in 1992.,entailment
+Smith lived in Birmingham for two years.,Smith lived in Birmingham.,entailment
+At most ten female commissioners spend time at home.,At most ten commissioners spend time at home.,neutral
+The people who were at the meeting all voted for a new chairman.,Everyone at the meeting voted for a new chairman.,entailment
+Smith signed two contracts. Jones signed two contracts.,Smith and Jones signed two contracts.,entailment
+"John wanted to buy a car, and he did.",John bought a car.,entailment
+Smith lived in Birmingham for two years.,Smith lived in Birmingham for exactly a year.,contradiction
+ITEL won more orders than APCOM lost. APCOM lost ten orders.,ITEL won at least eleven orders.,entailment
+"Last week I already knew that when, in a month's time, Smith would discover that she had been duped she would be furious.",It will be the case that in a few weeks Smith will discover that she has been duped; and she will be furious.,entailment
+"If John wrote a report, then Bill did too. John wrote a report.",Bill wrote a report.,entailment
+Smith wrote a novel in 1991.,Smith wrote it in 1992.,contradiction
+Smith claimed he had costed his proposal and so did Jones.,Jones claimed Smith had costed Smith's proposal.,entailment
+Exactly two lawyers and three accountants signed the contract.,Six accountants signed the contract.,contradiction
+John has spoken to Mary. The students have too.,The students have spoken to Mary.,entailment
+All Italian men want to be a great tenor. Some Italian men are great tenors.,There are Italian men who want to be a great tenor.,entailment
+Just one accountant attended the meeting.,Some accountants attended the meeting.,contradiction
+All Europeans can travel freely within Europe. Every European is a person. Every person who has the right to live in Europe can travel freely within Europe.,All Europeans have the right to live in Europe.,neutral
+Every European has the right to live in Europe. Every European is a person. Every person who has the right to live in Europe can travel freely within Europe.,Every European can travel freely within Europe.,entailment
+Several delegates got the results published in major national newspapers.,Several delegates got the results published.,entailment
+The PC-6082 is as fast as the ITEL-XZ. The PC-6082 is fast.,The ITEL-XZ is fast.,neutral
+Mary used her workstation.,Mary's workstation was used.,entailment
+Clients at the demonstration were impressed by the system's performance.,Most clients at the demonstration were impressed by the system's performance.,entailment
+John spoke to Mary on Thursday. And on Friday.,John spoke to Mary on Friday.,entailment
+The people who were at the meeting voted for a new chairman.,Everyone at the meeting voted for a new chairman.,neutral
+ITEL has expanded since 1992. It is now 1996.,ITEL expanded in 1993.,neutral
+Each department has a dedicated line. The sales department rents it from BT.,The sales department rents a line from BT.,entailment
+Jones revised the contract. Smith revised the contract. Jones revised the contract before Smith did.,Smith revised the contract after Jones did.,entailment
+Several delegates got the results published in major national newspapers.,Several Portuguese delegates got the results published in major national newspapers.,neutral
+Smith discovered a new species in two hours.,Smith spent two hours discovering the new species.,contradiction
+"Either Smith, Jones or Anderson signed the contract.","If Smith and Anderson did not sign the contract, Jones signed the contract.",entailment
+A few committee members are from Scandinavia.,At least a few female committee members are from Scandinavia.,neutral
+"Smith took a machine on Tuesday, and Jones took a machine on Wednesday. They put them in the lobby.",Smith and Jones put two machines in the lobby.,entailment
+Software faults were blamed for the system failure. Bug # 32-985 is a known software fault.,Bug # 32-985 was blamed for the system failure.,neutral
+John owns a fast red car. Bill owns a slow one.,Bill owns a slow red car.,entailment
+ITEL has sent most of the reports Smith needs. They are on her desk.,There are some reports from ITEL on Smith's desk.,entailment
+Smith and Jones left the meeting.,Jones left the meeting.,entailment
+Smith saw Jones sign the contract. Jones is the chairman of ITEL.,Smith saw the chairman of ITEL sign the contract.,entailment
+John owns a red car. Bill owns a blue one.,Bill owns a red car.,neutral
+The PC-6082 is faster than the ITEL-XZ. The PC-6082 is slow.,The ITEL-XZ is fast.,contradiction
+Nobody who is asleep ever knows that he is asleep. But some people know that they have been asleep after they have been asleep.,Some people discover that they have been asleep.,entailment
+John wants to know how many men work part time. And women.,John wants to know how many women work part time.,entailment
