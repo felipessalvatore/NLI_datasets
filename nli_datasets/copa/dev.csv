@@ -1,0 +1,201 @@
+,premise,hypothesis,label
+0,The journalist wrote a biography about the humanitarian's life.,The humanitarian was difficult for the journalist to interview.,not_entailment
+1,The bride got cold feet before the wedding.,She called the wedding off.,entailment
+2,The woman read the newspaper.,She discovered the outcome of the election.,entailment
+3,The student forgot to do her assignment.,The teacher promoted her to the next grade.,not_entailment
+4,The lobbyist persuaded the legislature to support the bill.,The president vetoed the bill.,not_entailment
+5,The girl found a bug in her cereal.,She poured milk in the bowl.,not_entailment
+6,The man's pocket jingled as he walked.,His pocket was filled with coins.,entailment
+7,The woman contacted the real estate agent.,The woman planned to buy a condo.,entailment
+8,The mother called an ambulance.,Her son lost his cat.,not_entailment
+9,The airline mishandled my luggage.,They cancelled my flight.,not_entailment
+10,The woman ran her finger under cold water.,She put a diamond ring on her finger.,not_entailment
+11,The couple was happy to see each other.,They kissed.,entailment
+12,I pressed my hand into the wet cement.,Cracks emerged in the cement.,not_entailment
+13,The dog barked.,The cat lounged on the couch.,not_entailment
+14,The woman walked with crutches.,She broke her leg.,entailment
+15,I coughed.,I lowered my voice.,not_entailment
+16,The cook's eyes watered.,He cut an onion.,entailment
+17,My ears were ringing.,I went to a concert.,entailment
+18,I pressed my hand into the wet cement.,My handprint dried in the cement.,entailment
+19,I coughed.,I inhaled smoke.,entailment
+20,The friends decided to share the hamburger.,They cut the hamburger in half.,entailment
+21,The chef hit the egg on the side of the bowl.,The egg cracked.,entailment
+22,I put my hands under the running faucet.,The soap rinsed off my hands.,entailment
+23,The clock chimed.,It was the top of the hour.,entailment
+24,My subscription to the magazine expired.,I discarded the new issue.,not_entailment
+25,The man defied the authorities of the church.,He was excommunicated from the church.,entailment
+26,My skin broke out into a rash.,I brushed against poison ivy in my yard.,entailment
+27,The politician was convicted of fraud.,He was removed from office.,entailment
+28,The woman walked with crutches.,She shaved her legs.,not_entailment
+29,The player caught the ball.,Her teammate threw it to her.,entailment
+30,The woman retired.,She received her pension.,entailment
+31,Political violence broke out in the nation.,Many citizens took refuge in other territories.,entailment
+32,The pair of students came under scrutiny by the teacher.,The students both received excellent grades.,not_entailment
+33,The woman contacted the real estate agent.,The woman needed to clean her house.,not_entailment
+34,The couple got engaged.,They planned a wedding.,entailment
+35,The couple got engaged.,They took some time apart.,not_entailment
+36,The woman banished the children from her property.,The children trampled through her garden.,entailment
+37,The kidnappers released the hostage.,They accepted ransom money.,entailment
+38,The man perceived that the woman looked different.,The woman wore a bracelet.,not_entailment
+39,The police searched the offender's car.,They were trying to elicit a confession.,not_entailment
+40,The girl wanted to wear earrings.,She got her ears pierced.,entailment
+41,I tidied up my house.,I was expecting company.,entailment
+42,The driver slammed on his brakes.,The car radio shut off.,not_entailment
+43,The lock opened.,I made a duplicate of the key.,not_entailment
+44,The bride got cold feet before the wedding.,The wedding guests brought gifts.,not_entailment
+45,The man perceived that the woman looked different.,The woman got her hair cut.,entailment
+46,Plans were announced to replace a local park with a shopping mall.,Environmentalists produced a documentary.,not_entailment
+47,The man felt obligated to attend the event.,He promised his friend that he would go.,entailment
+48,The man dressed in his best suit.,He scheduled a meeting with an important client.,entailment
+49,The driver turned on the car's headlights.,He heard thunder.,not_entailment
+50,I tidied up my house.,I was swamped with work.,not_entailment
+51,I put rubber gloves on.,I was preparing to clean the bathroom.,entailment
+52,The woman read the newspaper.,She casted a vote in the election.,not_entailment
+53,The man turned on the faucet.,The toilet filled with water.,not_entailment
+54,The man won the lottery.,He owed money.,not_entailment
+55,The bowling ball knocked over the bowling pins.,The man dropped the bowling ball on his foot.,not_entailment
+56,The man lost the competition.,He intimidated his competitors.,not_entailment
+57,The man grew old.,He sold his belongings.,not_entailment
+58,The dog barked.,A knock sounded at the door.,entailment
+59,I stayed up late.,I had vivid dreams that night.,not_entailment
+60,The child learned how to read.,He began attending school.,entailment
+61,The teacher assigned homework to the students.,The students passed notes.,not_entailment
+62,I decided to stay home for the night.,My friends urged me to go out.,not_entailment
+63,The cook's eyes watered.,He ran out of onions.,not_entailment
+64,I pulled the rubber band.,It flung across the room.,not_entailment
+65,The mother called an ambulance.,Her son fell out of his bed.,entailment
+66,The woman lavished her friend with flattery.,She wanted to ask her friend for a favor.,entailment
+67,The boy skipped dinner.,His mother cooked his favorite meal.,not_entailment
+68,The couple travelled south for the winter.,They were retired.,entailment
+69,The journalist wrote a biography about the humanitarian's life.,The journalist was intrigued by the humanitarian's work.,entailment
+70,The man drank heavily at the party.,He had a runny nose the next day.,not_entailment
+71,The community learned of the man's death.,His obituary appeared in the newspaper.,entailment
+72,The boy skipped dinner.,He ate a big lunch.,entailment
+73,The lock opened.,I turned the key in the lock.,entailment
+74,The man dressed in his best suit.,His wife bought him a new tie.,not_entailment
+75,The woman's hair fell in her face.,She lathered shampoo into her hair.,not_entailment
+76,The detective revealed an anomaly in the case.,He finalized his theory.,not_entailment
+77,The computer was expensive to fix.,I got it repaired.,not_entailment
+78,The woman was arrested.,She checked into rehab.,not_entailment
+79,The judge pounded the gavel.,The jury announced its verdict.,not_entailment
+80,I regained composure from my fit of anger.,My heart pounded.,not_entailment
+81,My view of the movie screen was blocked.,A tall person was sitting in front of me.,entailment
+82,The computer was expensive to fix.,I bought a new one.,entailment
+83,The sick child coughed on his friend.,His friend got sick.,entailment
+84,The man won the lottery.,He became rich.,entailment
+85,The woman's hair fell in her face.,She pulled her hair back with a clip.,entailment
+86,The driver turned on the car's headlights.,The sun went down.,entailment
+87,The seasons changed from summer to autumn.,People evacuated their homes.,not_entailment
+88,The tree branch landed in the river.,The river's current became stronger.,not_entailment
+89,The community learned of the man's death.,His family buried him in the cemetery.,not_entailment
+90,The judge pounded the gavel.,The courtroom broke into uproar.,entailment
+91,The jewelry thieves were caught.,The cost of the stolen jewelry was calculated.,not_entailment
+92,My eyes became red and puffy.,I was sobbing.,entailment
+93,The man received a parking ticket.,The parking meter expired.,entailment
+94,The politician was convicted of fraud.,He campaigned for re-election.,not_entailment
+95,I wanted to conserve energy.,I shut off the light in the unoccupied room.,entailment
+96,I decided to stay home for the night.,The forecast called for storms.,entailment
+97,I pushed the wagon.,The objects in the wagon fell out.,not_entailment
+98,The student was in a rush to get to school on time.,He left his assignment at home.,entailment
+99,I doubted the salesman's pitch.,I turned his offer down.,entailment
+100,I stayed up late.,I was tired in the morning.,entailment
+101,The man felt obligated to attend the event.,He turned down his friend's invitation to go.,not_entailment
+102,Everyone in the class turned to stare at the student.,The student took notes.,not_entailment
+103,The man confessed his love for the woman.,The woman envied him.,not_entailment
+104,The secretary put the caller on hold.,The caller's phone lost reception.,not_entailment
+105,The flame on the candle went out.,I blew on the wick.,entailment
+106,The hamburger meat browned.,The cook froze it.,not_entailment
+107,The hamburger meat browned.,The cook grilled it.,entailment
+108,Political violence broke out in the nation.,Many citizens relocated to the capitol.,not_entailment
+109,The woman retired.,She paid off her mortgage.,not_entailment
+110,My ears were ringing.,I went to a museum.,not_entailment
+111,The woman ran her finger under cold water.,She burned her finger on the toaster.,entailment
+112,The lobbyist persuaded the legislature to support the bill.,The legislature passed the bill.,entailment
+113,The couple was happy to see each other.,They rested.,not_entailment
+114,The police searched the offender's car.,They were looking for illegal drugs.,entailment
+115,The ring on my finger got stuck.,My finger swelled.,entailment
+116,The woman banished the children from her property.,The children hit a ball into her yard.,not_entailment
+117,The jewelry thieves were caught.,The stolen jewelry was returned to its owners.,entailment
+118,The teacher assigned homework to the students.,The students groaned.,entailment
+119,The man fainted.,He took a nap.,not_entailment
+120,I twisted the cap off the soda bottle.,The soda fizzed.,entailment
+121,I lit the candle.,Wax dripped off the candle.,entailment
+122,The child learned how to read.,He skipped a grade in school.,not_entailment
+123,The friends decided to share the hamburger.,They ordered fries with the hamburger.,not_entailment
+124,The woman resigned from her job.,She aspired to hold an executive position in the firm.,not_entailment
+125,The tree branch landed in the river.,The branch moved downstream.,entailment
+126,The student misspelled the word.,The teacher corrected her.,entailment
+127,My closet was messy.,I decorated it.,not_entailment
+128,The woman resigned from her job.,She believed her superiors were acting unethically.,entailment
+129,The couple travelled south for the winter.,They were separated.,not_entailment
+130,The girl refused to eat her vegetables.,Her father took away her dessert.,entailment
+131,The player caught the ball.,Her opponent tried to intercept it.,not_entailment
+132,The girl refused to eat her vegetables.,Her father told her to drink her milk.,not_entailment
+133,The woman asked the man to leave.,He insulted her.,entailment
+134,I wanted to conserve energy.,I swept the floor in the unoccupied room.,not_entailment
+135,The detective revealed an anomaly in the case.,He scrapped his theory.,entailment
+136,The horse bucked.,The rider stroked the horse.,not_entailment
+137,I lit the candle.,The wax on the candle hardened.,not_entailment
+138,My eyes became red and puffy.,I was laughing.,not_entailment
+139,The woman lavished her friend with flattery.,She was irritated with her friend's whining.,not_entailment
+140,The driver got a flat tire.,He ran over a nail.,entailment
+141,The sick child coughed on his friend.,His friend sneezed.,not_entailment
+142,The airline mishandled my luggage.,They offered me compensation.,entailment
+143,The clock chimed.,The hour seemed to drag on.,not_entailment
+144,I twisted the cap off the soda bottle.,The soda leaked out.,not_entailment
+145,The chef hit the egg on the side of the bowl.,The egg rotted.,not_entailment
+146,My subscription to the magazine expired.,I stopped receiving new issues.,entailment
+147,I regained composure from my fit of anger.,I took deep breaths.,entailment
+148,Everyone in the class turned to stare at the student.,The student's phone rang.,entailment
+149,The man fainted.,He ran a marathon.,entailment
+150,The woman became famous.,Her family avoided her.,not_entailment
+151,The ring on my finger got stuck.,I chipped my fingernail.,not_entailment
+152,The seasons changed from summer to autumn.,Leaves fell from the trees.,entailment
+153,I pushed the wagon.,The wagon wheels spun forward.,entailment
+154,I spent the day at the pool.,My face got sunburned.,entailment
+155,The bowling ball knocked over the bowling pins.,The man rolled the bowling ball down the alley.,entailment
+156,The horse bucked.,A fly bit the horse.,entailment
+157,I put my hands under the running faucet.,The water splashed in my face.,not_entailment
+158,The woman covered her mouth with her hand.,She sneezed.,entailment
+159,The man received a parking ticket.,He parallel parked on the street.,not_entailment
+160,The man defied the authorities of the church.,He donated money to the church.,not_entailment
+161,The woman was arrested.,She committed assault.,entailment
+162,The woman asked the man to leave.,He thanked her.,not_entailment
+163,The woman was in a bad mood.,She engaged in small talk with her friend.,not_entailment
+164,The pair of students came under scrutiny by the teacher.,Their responses on the assignment were identical.,entailment
+165,The student forgot to do her assignment.,She made up an excuse to tell the teacher.,entailment
+166,The girl wanted to wear earrings.,She got a tattoo.,not_entailment
+167,The girl found a bug in her cereal.,She lost her appetite.,entailment
+168,I put rubber gloves on.,I was preparing to wash my hands.,not_entailment
+169,The man drank heavily at the party.,He had a headache the next day.,entailment
+170,The kidnappers released the hostage.,They escaped from jail.,not_entailment
+171,The key was missing from my pants pocket.,The pocket had a hole.,entailment
+172,The woman covered her mouth with her hand.,She exhaled.,not_entailment
+173,The animal species became endangered.,Their habitat was destroyed.,entailment
+174,My computer crashed.,I lost all my data.,entailment
+175,The woman was in a bad mood.,She told her friend to leave her alone.,entailment
+176,My computer crashed.,I installed new speakers.,not_entailment
+177,The driver slammed on his brakes.,A deer appeared on the road.,entailment
+178,My view of the movie screen was blocked.,The couple behind me was whispering.,not_entailment
+179,I doubted the salesman's pitch.,He persuaded me to buy the product.,not_entailment
+180,The student misspelled the word.,The teacher dismissed her.,not_entailment
+181,I pulled the rubber band.,It stretched.,entailment
+182,The man grew old.,His hair turned gray.,entailment
+183,The driver got a flat tire.,He went over the speed limit.,not_entailment
+184,The boy threw a temper tantrum.,He shared his toys with his brother.,not_entailment
+185,My closet was messy.,I organized it.,entailment
+186,The boy threw a temper tantrum.,His brother took his toys from him.,entailment
+187,The secretary put the caller on hold.,The caller waited on the line.,entailment
+188,I spent the day at the pool.,I sprained my ankle.,not_entailment
+189,The woman became famous.,Photographers followed her.,entailment
+190,The animal species became endangered.,Their predators went extinct.,not_entailment
+191,The man confessed his love for the woman.,The woman rejected him.,entailment
+192,The man lost the competition.,The competition was sabotaged.,entailment
+193,The student was in a rush to get to school on time.,He brought his lunch to school.,not_entailment
+194,The man's pocket jingled as he walked.,He sewed the hole in his pocket.,not_entailment
+195,The flame on the candle went out.,I put a match to the wick.,not_entailment
+196,The man turned on the faucet.,Water flowed from the spout.,entailment
+197,Plans were announced to replace a local park with a shopping mall.,Environmentalists started a petition.,entailment
+198,The key was missing from my pants pocket.,The pants were new.,not_entailment
+199,My skin broke out into a rash.,I eradicated the poison ivy from my yard.,not_entailment
