@@ -1,0 +1,940 @@
+premise,hypothesis,label
+A man standing at a urinal with a coffee cup.,A man brought his beverage to the bathroom.,entailment
+A man standing at a urinal with a coffee cup.,The man in the bathroom was afraid someone would take his coffee.,neutral
+A man standing at a urinal with a coffee cup.,A woman is back her car down the driveway.,neutral
+A bricklayer smoothing out concrete.,Someone is smoothing concrete.,entailment
+A bricklayer smoothing out concrete.,A bricklayer on the clock working.,entailment
+A bricklayer smoothing out concrete.,A person is looking out his bedroom window.,neutral
+Three asian women purchasing and shopping for postcards in a modern store.,Three women shop for cards.,entailment
+Three asian women purchasing and shopping for postcards in a modern store.,Three women shop for postcards to send home.,neutral
+Three asian women purchasing and shopping for postcards in a modern store.,Three women shop for clothes.,contradiction
+Soldiers march in their olive drab uniforms carrying weapons from the WWII era.,The soliders are marching.,entailment
+Soldiers march in their olive drab uniforms carrying weapons from the WWII era.,The soldiers are marching in a straight line.,neutral
+Soldiers march in their olive drab uniforms carrying weapons from the WWII era.,The soldiers are carrying flags.,neutral
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,There are ladies outdoors.,entailment
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,Four dancers are putting on a show.,entailment
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,There are ladies watching the superbowl in a living room.,contradiction
+A black man wearing a blue shirt and some bling starring into the camera.,the man is getting his picture taken,entailment
+A black man wearing a blue shirt and some bling starring into the camera.,the man is a famous singer,neutral
+A black man wearing a blue shirt and some bling starring into the camera.,the man is in a subtle brown suit with no jewelry,contradiction
+A man singing while playing guitar with passion.,A man singing and playing the guitar.,entailment
+A man singing while playing guitar with passion.,A man in concert.,neutral
+A man singing while playing guitar with passion.,A man playing the drums,contradiction
+Two dogs with the same coloring look like they are going to bite each other in the face.,Two similarly colored dogs are trying to bite each others faces.,entailment
+Two dogs with the same coloring look like they are going to bite each other in the face.,Two dogs are trying to bite one another.,neutral
+Two dogs with the same coloring look like they are going to bite each other in the face.,Two dogs are licking each other in the face.,neutral
+"Two young children, one in striped top, running down pathway surrounded by ferns.",Two children are running outside,entailment
+"Two young children, one in striped top, running down pathway surrounded by ferns.",Two children are running away from a large dog.,neutral
+"Two young children, one in striped top, running down pathway surrounded by ferns.",Two children are watching television.,contradiction
+"Several young people adults sit around while a middle-eastern band prepares to play keyboard, drums, violin and a mandolin.",There are many young adult.s,entailment
+"Several young people adults sit around while a middle-eastern band prepares to play keyboard, drums, violin and a mandolin.",They are at a club.,neutral
+"Several young people adults sit around while a middle-eastern band prepares to play keyboard, drums, violin and a mandolin.",there are no young adults,contradiction
+Three construction workers stand over a job site wearing ragged and tattered clothing while a man and woman pass behind them and a large pill of dirt and debris sit in front.,Three guys sitting outside at a job site.,neutral
+Three construction workers stand over a job site wearing ragged and tattered clothing while a man and woman pass behind them and a large pill of dirt and debris sit in front.,Three guys are whistling to the people passing behind them.,neutral
+Three construction workers stand over a job site wearing ragged and tattered clothing while a man and woman pass behind them and a large pill of dirt and debris sit in front.,Six people can be seen working at the job site.,neutral
+A large explosion occured near a red car at a gas station.,A large explosion happened.,entailment
+A large explosion occured near a red car at a gas station.,A car crashed into a oil tanker filling up at the nearby gas station.,neutral
+A large explosion occured near a red car at a gas station.,There are no cars parked near the gas station.,neutral
+people making strawberries drink on a hot day.,people are making drinks,entailment
+people making strawberries drink on a hot day.,the people are going to sell their drinks,neutral
+people making strawberries drink on a hot day.,the people went skiing on this cold day,contradiction
+A little girl is reading a storybook on a flowered sofa.,A girl relaxes on a sofa while reading.,entailment
+A little girl is reading a storybook on a flowered sofa.,The girl is reading out loud.,neutral
+A little girl is reading a storybook on a flowered sofa.,The girl is floating on a cloud while reading.,contradiction
+Two people are riding down a log flume in a theme park.,Two people are riding on a ride in a theme park.,entailment
+Two people are riding down a log flume in a theme park.,Two people are having fun riding down a log flume in a theme park.,entailment
+Two people are riding down a log flume in a theme park.,Two people are leaving a theme park.,neutral
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun.,A man is looking at a woman.,entailment
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun.,He is interested in buying her gun.,neutral
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun.,The man is driving the nascar around the track.,contradiction
+A yellow truck with Casterol branding leads a white truck and blue truck down the road.,A white and blue truck are following a yellow truck that is promoting Casterol.,entailment
+A yellow truck with Casterol branding leads a white truck and blue truck down the road.,A yellow truck with Casterol branding is heading up a convoy on the highway.,entailment
+A yellow truck with Casterol branding leads a white truck and blue truck down the road.,A yellow truck is alone on the road.,contradiction
+"A man stands in front of an easel, on which is painted the young woman standing in front of the ocean with a parasol.",A human standing,entailment
+"A man stands in front of an easel, on which is painted the young woman standing in front of the ocean with a parasol.",A tall human standing,neutral
+"A man stands in front of an easel, on which is painted the young woman standing in front of the ocean with a parasol.",Nobody is standing,contradiction
+A man wearing swim goggles is doing the crawl in a lane in a swimming pool.,A human in a pool,entailment
+A man wearing swim goggles is doing the crawl in a lane in a swimming pool.,A tall human in a pool,neutral
+A man wearing swim goggles is doing the crawl in a lane in a swimming pool.,Nobody is in a pool.,neutral
+"Amish looking people are outside a building, standing near a tree.",The building is near a tree.,entailment
+"Amish looking people are outside a building, standing near a tree.",The people are reenacting a scene.,neutral
+"Amish looking people are outside a building, standing near a tree.",The tree is full of pears.,neutral
+"A woman sitting, a woman sweeping, and a woman holding a shovel.",Lady at work,neutral
+"A woman sitting, a woman sweeping, and a woman holding a shovel.",women's are eating,neutral
+Couples and singles dancing with numbers attached to them.,Couples and singles dancing happily.,entailment
+Couples and singles dancing with numbers attached to them.,People eating marshmallows.,neutral
+A child is looking at a red parking meter on the street.,A kid is seeing the parking meter.,entailment
+A child is looking at a red parking meter on the street.,A boy is observing the parking meter.,neutral
+A child is looking at a red parking meter on the street.,A couple is watching the parking meter.,neutral
+People are in a room discussing around a computer printer.,people are in a room.,entailment
+People are in a room discussing around a computer printer.,People are talking to each other.,entailment
+People are in a room discussing around a computer printer.,People are sleeping on the car.,neutral
+Two boys fooling around in pool with inflatable lifesavers,Boys in a pool.,entailment
+Two boys fooling around in pool with inflatable lifesavers,Boys playing with big rubber donuts in the city pool.,neutral
+Two boys fooling around in pool with inflatable lifesavers,A boy throws a football.,neutral
+A sailor steers a sailboat through a turn.,A sailor is steering a sailboat.,entailment
+A sailor steers a sailboat through a turn.,A sailor steers a sailboat through a turn on a rough sea.,neutral
+A sailor steers a sailboat through a turn.,A man is rowing a boat in a river.,contradiction
+"A little child in a green shirt eats a crust of bread, smiling.",A happy kid in green eating bread,entailment
+"A little child in a green shirt eats a crust of bread, smiling.",A kid eating bread for a snack,neutral
+"A little child in a green shirt eats a crust of bread, smiling.",A kid is not eating bread,contradiction
+A woman in a brown shirt and glasses looks at a diagram on a screen.,A woman looks at a diagram.,entailment
+A woman in a brown shirt and glasses looks at a diagram on a screen.,A woman works on her computer at the office.,neutral
+A woman in a brown shirt and glasses looks at a diagram on a screen.,A woman practices her dancing in the studio.,neutral
+Softball pitcher pitching,A softball pitcher is throwing a ball.,entailment
+Softball pitcher pitching,A softball pitcher enjoys playing softball.,entailment
+Softball pitcher pitching,A softball pitcher is throwing a soccer ball.,neutral
+A man in a plaid shirt thinking.,The man is thinking.,entailment
+A man in a plaid shirt thinking.,The man is thinking about the project.,neutral
+A man in a plaid shirt thinking.,The man in black thinks about the performance.,neutral
+A woman and man look at a computer screen at an expo.,A woman and man look at a computer.,entailment
+A woman and man look at a computer screen at an expo.,The people are a couple,neutral
+A woman and man look at a computer screen at an expo.,The people are sleep at an expo.,contradiction
+Sitting on a doorstep talking.,Someone is sitting on a doorstep.,entailment
+Sitting on a doorstep talking.,People are talking about life.,neutral
+Sitting on a doorstep talking.,People are walking and talking.,contradiction
+A man standing near a grille with charcoal in it.,A man stands next to a grill.,entailment
+A man standing near a grille with charcoal in it.,A man stand next to a grill waiting for food.,neutral
+A man standing near a grille with charcoal in it.,A woman eats a hamburger.,neutral
+"A dark-skinned man in traditional African garb stares into the camera, his right eye appears to have a cataract.",A man is wearing african garb,entailment
+"A dark-skinned man in traditional African garb stares into the camera, his right eye appears to have a cataract.",A man is attending a party.,neutral
+"A dark-skinned man in traditional African garb stares into the camera, his right eye appears to have a cataract.",A man is wearing japanese garb,contradiction
+"A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.",An attractive woman with tattoos looking sexy.,entailment
+"A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.",A woman in a dress with tattoo's.,neutral
+"A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.",A fat hairy mammoth.,contradiction
+"A bulldozer works to demolish a decrepit building; in the background, another brick building waits for its demise, its face covered with a grid of blackened window-holes.",a bulldozer is near a building,entailment
+"A bulldozer works to demolish a decrepit building; in the background, another brick building waits for its demise, its face covered with a grid of blackened window-holes.",a buildozer is near a building awating for it to break,entailment
+"A bulldozer works to demolish a decrepit building; in the background, another brick building waits for its demise, its face covered with a grid of blackened window-holes.",the building is safe a secure in the background,contradiction
+"Man in black pants, white shirt playing a flue as a lady in pink dances",A woman is dancing while music plays in the background.,entailment
+"Man in black pants, white shirt playing a flue as a lady in pink dances",A Mexican man in black pants and a white shirt is playing a flue while an old woman in a pink dress is twerking.,neutral
+"Man in black pants, white shirt playing a flue as a lady in pink dances",The man and woman sit quietly together.,neutral
+A man is using a wrench to fix the wheel of his car while a blond girl helps him.,The man is holding a tool.,entailment
+A man is using a wrench to fix the wheel of his car while a blond girl helps him.,The man is a mechanic.,neutral
+A man is using a wrench to fix the wheel of his car while a blond girl helps him.,The man is washing the car.,contradiction
+Three men are making pizza dough.,Men are making pizza dough.,entailment
+Three men are making pizza dough.,Men are preparing a vegetable pizza.,neutral
+Three men are making pizza dough.,A woman is baking a pie.,contradiction
+A man in a red and white striped shirt wearing a headlamp is working on a device with different colored wires.,A man in a red shirt is working on a device,entailment
+A man in a red and white striped shirt wearing a headlamp is working on a device with different colored wires.,He is an inventor,neutral
+A man in a red and white striped shirt wearing a headlamp is working on a device with different colored wires.,A man is kicking a dog,neutral
+"A man in an aqua colored shirt, a sailor, a young boy wearing a red shirt and some other people tug on ropes while standing on a ship's deck.",A few people on a ship.,entailment
+"A man in an aqua colored shirt, a sailor, a young boy wearing a red shirt and some other people tug on ropes while standing on a ship's deck.",The ships' crew are preparing the boat to dock while a crowd waits.,neutral
+"A man in an aqua colored shirt, a sailor, a young boy wearing a red shirt and some other people tug on ropes while standing on a ship's deck.",A dog is seen watching TV.,contradiction
+A peephole looking through at a man in a blue jumpsuit working,Someone is looking at a workman in blue.,entailment
+A peephole looking through at a man in a blue jumpsuit working,A person is watching the cop through a peephole waiting for him to leave.,neutral
+A peephole looking through at a man in a blue jumpsuit working,A view through a peephole of a guy in an orange tie.,neutral
+"A working man is burning logs, he is wearing a hat and white uniform.","Man in uniform, burning logs",entailment
+"A working man is burning logs, he is wearing a hat and white uniform.",Working man trying to set fire to logs,entailment
+"A working man is burning logs, he is wearing a hat and white uniform.",Man trying to burn house,neutral
+A worker is power washing the sidewalk outside of an estate surrounded by an iron fence.,A person washing the sidewalk.,entailment
+A worker is power washing the sidewalk outside of an estate surrounded by an iron fence.,A person washing the sidewalk in preparation for an event.,neutral
+A worker is power washing the sidewalk outside of an estate surrounded by an iron fence.,A man washing in a weird fashion because he is a pokemon and is indoors.,contradiction
+"A cat observing two little rabbits in a box of hay inside an wire enclosure, while a woman in a white sweater looks on.",The woman is looking at the cat who is watching the rabbits.,entailment
+"A cat observing two little rabbits in a box of hay inside an wire enclosure, while a woman in a white sweater looks on.",The cat is thinking of eating the rabbits while the woman watches.,neutral
+"A cat observing two little rabbits in a box of hay inside an wire enclosure, while a woman in a white sweater looks on.",The rabbits attacked the cat.,neutral
+A plat is sitting on the floor next to a blond girl.,Girl is sitting next to a map,neutral
+A plat is sitting on the floor next to a blond girl.,blonde girl is learning new areas,contradiction
+A plat is sitting on the floor next to a blond girl.,red head girl is on a swing,contradiction
+People buying groceries after massive earthquakes had hit their hometown in recent weeks,People are shopping for groceries after a huge earthquake.,entailment
+People buying groceries after massive earthquakes had hit their hometown in recent weeks,People are restocking on their food after the earthquake.,entailment
+People buying groceries after massive earthquakes had hit their hometown in recent weeks,People are at a concert.,contradiction
+A guy in a green shirt hammering and another guy moving a box.,The men are working.,neutral
+A guy in a green shirt hammering and another guy moving a box.,The box is big.,neutral
+A guy in a green shirt hammering and another guy moving a box.,They guys are watching a tv show.,contradiction
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",Four musicians are playing instruments outside.,entailment
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",The musicians are friends.,neutral
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",The musicians are eating lunch.,neutral
+Spectators looking on while court jesters are in the street throwing something up in air.,The crowd is being entertained.,entailment
+Spectators looking on while court jesters are in the street throwing something up in air.,The jesters are juggling.,entailment
+Spectators looking on while court jesters are in the street throwing something up in air.,The jesters are performing alone.,neutral
+Kids learning about volcanoes.,Kids are involved in an activity.,entailment
+Kids learning about volcanoes.,Kids are doing a volcano project.,neutral
+Kids learning about volcanoes.,Kids are learning about the solar system.,contradiction
+Very bad retro band on Valentine's day.,A music venue on Vamentine's day was retro in style.,entailment
+Very bad retro band on Valentine's day.,The retro band on Valentine's day was not appreciated by the crowd.,entailment
+Very bad retro band on Valentine's day.,The retro band on Valentine's day was actually a hoax and the perfomance a mass controlled hallucination induced by drufs and cotton candy.,contradiction
+a sign telling you to accept jesus as your savior.,There is a jesus sign.,entailment
+a sign telling you to accept jesus as your savior.,There is a religious sign in front of the church.,neutral
+a sign telling you to accept jesus as your savior.,There is a person holding a sign praising Satan as they sing Ave Satani in front of a church.,neutral
+A group of men wearing old military uniforms are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city street.,A military men demonstrating rifles to onlookers.,neutral
+A group of men wearing old military uniforms are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city street.,Onlookers are watching rifles,entailment
+A group of men wearing old military uniforms are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city street.,A group of men sitting in a park.,neutral
+"Sitting at the rear of a crowd of people on the grassy hill, an Asian man plays his shamisen, a Japanese stringed instrument.",A man is playing music for the crowd.,entailment
+"Sitting at the rear of a crowd of people on the grassy hill, an Asian man plays his shamisen, a Japanese stringed instrument.","The Asian man is playing a cover of ""Imagine"" by John Lennon.",neutral
+"Sitting at the rear of a crowd of people on the grassy hill, an Asian man plays his shamisen, a Japanese stringed instrument.",A man is playing the piano loudly.,contradiction
+A man with a yellow shirt and blue jeans re shingles a roof.,A man is outside.,entailment
+A man with a yellow shirt and blue jeans re shingles a roof.,A man with a yellow shirt and blue jeans re shingles a roof for his sister.,neutral
+A man with a yellow shirt and blue jeans re shingles a roof.,A man digs a ditch around a house.,contradiction
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,A woman is sitting outside with her dog.,entailment
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,A woman is waiting for her husband with her dog next to a lake in a park.,neutral
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,A woman is sitting in a hospital waiting room with her dog.,contradiction
+Two women and a man are sitting on metal bollards.,Two women and a man sit.,entailment
+Two women and a man are sitting on metal bollards.,Two men and a women sit together with their work hats on their laps.,neutral
+Two women and a man are sitting on metal bollards.,Two men eat pizza in a restaruant.,contradiction
+"A bright carnival scene displays balloons, vendors, and a carousel in front a burst of clouds.",People are at a carnival,neutral
+"A bright carnival scene displays balloons, vendors, and a carousel in front a burst of clouds.",The carnival is in Brazil,neutral
+"A bright carnival scene displays balloons, vendors, and a carousel in front a burst of clouds.",The carnival is empty,neutral
+Small dog seeks comfort from his owner in this shopping scene.,The owner is with their dog,entailment
+Small dog seeks comfort from his owner in this shopping scene.,A toy poodle is with their owner,neutral
+Small dog seeks comfort from his owner in this shopping scene.,Large dogs are on a shopping spree,contradiction
+"There's a silhouette of a man at the beach kicking his leg in the air, while the sun is setting before him.",A man is on the beach,entailment
+"There's a silhouette of a man at the beach kicking his leg in the air, while the sun is setting before him.",A man is trying to make a cool pose with his shadow,neutral
+"There's a silhouette of a man at the beach kicking his leg in the air, while the sun is setting before him.",A man is on a plane,contradiction
+Sitting guy handling a stapler while another guy looks on.,A man is fixing paperwork for another.,neutral
+Sitting guy handling a stapler while another guy looks on.,A man is filling out hire paperwork for another.,neutral
+Sitting guy handling a stapler while another guy looks on.,A guy sitting is catching a ball from another guy.,neutral
+"A woman with brown hair, wearing a black sweater, black glasses, and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery.",A woman and some kids cross a street.,entailment
+"A woman with brown hair, wearing a black sweater, black glasses, and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery.",Some people are walking on the street.,entailment
+"A woman with brown hair, wearing a black sweater, black glasses, and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery.",People sit by the road.,neutral
+A guy wearing a blue# 5 jersey is hitting a yellow softball in a grassy field to some fielders.,The guy in the jersey was playing softball.,entailment
+A guy wearing a blue# 5 jersey is hitting a yellow softball in a grassy field to some fielders.,The guy was the coach of the softball team.,neutral
+A guy wearing a blue# 5 jersey is hitting a yellow softball in a grassy field to some fielders.,The guy was playing baseball in the field.,neutral
+"A woman wearing a brown scarf and sunglasses, walks through a shopping outlet.",The woman in the brown scarf and sunglasses is walking.,entailment
+"A woman wearing a brown scarf and sunglasses, walks through a shopping outlet.",The woman is buying goods.,neutral
+"A woman wearing a brown scarf and sunglasses, walks through a shopping outlet.",The woman is in her car.,contradiction
+We see a shot of a Korean historical drama with a man in bright red and yellow costume is in the foreground.,A human in a costume,entailment
+We see a shot of a Korean historical drama with a man in bright red and yellow costume is in the foreground.,the drama is on TV,neutral
+We see a shot of a Korean historical drama with a man in bright red and yellow costume is in the foreground.,A woman does a Korean movie scene.,neutral
+three people over a culvert looking into the water beside an alligator caution sign,There are three people looking into the water.,entailment
+three people over a culvert looking into the water beside an alligator caution sign,There is an alligator in the water.,neutral
+three people over a culvert looking into the water beside an alligator caution sign,There are three people swimming in the water,contradiction
+A bird flying pass the walkway.,a bird come down the walk,neutral
+A bird flying pass the walkway.,a natural creature walking,neutral
+A bird flying pass the walkway.,bird is flying,entailment
+Military trainees in a rubber raft hook a ladder onto a larger boat.,The militants have a raft.,neutral
+Military trainees in a rubber raft hook a ladder onto a larger boat.,The officers are training.,neutral
+Military trainees in a rubber raft hook a ladder onto a larger boat.,The zombies are floating.,contradiction
+A man and woman taking a nap on a makeshift rip.,Two people are taking a nap.,entailment
+A man and woman taking a nap on a makeshift rip.,The man and woman taking a nap are married.,neutral
+A man and woman taking a nap on a makeshift rip.,The man and woman are at the movie theater.,contradiction
+A hand poking out of a black sweater sleeve is mixing an egg into a flour well with a fork.,There is a person mixing ingredients together.,entailment
+A hand poking out of a black sweater sleeve is mixing an egg into a flour well with a fork.,Someone is making a dish from a recipe.,neutral
+A hand poking out of a black sweater sleeve is mixing an egg into a flour well with a fork.,Someone in a black-sleeved sweater is using a spoon to mix an egg with flour.,entailment
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread.,The child sits in the cart.,neutral
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread.,The child is going grocery shopping with her grandmother.,neutral
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread.,The child has squished the bread.,neutral
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses.,Two humans stand near a partially built aircraft.,entailment
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses.,Two brothers build an aircraft.,neutral
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses.,Two women are destroying a reed aircraft.,contradiction
+Teen girl using landscape binoculars to look for waterfowl.,A teen is looking for animals.,entailment
+Teen girl using landscape binoculars to look for waterfowl.,A girl is looking through her pink binoculars.,neutral
+Teen girl using landscape binoculars to look for waterfowl.,A boy is looking for waterfowl.,neutral
+A pastor on a cellphone in front of a stone building with five officers wearing green uniforms; two are standing while the others are seated.,The man is outside.,entailment
+A pastor on a cellphone in front of a stone building with five officers wearing green uniforms; two are standing while the others are seated.,The man is about to be arrested.,neutral
+A pastor on a cellphone in front of a stone building with five officers wearing green uniforms; two are standing while the others are seated.,The man is indoors.,contradiction
+Blond child is learning self deference.,The child is blond.,entailment
+Blond child is learning self deference.,The child is active.,neutral
+Blond child is learning self deference.,The child is swimming.,contradiction
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,The man is riding on the boardwalk,neutral
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,The man wishes he was on the ship,neutral
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,The man is watching tv,contradiction
+Here is a man wearing a gray hat with a flower boutonniere raising his glass.,Someone in formal wear giving a toast.,neutral
+Here is a man wearing a gray hat with a flower boutonniere raising his glass.,The best man raises his glass to begin a toast at a wedding reception.,neutral
+Here is a man wearing a gray hat with a flower boutonniere raising his glass.,A young woman in a dress raises her glass.,neutral
+Two female tennis players showing great sportsmanship at a tennis match.,A tennis game is held.,entailment
+Two female tennis players showing great sportsmanship at a tennis match.,Competing players put aside their differences in a close tennis game.,neutral
+Two female tennis players showing great sportsmanship at a tennis match.,Tennis players are chastised for unsportsmanlike conduct.,neutral
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background.,The men are dressed up,entailment
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background.,The men are veterans,neutral
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background.,The men are holding guns,neutral
+"At the rodeo, a patriotic cowboy and cowgirl prepare to ride with an american flag.",The cowboy and cowgirl are on horseback.,entailment
+"At the rodeo, a patriotic cowboy and cowgirl prepare to ride with an american flag.",The cowboy and cowgirl are excited.,neutral
+"At the rodeo, a patriotic cowboy and cowgirl prepare to ride with an american flag.",The cowboy and cowgirl are in a swimming pool.,contradiction
+A scientist performs a lab test using fresh raw eggs.,A scientist performs a lab test using fresh raw eggs,entailment
+A scientist performs a lab test using fresh raw eggs.,The raw eggs were given to them for free from the store,neutral
+A scientist performs a lab test using fresh raw eggs.,The scientist were watching tv,neutral
+"A football game between a gold team and a white team, a team member from the gold team is signing a time-out.",The football game is in progress.,neutral
+"A football game between a gold team and a white team, a team member from the gold team is signing a time-out.",The score of the game is tied.,neutral
+"A football game between a gold team and a white team, a team member from the gold team is signing a time-out.",A group of boys are dressed in hockey equipment standing around in a hockey rink.,neutral
+A group of older people are sitting in a pub playing various instruments.,The people are playing indoors.,entailment
+A group of older people are sitting in a pub playing various instruments.,The players have many years experience playing together.,neutral
+A group of older people are sitting in a pub playing various instruments.,The people playing are very young.,contradiction
+"A paraplegic (with prosthetics) wearing a finish line banner, is walking next to a middle-aged man wearing a yellow t-shirt shirt.",Two people are wearing clothes.,entailment
+"A paraplegic (with prosthetics) wearing a finish line banner, is walking next to a middle-aged man wearing a yellow t-shirt shirt.",A middle-aged man is thinking about pie.,neutral
+"A paraplegic (with prosthetics) wearing a finish line banner, is walking next to a middle-aged man wearing a yellow t-shirt shirt.",A middle-aged man is wearing a dress.,contradiction
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop.,The women are sitting outside.,entailment
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop.,four women enjoy sitting on a green outdoor furniture on a patio while looking  at the scenery,neutral
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop.,four men stand inside watching sports,contradiction
+"Cool, refreshing snow flies as a skier speeds quickly down a wintry wonderland.",Someone is skiing in really nice snow.,entailment
+"Cool, refreshing snow flies as a skier speeds quickly down a wintry wonderland.",Somone is outside.,entailment
+"Cool, refreshing snow flies as a skier speeds quickly down a wintry wonderland.",Someone is playing by the beach.,neutral
+Many woman on laying on bellies on floor holding hands.,Women are laying on the floor.,entailment
+Many woman on laying on bellies on floor holding hands.,The women are acting like snakes.,neutral
+Many woman on laying on bellies on floor holding hands.,The woman are laying on their backs.,contradiction
+"Performing some bike maintenance, the lady lubricates a frame before assembly is completed.",The woman is doing maintenance.,entailment
+"Performing some bike maintenance, the lady lubricates a frame before assembly is completed.",The lady is fixing the bike for a friend.,neutral
+"Performing some bike maintenance, the lady lubricates a frame before assembly is completed.",The woman is sewing a shirt.,contradiction
+"overhead view of two people, a man and a woman, preparing a meal with potatoes.",Two people prepare a meal.,entailment
+"overhead view of two people, a man and a woman, preparing a meal with potatoes.",Two people are preparing a meal for their family.,neutral
+"overhead view of two people, a man and a woman, preparing a meal with potatoes.",Two people are eating potatoes with their feet.,neutral
+A woman shakes a cocktail.,A person is making a drink.,entailment
+A woman shakes a cocktail.,A person is working in a bar.,neutral
+A woman shakes a cocktail.,A dog is drawing a picture.,contradiction
+Skier doing a 360 degree flip in the air.,the skier is jumping,entailment
+Skier doing a 360 degree flip in the air.,the skier is in a competition,neutral
+Skier doing a 360 degree flip in the air.,the sun is beaming down on the beach,contradiction
+A mailman with a rolling mailbag smiling at the camera in front of a wall topped with an iron decorative fence.,A mailman is having his picture taken.,entailment
+A mailman with a rolling mailbag smiling at the camera in front of a wall topped with an iron decorative fence.,The mailman is posing for photographs that will appear in a catalog.,neutral
+A mailman with a rolling mailbag smiling at the camera in front of a wall topped with an iron decorative fence.,The mailman is driving his mail truck.,neutral
+"A young person, wears red sandals, black pants and a blue shirt, his head and face covered with a checked scarf and carrying a rocket launcher.",Someone is holding a rocket launcher.,entailment
+"A young person, wears red sandals, black pants and a blue shirt, his head and face covered with a checked scarf and carrying a rocket launcher.",Someone is planning to attack using a rocket launcher.,neutral
+"A young person, wears red sandals, black pants and a blue shirt, his head and face covered with a checked scarf and carrying a rocket launcher.",Someone is carrying a stuffed animal.,neutral
+A young boy raises his head out of the pool water and takes a huge gulp of air during swimming lessons.,A boy gasps for air as he learns to swim.,neutral
+A young boy raises his head out of the pool water and takes a huge gulp of air during swimming lessons.,The young boy struggles to swim.,neutral
+A young boy raises his head out of the pool water and takes a huge gulp of air during swimming lessons.,A woman swims nude.,contradiction
+Two older women working their spindles diligently.,There are two women working.,entailment
+Two older women working their spindles diligently.,Two women talk as they spin yarn.,neutral
+Two older women working their spindles diligently.,Two babies are in a crib.,neutral
+A man carrying steel beams across a lumberyard.,A man carrying equipment for work.,entailment
+A man carrying steel beams across a lumberyard.,A man building a skyscraper.,neutral
+A man carrying steel beams across a lumberyard.,A man is doing an office job.,contradiction
+A vibrant tracker hikes through a scenic trail.,There is a tracker on the trail.,entailment
+A vibrant tracker hikes through a scenic trail.,The vibrant tracker knows the trail well.,neutral
+A vibrant tracker hikes through a scenic trail.,The tracker is hiking through the interstate.,contradiction
+Soccer player putting on moves that you thought could only happen in a video game.,Soccer player showing swiftest moves,entailment
+Soccer player putting on moves that you thought could only happen in a video game.,Soccer player running,neutral
+Soccer player putting on moves that you thought could only happen in a video game.,Soccer player sitting on sidelines.,neutral
+"three young boys playing hear no evil, speak no evil, see no evil",The young boys are playing.,entailment
+"three young boys playing hear no evil, speak no evil, see no evil",The young boys are classmates.,neutral
+"three young boys playing hear no evil, speak no evil, see no evil",The young boys are working on homework.,contradiction
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread.,The loaf is buttered .,neutral
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread.,A person eats the loaf .,neutral
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread.,People eat the loaf .,neutral
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread.,People receive the loaf .,neutral
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread.,The loaf is bread .,entailment
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread.,The loaf is baked .,entailment
+"A bright carnival scene displays balloons, vendors, and a carousel in front a burst of clouds.",The burst is a fire .,contradiction
+"A bright carnival scene displays balloons, vendors, and a carousel in front a burst of clouds.",A person backs the burst .,contradiction
+"A bright carnival scene displays balloons, vendors, and a carousel in front a burst of clouds.",The burst exposes a rift .,neutral
+"A bright carnival scene displays balloons, vendors, and a carousel in front a burst of clouds.",The burst is a happening .,neutral
+"A bright carnival scene displays balloons, vendors, and a carousel in front a burst of clouds.",The burst sabotages an effort .,neutral
+"A bright carnival scene displays balloons, vendors, and a carousel in front a burst of clouds.",The burst is unconstitutional .,contradiction
+"A bright carnival scene displays balloons, vendors, and a carousel in front a burst of clouds.",The burst wide .,contradiction
+A guy wearing a blue# 5 jersey is hitting a yellow softball in a grassy field to some fielders.,The fielders are a cricketer .,neutral
+A guy wearing a blue# 5 jersey is hitting a yellow softball in a grassy field to some fielders.,The fielders become a free agent after a season .,neutral
+A guy wearing a blue# 5 jersey is hitting a yellow softball in a grassy field to some fielders.,The fielders face a ban .,neutral
+A guy wearing a blue# 5 jersey is hitting a yellow softball in a grassy field to some fielders.,The fielders are a ballplayer .,entailment
+A guy wearing a blue# 5 jersey is hitting a yellow softball in a grassy field to some fielders.,The fielders have a case .,neutral
+A guy wearing a blue# 5 jersey is hitting a yellow softball in a grassy field to some fielders.,A person is run out by the fielders .,contradiction
+A guy wearing a blue# 5 jersey is hitting a yellow softball in a grassy field to some fielders.,The fielders are injured .,neutral
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background.,The forefathers are an ancestor .,entailment
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background.,The forefathers come via rafts .,neutral
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background.,A shell is tougher than the forefathers .,contradiction
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background.,A descendant is nothing like the forefathers .,neutral
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background.,The forefathers ask a person .,contradiction
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background.,The forefathers are buried .,neutral
+A group of older people are sitting in a pub playing various instruments.,A man owns the pub .,entailment
+A group of older people are sitting in a pub playing various instruments.,The pub is demolished .,neutral
+A group of older people are sitting in a pub playing various instruments.,The pub is sounded .,contradiction
+A group of older people are sitting in a pub playing various instruments.,A celebration moves into the pub .,neutral
+A group of older people are sitting in a pub playing various instruments.,The pub is a tavern .,entailment
+A group of older people are sitting in a pub playing various instruments.,The pub expects to play a host .,contradiction
+A man and woman taking a nap on a makeshift rip.,A section is closed because of the rip .,neutral
+A man and woman taking a nap on a makeshift rip.,The rip is parted of a plan .,contradiction
+A man and woman taking a nap on a makeshift rip.,A swimmer disappears in the rip .,contradiction
+A man and woman taking a nap on a makeshift rip.,The rip is a turbulence .,contradiction
+A man and woman taking a nap on a makeshift rip.,A goal comes on the rip .,contradiction
+A man and woman taking a nap on a makeshift rip.,The rip is a tear .,contradiction
+A man and woman taking a nap on a makeshift rip.,A friend swims back to shore during the rip .,contradiction
+Many woman on laying on bellies on floor holding hands.,A ball hits the bellies .,neutral
+Many woman on laying on bellies on floor holding hands.,A person tolerates is seen with the bellies .,contradiction
+Many woman on laying on bellies on floor holding hands.,A plane skids on the bellies .,contradiction
+Many woman on laying on bellies on floor holding hands.,An imagination knows the bellies .,contradiction
+Many woman on laying on bellies on floor holding hands.,The bellies are an inside .,contradiction
+Many woman on laying on bellies on floor holding hands.,A judge oversteps the bellies .,neutral
+"A man stands in front of an easel, on which is painted the young woman standing in front of the ocean with a parasol.",The easel is read .,neutral
+"A man stands in front of an easel, on which is painted the young woman standing in front of the ocean with a parasol.",A person packs up the easel .,neutral
+"A man stands in front of an easel, on which is painted the young woman standing in front of the ocean with a parasol.",The easel is a tripod .,entailment
+"A man stands in front of an easel, on which is painted the young woman standing in front of the ocean with a parasol.",The easel would a mirror .,contradiction
+"A man stands in front of an easel, on which is painted the young woman standing in front of the ocean with a parasol.",A person detonates the easel .,neutral
+"A man stands in front of an easel, on which is painted the young woman standing in front of the ocean with a parasol.",A craft will the easel .,contradiction
+Two female tennis players showing great sportsmanship at a tennis match.,The sportsmanship is fairness .,neutral
+Two female tennis players showing great sportsmanship at a tennis match.,A person advocates the sportsmanship .,entailment
+Two female tennis players showing great sportsmanship at a tennis match.,The sportsmanship resigns .,contradiction
+Two female tennis players showing great sportsmanship at a tennis match.,A person never find the sportsmanship .,contradiction
+Two female tennis players showing great sportsmanship at a tennis match.,A capitulation overshadows the sportsmanship .,neutral
+Two female tennis players showing great sportsmanship at a tennis match.,A team acts against the sportsmanship .,neutral
+"There's a silhouette of a man at the beach kicking his leg in the air, while the sun is setting before him.",The silhouette is a doll .,contradiction
+"There's a silhouette of a man at the beach kicking his leg in the air, while the sun is setting before him.",The silhouette is an outline .,entailment
+"There's a silhouette of a man at the beach kicking his leg in the air, while the sun is setting before him.",The silhouette etches onto a surface .,neutral
+"There's a silhouette of a man at the beach kicking his leg in the air, while the sun is setting before him.",A depravity knows the silhouette .,contradiction
+"There's a silhouette of a man at the beach kicking his leg in the air, while the sun is setting before him.",The silhouette arises .,neutral
+"There's a silhouette of a man at the beach kicking his leg in the air, while the sun is setting before him.",A department never decipher the silhouette .,contradiction
+A man singing while playing guitar with passion.,Critics mistake the passion .,contradiction
+A man singing while playing guitar with passion.,The passion is a sexual desire .,neutral
+A man singing while playing guitar with passion.,A wife says the passion .,contradiction
+A man singing while playing guitar with passion.,A person indicates the passion .,neutral
+A man singing while playing guitar with passion.,The passion is evident .,entailment
+A man singing while playing guitar with passion.,A person supports the passion .,neutral
+A man singing while playing guitar with passion.,The passion is an agony .,neutral
+A man singing while playing guitar with passion.,The passion is a feeling .,entailment
+A bricklayer smoothing out concrete.,A seed outclasses battle the bricklayer .,contradiction
+A bricklayer smoothing out concrete.,The bricklayer is a craftsman .,entailment
+A bricklayer smoothing out concrete.,The bricklayer is known .,neutral
+A bricklayer smoothing out concrete.,A father works as the bricklayer .,neutral
+A bricklayer smoothing out concrete.,The bricklayer works for a son .,neutral
+A bricklayer smoothing out concrete.,A person the son of the bricklayer .,contradiction
+Soccer player putting on moves that you thought could only happen in a video game.,A person changes the thought .,neutral
+Soccer player putting on moves that you thought could only happen in a video game.,The thought is sounded .,contradiction
+Soccer player putting on moves that you thought could only happen in a video game.,An outcome calls for the thought .,neutral
+Soccer player putting on moves that you thought could only happen in a video game.,A here is a conversation game from the thought .,contradiction
+Soccer player putting on moves that you thought could only happen in a video game.,The thought is a deliberation .,neutral
+Soccer player putting on moves that you thought could only happen in a video game.,A person has to have the thought .,contradiction
+Two older women working their spindles diligently.,The spindles are a fiber .,neutral
+Two older women working their spindles diligently.,Spacers go on the spindles .,neutral
+Two older women working their spindles diligently.,The spindles end in a stand .,neutral
+Two older women working their spindles diligently.,The spindles are a holding device .,entailment
+Two older women working their spindles diligently.,A car rotates around the spindles .,neutral
+Two older women working their spindles diligently.,The spindles fail to detonate .,neutral
+Two older women working their spindles diligently.,The spindles hold better .,neutral
+"A little child in a green shirt eats a crust of bread, smiling.",The crust is carried deep into an earth .,contradiction
+"A little child in a green shirt eats a crust of bread, smiling.",An ascent reflects the crust .,contradiction
+"A little child in a green shirt eats a crust of bread, smiling.",A many snickers at the crust .,contradiction
+"A little child in a green shirt eats a crust of bread, smiling.",A behavior needs to be interpreted as the crust .,contradiction
+"A little child in a green shirt eats a crust of bread, smiling.",The crust is foolish .,contradiction
+"A little child in a green shirt eats a crust of bread, smiling.",The crust is a layer .,neutral
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun.,A person reveals the buckles .,neutral
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun.,A person struggles to pull the buckles .,neutral
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun.,A person dresses the buckles .,contradiction
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun.,The buckles are sharpest .,neutral
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun.,The buckles are crude .,neutral
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun.,The buckles are a fastener .,entailment
+A young boy raises his head out of the pool water and takes a huge gulp of air during swimming lessons.,The lessons are developed .,contradiction
+A young boy raises his head out of the pool water and takes a huge gulp of air during swimming lessons.,The lessons are a teaching .,entailment
+A young boy raises his head out of the pool water and takes a huge gulp of air during swimming lessons.,A person is offered the lessons .,neutral
+A young boy raises his head out of the pool water and takes a huge gulp of air during swimming lessons.,A practice is incompatible with the lessons .,contradiction
+A young boy raises his head out of the pool water and takes a huge gulp of air during swimming lessons.,A government learns the lessons .,contradiction
+A young boy raises his head out of the pool water and takes a huge gulp of air during swimming lessons.,An era holds the lessons .,contradiction
+"Amish looking people are outside a building, standing near a tree.",The amish files a suit .,neutral
+"Amish looking people are outside a building, standing near a tree.",The amish is silent .,neutral
+"Amish looking people are outside a building, standing near a tree.",A person is discriminated against as the amish .,neutral
+"Amish looking people are outside a building, standing near a tree.",The amish is a mennonite .,neutral
+"Amish looking people are outside a building, standing near a tree.",The amish shuns a world .,neutral
+"Amish looking people are outside a building, standing near a tree.",The amish uses a person .,neutral
+"A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.",The cleavage is a division .,neutral
+"A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.",The cleavage is possible .,neutral
+"A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.",A person pushes back against the cleavage .,neutral
+"A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.",The cleavage is justified .,contradiction
+"A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.",The cleavage is a cell division .,contradiction
+"A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.",The cleavage is parted of a plan .,contradiction
+"A woman is propping her leg up revealing cleavage, a great tatoo, and some kicking boots.",The cleavage is unconstitutional .,neutral
+A mailman with a rolling mailbag smiling at the camera in front of a wall topped with an iron decorative fence.,The mailman is suspended .,neutral
+A mailman with a rolling mailbag smiling at the camera in front of a wall topped with an iron decorative fence.,The mailman charges .,contradiction
+A mailman with a rolling mailbag smiling at the camera in front of a wall topped with an iron decorative fence.,The mailman is supposed to do for a party .,contradiction
+A mailman with a rolling mailbag smiling at the camera in front of a wall topped with an iron decorative fence.,The mailman rings .,neutral
+A mailman with a rolling mailbag smiling at the camera in front of a wall topped with an iron decorative fence.,The mailman is a deliveryman .,entailment
+A mailman with a rolling mailbag smiling at the camera in front of a wall topped with an iron decorative fence.,The mailman resigns .,neutral
+A woman in a brown shirt and glasses looks at a diagram on a screen.,A team draws up the diagram .,neutral
+A woman in a brown shirt and glasses looks at a diagram on a screen.,The diagram pins to a tree .,contradiction
+A woman in a brown shirt and glasses looks at a diagram on a screen.,The diagram is safe .,entailment
+A woman in a brown shirt and glasses looks at a diagram on a screen.,The diagram is a drawing .,neutral
+A woman in a brown shirt and glasses looks at a diagram on a screen.,The diagram lists an event .,neutral
+A woman in a brown shirt and glasses looks at a diagram on a screen.,The diagram recalls .,contradiction
+A man wearing swim goggles is doing the crawl in a lane in a swimming pool.,A person gives up the crawl .,neutral
+A man wearing swim goggles is doing the crawl in a lane in a swimming pool.,The crawl bans .,contradiction
+A man wearing swim goggles is doing the crawl in a lane in a swimming pool.,The crawl weediness .,contradiction
+A man wearing swim goggles is doing the crawl in a lane in a swimming pool.,Sales slow to the crawl .,contradiction
+A man wearing swim goggles is doing the crawl in a lane in a swimming pool.,A band uses the crawl .,contradiction
+A man wearing swim goggles is doing the crawl in a lane in a swimming pool.,The crawl is a locomotion .,contradiction
+A man wearing swim goggles is doing the crawl in a lane in a swimming pool.,The crawl is a swimming stroke .,entailment
+a sign telling you to accept jesus as your savior.,The savior is reported miss .,contradiction
+a sign telling you to accept jesus as your savior.,The savior is a benefactor .,neutral
+a sign telling you to accept jesus as your savior.,The savior is killed .,neutral
+a sign telling you to accept jesus as your savior.,The savior inquires .,contradiction
+a sign telling you to accept jesus as your savior.,The savior remains in a condition .,contradiction
+a sign telling you to accept jesus as your savior.,An airline is mentioned as the savior .,contradiction
+"A woman with brown hair, wearing a black sweater, black glasses, and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery.",The embroidery is a needlework .,entailment
+"A woman with brown hair, wearing a black sweater, black glasses, and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery.",The embroidery is an expansion .,neutral
+"A woman with brown hair, wearing a black sweater, black glasses, and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery.",A meeting includes the embroidery .,contradiction
+"A woman with brown hair, wearing a black sweater, black glasses, and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery.",A workmanship whorl of the embroidery .,contradiction
+"A woman with brown hair, wearing a black sweater, black glasses, and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery.",A person loves the embroidery .,neutral
+"A woman with brown hair, wearing a black sweater, black glasses, and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery.",The embroidery comes into a market .,contradiction
+"A woman with brown hair, wearing a black sweater, black glasses, and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery.",A challenge is to design the embroidery .,neutral
+A bird flying pass the walkway.,The flying another through a side .,contradiction
+A bird flying pass the walkway.,The flying is an air travel .,entailment
+A bird flying pass the walkway.,The flying is restricted .,neutral
+A bird flying pass the walkway.,The flying is justified .,neutral
+A bird flying pass the walkway.,The flying is exciting .,neutral
+A bird flying pass the walkway.,The flying bans .,contradiction
+Here is a man wearing a gray hat with a flower boutonniere raising his glass.,The boutonniere is an adornment .,entailment
+Here is a man wearing a gray hat with a flower boutonniere raising his glass.,A person feels honor to receive the boutonniere .,neutral
+Here is a man wearing a gray hat with a flower boutonniere raising his glass.,A person is honored to receive the boutonniere .,neutral
+Here is a man wearing a gray hat with a flower boutonniere raising his glass.,A brooch serves as the boutonniere .,neutral
+Here is a man wearing a gray hat with a flower boutonniere raising his glass.,Moses have the boutonniere .,neutral
+Here is a man wearing a gray hat with a flower boutonniere raising his glass.,A person is observed in the boutonniere .,neutral
+Two boys fooling around in pool with inflatable lifesavers,The lifesavers work an average .,contradiction
+Two boys fooling around in pool with inflatable lifesavers,The lifesavers are a life preserver .,entailment
+Two boys fooling around in pool with inflatable lifesavers,A mystery abounds concern the lifesavers .,contradiction
+Two boys fooling around in pool with inflatable lifesavers,A person is interested in the lifesavers .,neutral
+Two boys fooling around in pool with inflatable lifesavers,The lifesavers are an attendant .,neutral
+Two boys fooling around in pool with inflatable lifesavers,The lifesavers are injured .,contradiction
+Two boys fooling around in pool with inflatable lifesavers,The lifesavers rush to a side .,contradiction
+A yellow truck with Casterol branding leads a white truck and blue truck down the road.,Openness are a essential tool against the branding .,contradiction
+A yellow truck with Casterol branding leads a white truck and blue truck down the road.,The branding is a disapproval .,contradiction
+A yellow truck with Casterol branding leads a white truck and blue truck down the road.,The branding deprives a person .,contradiction
+A yellow truck with Casterol branding leads a white truck and blue truck down the road.,The branding focuses on a name .,neutral
+A yellow truck with Casterol branding leads a white truck and blue truck down the road.,A possible is a close integration to the branding .,contradiction
+A yellow truck with Casterol branding leads a white truck and blue truck down the road.,The branding is difficult .,contradiction
+A man standing near a grille with charcoal in it.,A person is arrested for the grille .,neutral
+A man standing near a grille with charcoal in it.,The grille is a bit lower .,neutral
+A man standing near a grille with charcoal in it.,A body sticks to the grille .,neutral
+A man standing near a grille with charcoal in it.,A person stops the grille .,neutral
+A man standing near a grille with charcoal in it.,A person hits the grille .,neutral
+A man standing near a grille with charcoal in it.,The grille is an opening .,neutral
+A man standing near a grille with charcoal in it.,The grille is a grate .,neutral
+"A young person, wears red sandals, black pants and a blue shirt, his head and face covered with a checked scarf and carrying a rocket launcher.",Police defuse the launcher .,neutral
+"A young person, wears red sandals, black pants and a blue shirt, his head and face covered with a checked scarf and carrying a rocket launcher.",The launcher is an armament .,entailment
+"A young person, wears red sandals, black pants and a blue shirt, his head and face covered with a checked scarf and carrying a rocket launcher.",The launcher is a device .,entailment
+"A young person, wears red sandals, black pants and a blue shirt, his head and face covered with a checked scarf and carrying a rocket launcher.",An agency casts for the launcher .,contradiction
+"A young person, wears red sandals, black pants and a blue shirt, his head and face covered with a checked scarf and carrying a rocket launcher.",The launcher is made of vegetables .,contradiction
+"A young person, wears red sandals, black pants and a blue shirt, his head and face covered with a checked scarf and carrying a rocket launcher.",The launcher fails to detonate .,neutral
+"A young person, wears red sandals, black pants and a blue shirt, his head and face covered with a checked scarf and carrying a rocket launcher.",A tanker is fired on by the launcher .,neutral
+"Cool, refreshing snow flies as a skier speeds quickly down a wintry wonderland.",The wonderland is a land .,entailment
+"Cool, refreshing snow flies as a skier speeds quickly down a wintry wonderland.",An award is based on the wonderland .,contradiction
+"Cool, refreshing snow flies as a skier speeds quickly down a wintry wonderland.",The wonderland includes ways .,contradiction
+"Cool, refreshing snow flies as a skier speeds quickly down a wintry wonderland.",A miracle works on the wonderland .,contradiction
+"Cool, refreshing snow flies as a skier speeds quickly down a wintry wonderland.",A palin shows the wonderland .,contradiction
+"Cool, refreshing snow flies as a skier speeds quickly down a wintry wonderland.",The wonderland is an imaginary place .,neutral
+"Cool, refreshing snow flies as a skier speeds quickly down a wintry wonderland.",The wonderland ends on a play .,contradiction
+"Several young people adults sit around while a middle-eastern band prepares to play keyboard, drums, violin and a mandolin.",A person submerges the mandolin .,neutral
+"Several young people adults sit around while a middle-eastern band prepares to play keyboard, drums, violin and a mandolin.",The mandolin is stored in a vault .,neutral
+"Several young people adults sit around while a middle-eastern band prepares to play keyboard, drums, violin and a mandolin.",The mandolin is a chordophone .,entailment
+"Several young people adults sit around while a middle-eastern band prepares to play keyboard, drums, violin and a mandolin.",The mandolin is convenient .,neutral
+"Several young people adults sit around while a middle-eastern band prepares to play keyboard, drums, violin and a mandolin.",The mandolin would guitar .,contradiction
+"Several young people adults sit around while a middle-eastern band prepares to play keyboard, drums, violin and a mandolin.",A person learns to play the mandolin .,neutral
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop.,The doghouse is an outbuilding .,entailment
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop.,A family sees the doghouse .,neutral
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop.,The doghouse is positive .,contradiction
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop.,A president has the doghouse .,neutral
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop.,The doghouse is a disfavor .,contradiction
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop.,A person leaves the doghouse .,neutral
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop.,The doghouse closes .,contradiction
+"A working man is burning logs, he is wearing a hat and white uniform.",The burning is a tie for a fourth .,contradiction
+"A working man is burning logs, he is wearing a hat and white uniform.",The burning is a damage .,neutral
+"A working man is burning logs, he is wearing a hat and white uniform.",The burning struggles to put together a game .,contradiction
+"A working man is burning logs, he is wearing a hat and white uniform.",A judge orders the burning .,neutral
+"A working man is burning logs, he is wearing a hat and white uniform.",The burning is pained .,contradiction
+"A working man is burning logs, he is wearing a hat and white uniform.",The burning could lose .,contradiction
+A vibrant tracker hikes through a scenic trail.,A job materializes for the tracker .,neutral
+A vibrant tracker hikes through a scenic trail.,The tracker is a hunter .,neutral
+A vibrant tracker hikes through a scenic trail.,The tracker says data .,neutral
+A vibrant tracker hikes through a scenic trail.,The tracker finds a trove .,neutral
+A vibrant tracker hikes through a scenic trail.,A system combines the tracker .,contradiction
+A vibrant tracker hikes through a scenic trail.,The tracker flows .,contradiction
+A worker is power washing the sidewalk outside of an estate surrounded by an iron fence.,The estate is a property .,entailment
+A worker is power washing the sidewalk outside of an estate surrounded by an iron fence.,A lawsuit has on the estate .,contradiction
+A worker is power washing the sidewalk outside of an estate surrounded by an iron fence.,The estate gains a percent .,contradiction
+A worker is power washing the sidewalk outside of an estate surrounded by an iron fence.,The estate is a real property .,entailment
+A worker is power washing the sidewalk outside of an estate surrounded by an iron fence.,A person pays on the estate .,neutral
+A worker is power washing the sidewalk outside of an estate surrounded by an iron fence.,A person dabbles in the estate .,neutral
+A worker is power washing the sidewalk outside of an estate surrounded by an iron fence.,The estate soars in a value .,neutral
+"Performing some bike maintenance, the lady lubricates a frame before assembly is completed.",A person runs the assembly .,neutral
+"Performing some bike maintenance, the lady lubricates a frame before assembly is completed.",The assembly elects a president .,contradiction
+"Performing some bike maintenance, the lady lubricates a frame before assembly is completed.",The assembly is a facility .,contradiction
+"Performing some bike maintenance, the lady lubricates a frame before assembly is completed.",The assembly is charged .,contradiction
+"Performing some bike maintenance, the lady lubricates a frame before assembly is completed.",The assembly is possible .,neutral
+"Performing some bike maintenance, the lady lubricates a frame before assembly is completed.",The assembly employs people .,contradiction
+"Performing some bike maintenance, the lady lubricates a frame before assembly is completed.",The assembly is a machine .,neutral
+Soldiers march in their olive drab uniforms carrying weapons from the WWII era.,The era is a time period .,entailment
+Soldiers march in their olive drab uniforms carrying weapons from the WWII era.,A person lives in the era .,neutral
+Soldiers march in their olive drab uniforms carrying weapons from the WWII era.,A person grows up in the era .,neutral
+Soldiers march in their olive drab uniforms carrying weapons from the WWII era.,The era passes .,contradiction
+Soldiers march in their olive drab uniforms carrying weapons from the WWII era.,Relations enter the era .,contradiction
+Soldiers march in their olive drab uniforms carrying weapons from the WWII era.,A person ushers in the era .,neutral
+Skier doing a 360 degree flip in the air.,A person earns the degree .,contradiction
+Skier doing a 360 degree flip in the air.,A knighthood is one of the degree .,contradiction
+Skier doing a 360 degree flip in the air.,A dead is given the degree .,contradiction
+Skier doing a 360 degree flip in the air.,The degree is an award .,neutral
+Skier doing a 360 degree flip in the air.,The degree is a property .,contradiction
+Skier doing a 360 degree flip in the air.,The degree increases .,contradiction
+Skier doing a 360 degree flip in the air.,An index falls to the degree .,contradiction
+A sailor steers a sailboat through a turn.,The sailor is a hat .,contradiction
+A sailor steers a sailboat through a turn.,A person dies as the sailor .,neutral
+A sailor steers a sailboat through a turn.,A person is a lighthouse to the sailor .,contradiction
+A sailor steers a sailboat through a turn.,The sailor is a skilled worker .,neutral
+A sailor steers a sailboat through a turn.,Witness involve the sailor .,contradiction
+A sailor steers a sailboat through a turn.,The sailor marches off to a war .,contradiction
+A sailor steers a sailboat through a turn.,The sailor falls into a river .,neutral
+Two dogs with the same coloring look like they are going to bite each other in the face.,The coloring comes from a protein .,neutral
+Two dogs with the same coloring look like they are going to bite each other in the face.,The coloring is a visual property .,neutral
+Two dogs with the same coloring look like they are going to bite each other in the face.,A person is lost in the coloring .,contradiction
+Two dogs with the same coloring look like they are going to bite each other in the face.,The coloring is heated .,contradiction
+Two dogs with the same coloring look like they are going to bite each other in the face.,The coloring is a change of color .,neutral
+Two dogs with the same coloring look like they are going to bite each other in the face.,The coloring is whited .,contradiction
+Two dogs with the same coloring look like they are going to bite each other in the face.,The coloring is a foodstuff .,contradiction
+Two dogs with the same coloring look like they are going to bite each other in the face.,A person expects the coloring .,neutral
+A black man wearing a blue shirt and some bling starring into the camera.,The bling skirts chant .,contradiction
+A black man wearing a blue shirt and some bling starring into the camera.,Mosaics are stunning feature of the bling .,contradiction
+A black man wearing a blue shirt and some bling starring into the camera.,The bling beautiful .,contradiction
+A black man wearing a blue shirt and some bling starring into the camera.,A gold is studded with the bling .,contradiction
+A black man wearing a blue shirt and some bling starring into the camera.,The bling is a jewelry .,entailment
+A black man wearing a blue shirt and some bling starring into the camera.,A team avoids the bling .,contradiction
+Couples and singles dancing with numbers attached to them.,A person is led off the singles .,contradiction
+Couples and singles dancing with numbers attached to them.,The singles walk .,neutral
+Couples and singles dancing with numbers attached to them.,The singles double titles .,contradiction
+Couples and singles dancing with numbers attached to them.,A person leaves the singles .,contradiction
+Couples and singles dancing with numbers attached to them.,The singles are a badminton .,contradiction
+Couples and singles dancing with numbers attached to them.,A person plays the singles .,contradiction
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,The movements are disrupted .,neutral
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,The movements are a change .,neutral
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,The movements are a social group .,contradiction
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,The movements would lead nowhere .,neutral
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,The movements are a defecation .,contradiction
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,A person is at the forefront of the movements .,neutral
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,The movements ban .,contradiction
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background.,The movements are seen touch a back .,contradiction
+Kids learning about volcanoes.,The volcanoes erupt times .,contradiction
+Kids learning about volcanoes.,The volcanoes force an evacuation .,neutral
+Kids learning about volcanoes.,The volcanoes are a crack .,neutral
+Kids learning about volcanoes.,The volcanoes spew a lava .,neutral
+Kids learning about volcanoes.,A person demands the volcanoes .,contradiction
+Kids learning about volcanoes.,The volcanoes pose .,contradiction
+"A woman wearing a brown scarf and sunglasses, walks through a shopping outlet.",A commentary is carried by the outlet .,contradiction
+"A woman wearing a brown scarf and sunglasses, walks through a shopping outlet.",A unit plugs into the outlet .,contradiction
+"A woman wearing a brown scarf and sunglasses, walks through a shopping outlet.",The outlet is blocked by a building .,contradiction
+"A woman wearing a brown scarf and sunglasses, walks through a shopping outlet.",The outlet is a receptacle .,contradiction
+"A woman wearing a brown scarf and sunglasses, walks through a shopping outlet.",The outlet is an opening .,contradiction
+"A woman wearing a brown scarf and sunglasses, walks through a shopping outlet.",The outlet continues to strengthen .,contradiction
+"A woman wearing a brown scarf and sunglasses, walks through a shopping outlet.",The outlet passes .,contradiction
+Three men are making pizza dough.,A cliche goes unscathed in the dough .,contradiction
+Three men are making pizza dough.,A person uses the dough .,entailment
+Three men are making pizza dough.,The dough is stiff .,neutral
+Three men are making pizza dough.,The dough is a money .,contradiction
+Three men are making pizza dough.,The dough is a concoction .,entailment
+Three men are making pizza dough.,The dough is elastic .,neutral
+Three men are making pizza dough.,A person rolls in the dough .,neutral
+Small dog seeks comfort from his owner in this shopping scene.,A person rides in the comfort .,contradiction
+Small dog seeks comfort from his owner in this shopping scene.,A peasant is two face of the comfort .,contradiction
+Small dog seeks comfort from his owner in this shopping scene.,The comfort keeps a person warm .,neutral
+Small dog seeks comfort from his owner in this shopping scene.,The comfort governs a confidentiality .,contradiction
+Small dog seeks comfort from his owner in this shopping scene.,The comfort is bedclothes .,neutral
+Small dog seeks comfort from his owner in this shopping scene.,The comfort is sold for dlrs .,contradiction
+A man standing at a urinal with a coffee cup.,The urinal covers an area .,neutral
+A man standing at a urinal with a coffee cup.,The urinal blocks .,contradiction
+A man standing at a urinal with a coffee cup.,A person becomes of the urinal .,contradiction
+A man standing at a urinal with a coffee cup.,The urinal is a plumbing fixture .,entailment
+A man standing at a urinal with a coffee cup.,A back is nestled against the urinal .,neutral
+A man standing at a urinal with a coffee cup.,The urinal is blocked with a tape .,neutral
+A child is looking at a red parking meter on the street.,A person is shot at from the meter .,neutral
+A child is looking at a red parking meter on the street.,The meter is a poetic rhythm .,contradiction
+A child is looking at a red parking meter on the street.,A person never slip of the meter .,contradiction
+A child is looking at a red parking meter on the street.,A person quotes the meter .,neutral
+A child is looking at a red parking meter on the street.,A person asks in the meter .,contradiction
+A child is looking at a red parking meter on the street.,A prose has the meter .,contradiction
+A child is looking at a red parking meter on the street.,The meter is a metric linear unit .,contradiction
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",A wife gets on the horn .,neutral
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",The horn is a noisemaker .,entailment
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",The horn is brass .,neutral
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",The horn is a device .,entailment
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",A person dresses the horn .,neutral
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",A person takes up the horn .,neutral
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",The horn would mandolin .,contradiction
+"Four musicians, wearing Scottish garments, are playing instruments on the street- two accordion, one horn, and one clarinet.",A driver bap the horn .,contradiction
+"A woman sitting, a woman sweeping, and a woman holding a shovel.",The sweeping is a cleaning .,entailment
+"A woman sitting, a woman sweeping, and a woman holding a shovel.",The sweeping is scheduled to a year .,contradiction
+"A woman sitting, a woman sweeping, and a woman holding a shovel.",A governor sticks to the sweeping .,contradiction
+"A woman sitting, a woman sweeping, and a woman holding a shovel.",The sweeping is dramatic as one .,contradiction
+"A woman sitting, a woman sweeping, and a woman holding a shovel.",The sweeping is illusory .,contradiction
+"A woman sitting, a woman sweeping, and a woman holding a shovel.",The sweeping is effective .,neutral
+A pastor on a cellphone in front of a stone building with five officers wearing green uniforms; two are standing while the others are seated.,The pastor is a clergyman .,entailment
+A pastor on a cellphone in front of a stone building with five officers wearing green uniforms; two are standing while the others are seated.,A person is reminded of the pastor .,neutral
+A pastor on a cellphone in front of a stone building with five officers wearing green uniforms; two are standing while the others are seated.,The pastor warns of a corruption .,neutral
+A pastor on a cellphone in front of a stone building with five officers wearing green uniforms; two are standing while the others are seated.,A person serves as the pastor .,entailment
+A pastor on a cellphone in front of a stone building with five officers wearing green uniforms; two are standing while the others are seated.,The pastor dies .,neutral
+A pastor on a cellphone in front of a stone building with five officers wearing green uniforms; two are standing while the others are seated.,The pastor is available at a site .,neutral
+"three young boys playing hear no evil, speak no evil, see no evil",The evil might strangle .,contradiction
+"three young boys playing hear no evil, speak no evil, see no evil",The evil is a transgression .,neutral
+"three young boys playing hear no evil, speak no evil, see no evil",A many gets catch up in the evil .,contradiction
+"three young boys playing hear no evil, speak no evil, see no evil",The evil remains subdue .,contradiction
+"three young boys playing hear no evil, speak no evil, see no evil",The evil is an immorality .,neutral
+"three young boys playing hear no evil, speak no evil, see no evil",A person represents the evil .,neutral
+"three young boys playing hear no evil, speak no evil, see no evil",An evil hears the evil .,neutral
+A little girl is reading a storybook on a flowered sofa.,An encounter has the storybook .,contradiction
+A little girl is reading a storybook on a flowered sofa.,A person loves the storybook .,neutral
+A little girl is reading a storybook on a flowered sofa.,Patrons would find the storybook .,contradiction
+A little girl is reading a storybook on a flowered sofa.,The storybook is a book .,entailment
+A little girl is reading a storybook on a flowered sofa.,The storybook is the center of an attention .,contradiction
+A little girl is reading a storybook on a flowered sofa.,A person is the author of the storybook .,entailment
+"Two young children, one in striped top, running down pathway surrounded by ferns.",The ferns shoot .,contradiction
+"Two young children, one in striped top, running down pathway surrounded by ferns.",The ferns are a common logo .,contradiction
+"Two young children, one in striped top, running down pathway surrounded by ferns.",The ferns are a pteridophyte .,entailment
+"Two young children, one in striped top, running down pathway surrounded by ferns.",The ferns cause a disease .,neutral
+"Two young children, one in striped top, running down pathway surrounded by ferns.",The ferns bloom .,neutral
+"Two young children, one in striped top, running down pathway surrounded by ferns.",The ferns survive on a floor .,neutral
+We see a shot of a Korean historical drama with a man in bright red and yellow costume is in the foreground.,The drama is broadcasted .,neutral
+We see a shot of a Korean historical drama with a man in bright red and yellow costume is in the foreground.,The drama never happen .,neutral
+We see a shot of a Korean historical drama with a man in bright red and yellow costume is in the foreground.,The drama is suspected .,neutral
+We see a shot of a Korean historical drama with a man in bright red and yellow costume is in the foreground.,The drama is an episode .,neutral
+We see a shot of a Korean historical drama with a man in bright red and yellow costume is in the foreground.,The drama is a dramatic composition .,neutral
+We see a shot of a Korean historical drama with a man in bright red and yellow costume is in the foreground.,The drama is involved .,neutral
+We see a shot of a Korean historical drama with a man in bright red and yellow costume is in the foreground.,The drama draws viewers .,neutral
+A peephole looking through at a man in a blue jumpsuit working,The peephole is a hole .,entailment
+A peephole looking through at a man in a blue jumpsuit working,A friend is to look through the peephole .,neutral
+A peephole looking through at a man in a blue jumpsuit working,The peephole is revealed .,neutral
+A peephole looking through at a man in a blue jumpsuit working,A worker spies through the peephole .,neutral
+A peephole looking through at a man in a blue jumpsuit working,The peephole is real .,neutral
+A peephole looking through at a man in a blue jumpsuit working,A person instals the peephole .,neutral
+"Sitting at the rear of a crowd of people on the grassy hill, an Asian man plays his shamisen, a Japanese stringed instrument.",Participants drum the shamisen .,neutral
+"Sitting at the rear of a crowd of people on the grassy hill, an Asian man plays his shamisen, a Japanese stringed instrument.",The shamisen is read .,contradiction
+"Sitting at the rear of a crowd of people on the grassy hill, an Asian man plays his shamisen, a Japanese stringed instrument.",The shamisen is luminescent .,neutral
+"Sitting at the rear of a crowd of people on the grassy hill, an Asian man plays his shamisen, a Japanese stringed instrument.",The shamisen sells for a yen .,neutral
+"Sitting at the rear of a crowd of people on the grassy hill, an Asian man plays his shamisen, a Japanese stringed instrument.",The shamisen is outed there .,contradiction
+"Sitting at the rear of a crowd of people on the grassy hill, an Asian man plays his shamisen, a Japanese stringed instrument.",The shamisen is a stringed instrument .,entailment
+"A man in an aqua colored shirt, a sailor, a young boy wearing a red shirt and some other people tug on ropes while standing on a ship's deck.",The tug makes a manoeuvre .,contradiction
+"A man in an aqua colored shirt, a sailor, a young boy wearing a red shirt and some other people tug on ropes while standing on a ship's deck.",The tug is on the way .,contradiction
+"A man in an aqua colored shirt, a sailor, a young boy wearing a red shirt and some other people tug on ropes while standing on a ship's deck.",The tug is guided of a harbor .,contradiction
+"A man in an aqua colored shirt, a sailor, a young boy wearing a red shirt and some other people tug on ropes while standing on a ship's deck.",The tug has is kitted out with an underwater .,contradiction
+"A man in an aqua colored shirt, a sailor, a young boy wearing a red shirt and some other people tug on ropes while standing on a ship's deck.",The tug is justified .,neutral
+"A man in an aqua colored shirt, a sailor, a young boy wearing a red shirt and some other people tug on ropes while standing on a ship's deck.",The tug is a pull .,entailment
+"A paraplegic (with prosthetics) wearing a finish line banner, is walking next to a middle-aged man wearing a yellow t-shirt shirt.",A saint shows up to inspire the paraplegic .,neutral
+"A paraplegic (with prosthetics) wearing a finish line banner, is walking next to a middle-aged man wearing a yellow t-shirt shirt.",A damage leaves the paraplegic .,contradiction
+"A paraplegic (with prosthetics) wearing a finish line banner, is walking next to a middle-aged man wearing a yellow t-shirt shirt.",A person helps the paraplegic .,neutral
+"A paraplegic (with prosthetics) wearing a finish line banner, is walking next to a middle-aged man wearing a yellow t-shirt shirt.",The paraplegic is a handicapped person .,entailment
+"A paraplegic (with prosthetics) wearing a finish line banner, is walking next to a middle-aged man wearing a yellow t-shirt shirt.",The paraplegic develops bedsores .,neutral
+"A paraplegic (with prosthetics) wearing a finish line banner, is walking next to a middle-aged man wearing a yellow t-shirt shirt.",The paraplegic will to live .,contradiction
+A woman and man look at a computer screen at an expo.,The expo covers an area .,entailment
+A woman and man look at a computer screen at an expo.,The expo opens .,neutral
+A woman and man look at a computer screen at an expo.,The expo provides a platform .,neutral
+A woman and man look at a computer screen at an expo.,The expo is a great success .,neutral
+A woman and man look at a computer screen at an expo.,Series is held during the expo .,neutral
+A woman and man look at a computer screen at an expo.,The expo is a collection .,neutral
+A man in a plaid shirt thinking.,A person understands the thinking .,neutral
+A man in a plaid shirt thinking.,A person wakes up the thinking .,contradiction
+A man in a plaid shirt thinking.,The thinking is this .,contradiction
+A man in a plaid shirt thinking.,A person changes the thinking .,neutral
+A man in a plaid shirt thinking.,The thinking is higher cognitive process .,entailment
+A man in a plaid shirt thinking.,A person agrees with the thinking .,neutral
+Three construction workers stand over a job site wearing ragged and tattered clothing while a man and woman pass behind them and a large pill of dirt and debris sit in front.,The pill is leaved .,contradiction
+Three construction workers stand over a job site wearing ragged and tattered clothing while a man and woman pass behind them and a large pill of dirt and debris sit in front.,None requires the pill .,contradiction
+Three construction workers stand over a job site wearing ragged and tattered clothing while a man and woman pass behind them and a large pill of dirt and debris sit in front.,A person has to take the pill .,neutral
+Three construction workers stand over a job site wearing ragged and tattered clothing while a man and woman pass behind them and a large pill of dirt and debris sit in front.,The pill is a thing .,entailment
+Three construction workers stand over a job site wearing ragged and tattered clothing while a man and woman pass behind them and a large pill of dirt and debris sit in front.,The pill is available .,neutral
+Three construction workers stand over a job site wearing ragged and tattered clothing while a man and woman pass behind them and a large pill of dirt and debris sit in front.,A percent takes the pill .,contradiction
+People buying groceries after massive earthquakes had hit their hometown in recent weeks,A scuffle breaks out in the hometown .,neutral
+People buying groceries after massive earthquakes had hit their hometown in recent weeks,A person visits the hometown .,neutral
+People buying groceries after massive earthquakes had hit their hometown in recent weeks,The hometown is a town .,entailment
+People buying groceries after massive earthquakes had hit their hometown in recent weeks,The hometown is evacuated .,entailment
+People buying groceries after massive earthquakes had hit their hometown in recent weeks,The hometown welcomes a leader .,neutral
+People buying groceries after massive earthquakes had hit their hometown in recent weeks,A person misses the hometown .,neutral
+Sitting on a doorstep talking.,A person is leaved on the doorstep .,contradiction
+Sitting on a doorstep talking.,A person is a european gateway at the doorstep .,contradiction
+Sitting on a doorstep talking.,The doorstep is a sill .,neutral
+Sitting on a doorstep talking.,A person shows up on the doorstep .,neutral
+Sitting on a doorstep talking.,The doorstep fails to detonate .,neutral
+Sitting on a doorstep talking.,The doorstep is fiddled .,contradiction
+"A cat observing two little rabbits in a box of hay inside an wire enclosure, while a woman in a white sweater looks on.",The enclosure has spiritual center .,contradiction
+"A cat observing two little rabbits in a box of hay inside an wire enclosure, while a woman in a white sweater looks on.",The enclosure is an insertion .,contradiction
+"A cat observing two little rabbits in a box of hay inside an wire enclosure, while a woman in a white sweater looks on.",The enclosure is an area .,entailment
+"A cat observing two little rabbits in a box of hay inside an wire enclosure, while a woman in a white sweater looks on.",The enclosure is packed .,neutral
+"A cat observing two little rabbits in a box of hay inside an wire enclosure, while a woman in a white sweater looks on.",A person organizes the enclosure .,neutral
+"A cat observing two little rabbits in a box of hay inside an wire enclosure, while a woman in a white sweater looks on.",A person pauses outside the enclosure .,neutral
+"A cat observing two little rabbits in a box of hay inside an wire enclosure, while a woman in a white sweater looks on.",The enclosure is to remain closed .,neutral
+Softball pitcher pitching,A person is parted of the pitching .,contradiction
+Softball pitcher pitching,The pitching stops a good .,contradiction
+Softball pitcher pitching,The pitching is a playing .,entailment
+Softball pitcher pitching,A person likes the pitching .,entailment
+Softball pitcher pitching,Authorities take the pitching .,contradiction
+Softball pitcher pitching,The pitching is solid .,neutral
+"A bulldozer works to demolish a decrepit building; in the background, another brick building waits for its demise, its face covered with a grid of blackened window-holes.",The demise is an end .,entailment
+"A bulldozer works to demolish a decrepit building; in the background, another brick building waits for its demise, its face covered with a grid of blackened window-holes.",The demise is caused by an insulation .,contradiction
+"A bulldozer works to demolish a decrepit building; in the background, another brick building waits for its demise, its face covered with a grid of blackened window-holes.",The demise comes as a shock .,neutral
+"A bulldozer works to demolish a decrepit building; in the background, another brick building waits for its demise, its face covered with a grid of blackened window-holes.",The demise is a matter of a time .,entailment
+"A bulldozer works to demolish a decrepit building; in the background, another brick building waits for its demise, its face covered with a grid of blackened window-holes.",A person predicts the demise .,neutral
+"A bulldozer works to demolish a decrepit building; in the background, another brick building waits for its demise, its face covered with a grid of blackened window-holes.",The demise illustrates an issue .,neutral
+Military trainees in a rubber raft hook a ladder onto a larger boat.,A person says to the trainees .,contradiction
+Military trainees in a rubber raft hook a ladder onto a larger boat.,The trainees are a novice .,entailment
+Military trainees in a rubber raft hook a ladder onto a larger boat.,The trainees are responsible .,neutral
+Military trainees in a rubber raft hook a ladder onto a larger boat.,An aeroplane kills the trainees .,neutral
+Military trainees in a rubber raft hook a ladder onto a larger boat.,A person deals with the trainees .,neutral
+Military trainees in a rubber raft hook a ladder onto a larger boat.,The trainees charge in a slaying .,contradiction
+"At the rodeo, a patriotic cowboy and cowgirl prepare to ride with an american flag.",The cowgirl is suspended .,neutral
+"At the rodeo, a patriotic cowboy and cowgirl prepare to ride with an american flag.",The cowgirl is killed in a slide .,neutral
+"At the rodeo, a patriotic cowboy and cowgirl prepare to ride with an american flag.",The cowgirl is killed in a rockslide .,neutral
+"At the rodeo, a patriotic cowboy and cowgirl prepare to ride with an american flag.",The cowgirl is a girl .,neutral
+"At the rodeo, a patriotic cowboy and cowgirl prepare to ride with an american flag.",An episode involves the cowgirl .,neutral
+"At the rodeo, a patriotic cowboy and cowgirl prepare to ride with an american flag.",The cowgirl is a cowboy .,contradiction
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses.,The sawhorses are a framework .,neutral
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses.,The sawhorses are dismantled .,neutral
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses.,The sawhorses hold a wood .,neutral
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses.,A renewal costs the sawhorses .,contradiction
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses.,The sawhorses backstopp .,contradiction
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses.,The sawhorses are a type of a sawhorse .,entailment
+"overhead view of two people, a man and a woman, preparing a meal with potatoes.",The potatoes receive a treatment .,neutral
+"overhead view of two people, a man and a woman, preparing a meal with potatoes.",The potatoes are a root vegetable .,entailment
+"overhead view of two people, a man and a woman, preparing a meal with potatoes.",The potatoes are real .,entailment
+"overhead view of two people, a man and a woman, preparing a meal with potatoes.",An area sells the potatoes .,neutral
+"overhead view of two people, a man and a woman, preparing a meal with potatoes.",The potatoes feel a way .,contradiction
+"overhead view of two people, a man and a woman, preparing a meal with potatoes.",A gene is engineered into the potatoes .,neutral
+"overhead view of two people, a man and a woman, preparing a meal with potatoes.",The potatoes are a vine .,contradiction
+Spectators looking on while court jesters are in the street throwing something up in air.,The jesters are at the top of a list .,neutral
+Spectators looking on while court jesters are in the street throwing something up in air.,The jesters are unlikely to be exceeded by any current player .,contradiction
+Spectators looking on while court jesters are in the street throwing something up in air.,The jesters reward for an ancestor .,contradiction
+Spectators looking on while court jesters are in the street throwing something up in air.,The jesters are a clown .,neutral
+Spectators looking on while court jesters are in the street throwing something up in air.,The jesters have an ability .,neutral
+Spectators looking on while court jesters are in the street throwing something up in air.,The jesters go to disappear .,neutral
+A hand poking out of a black sweater sleeve is mixing an egg into a flour well with a fork.,The fork is a branch .,contradiction
+A hand poking out of a black sweater sleeve is mixing an egg into a flour well with a fork.,The fork is a cutlery .,entailment
+A hand poking out of a black sweater sleeve is mixing an egg into a flour well with a fork.,A person holds the fork .,entailment
+A hand poking out of a black sweater sleeve is mixing an egg into a flour well with a fork.,The fork chops .,contradiction
+A hand poking out of a black sweater sleeve is mixing an egg into a flour well with a fork.,The fork is bettered job security in a league .,contradiction
+A hand poking out of a black sweater sleeve is mixing an egg into a flour well with a fork.,A person intends to smell like the fork .,contradiction
+A hand poking out of a black sweater sleeve is mixing an egg into a flour well with a fork.,The fork is postponed .,contradiction
+people making strawberries drink on a hot day.,A person tastes the strawberries .,neutral
+people making strawberries drink on a hot day.,The strawberries preserve .,neutral
+people making strawberries drink on a hot day.,The strawberries find a protection .,contradiction
+people making strawberries drink on a hot day.,The strawberries are a bogey on a hole .,contradiction
+people making strawberries drink on a hot day.,The strawberries tuck behind an ear .,contradiction
+people making strawberries drink on a hot day.,The strawberries are a berry .,entailment
+Two women and a man are sitting on metal bollards.,The bollards are convenient .,neutral
+Two women and a man are sitting on metal bollards.,A military wants the bollards .,neutral
+Two women and a man are sitting on metal bollards.,The bollards official .,contradiction
+Two women and a man are sitting on metal bollards.,The bollards are a post .,neutral
+Two women and a man are sitting on metal bollards.,The bollards would guitar .,contradiction
+Two women and a man are sitting on metal bollards.,The bollards consist of a pair .,neutral
+three people over a culvert looking into the water beside an alligator caution sign,A blood goes into the culvert .,contradiction
+three people over a culvert looking into the water beside an alligator caution sign,A person slides through the culvert .,neutral
+three people over a culvert looking into the water beside an alligator caution sign,The culvert is a drain .,neutral
+three people over a culvert looking into the water beside an alligator caution sign,A person is feed through the culvert .,contradiction
+three people over a culvert looking into the water beside an alligator caution sign,A bomb hides in the culvert .,neutral
+three people over a culvert looking into the water beside an alligator caution sign,The culvert is leaved .,contradiction
+Blond child is learning self deference.,The deference is agreeableness .,neutral
+Blond child is learning self deference.,Police take the deference .,contradiction
+Blond child is learning self deference.,A person is stunned by the deference .,neutral
+Blond child is learning self deference.,The deference is politeness .,neutral
+Blond child is learning self deference.,A person retains the deference .,contradiction
+Blond child is learning self deference.,A cult is different from the deference .,contradiction
+Blond child is learning self deference.,The deference is a courtesy .,neutral
+Blond child is learning self deference.,The deference is given to a testimony .,contradiction
+A woman shakes a cocktail.,People die from the cocktail .,neutral
+A woman shakes a cocktail.,A person changes the cocktail .,neutral
+A woman shakes a cocktail.,The cocktail is an appetizer .,neutral
+A woman shakes a cocktail.,The cocktail is a mixed drink .,entailment
+A woman shakes a cocktail.,A venture is the incendiary combination since the cocktail .,contradiction
+A woman shakes a cocktail.,A person drinks the cocktail .,neutral
+A woman shakes a cocktail.,The cocktail is dangerous .,neutral
+A guy in a green shirt hammering and another guy moving a box.,An image takes the hammering .,contradiction
+A guy in a green shirt hammering and another guy moving a box.,A credibility takes the hammering .,contradiction
+A guy in a green shirt hammering and another guy moving a box.,A sector takes the hammering .,contradiction
+A guy in a green shirt hammering and another guy moving a box.,A person loves the hammering .,neutral
+A guy in a green shirt hammering and another guy moving a box.,The hammering is a blow .,entailment
+A guy in a green shirt hammering and another guy moving a box.,A person is active in the hammering .,entailment
+A man is using a wrench to fix the wheel of his car while a blond girl helps him.,The wrench would guitar .,contradiction
+A man is using a wrench to fix the wheel of his car while a blond girl helps him.,The wrench is a hand tool .,entailment
+A man is using a wrench to fix the wheel of his car while a blond girl helps him.,The wrench calls a matrix .,contradiction
+A man is using a wrench to fix the wheel of his car while a blond girl helps him.,The wrench never happen .,contradiction
+A man is using a wrench to fix the wheel of his car while a blond girl helps him.,The wrench becomes a weapon .,neutral
+A man is using a wrench to fix the wheel of his car while a blond girl helps him.,A person uses the wrench .,entailment
+A man is using a wrench to fix the wheel of his car while a blond girl helps him.,The wrench is an injury .,contradiction
+Teen girl using landscape binoculars to look for waterfowl.,The waterfowl is considered a reservoir .,contradiction
+Teen girl using landscape binoculars to look for waterfowl.,The waterfowl is triggered by stress .,contradiction
+Teen girl using landscape binoculars to look for waterfowl.,The waterfowl is an aquatic bird .,entailment
+Teen girl using landscape binoculars to look for waterfowl.,The waterfowl is worth in a bush .,contradiction
+Teen girl using landscape binoculars to look for waterfowl.,The waterfowl creates in water .,contradiction
+Teen girl using landscape binoculars to look for waterfowl.,The waterfowl dies .,neutral
+A scientist performs a lab test using fresh raw eggs.,The scientist is arrested .,neutral
+A scientist performs a lab test using fresh raw eggs.,The scientist is killed .,neutral
+A scientist performs a lab test using fresh raw eggs.,The scientist is a person .,entailment
+A scientist performs a lab test using fresh raw eggs.,The scientist has b .,contradiction
+A scientist performs a lab test using fresh raw eggs.,The scientist charges .,contradiction
+A scientist performs a lab test using fresh raw eggs.,A ridge names after the scientist .,contradiction
+A group of men wearing old military uniforms are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city street.,A person buys the rifles .,neutral
+A group of men wearing old military uniforms are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city street.,A person grabs the rifles .,neutral
+A group of men wearing old military uniforms are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city street.,A person uses the rifles .,entailment
+A group of men wearing old military uniforms are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city street.,Police defuse the rifles .,neutral
+A group of men wearing old military uniforms are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city street.,The rifles are a firearm .,entailment
+A group of men wearing old military uniforms are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city street.,The rifles call a stent .,contradiction
+People are in a room discussing around a computer printer.,The printer is a peripheral .,entailment
+People are in a room discussing around a computer printer.,The printer consists of a pair .,contradiction
+People are in a room discussing around a computer printer.,The printer instals .,contradiction
+People are in a room discussing around a computer printer.,The printer is convenient .,neutral
+People are in a room discussing around a computer printer.,The printer is a skilled worker .,contradiction
+People are in a room discussing around a computer printer.,A chip is hidden inside the printer .,neutral
+People are in a room discussing around a computer printer.,The printer has a speed .,neutral
+A plat is sitting on the floor next to a blond girl.,The plat allows a child .,contradiction
+A plat is sitting on the floor next to a blond girl.,The plat attractive to an eye .,contradiction
+A plat is sitting on the floor next to a blond girl.,The plat glazes .,contradiction
+A plat is sitting on the floor next to a blond girl.,The plat is embed with a canister .,contradiction
+A plat is sitting on the floor next to a blond girl.,The plat is a map .,entailment
+A plat is sitting on the floor next to a blond girl.,The plat dies .,contradiction
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,Water carves the port .,neutral
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,The port is a side .,contradiction
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,The port is closed .,neutral
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,A person works the port .,neutral
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,The port is a computer circuit .,contradiction
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,The port is a geographic point .,entailment
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,A person plays on the port .,neutral
+An older man is riding his bike in front of a large cruise ship that is sitting in port.,A vessel is towed to the port .,neutral
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,A person is made the saint .,contradiction
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,The saint is a deity .,contradiction
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,An industry reaches the saint .,contradiction
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,The saint is achieved in a night .,contradiction
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,The saint never waver .,contradiction
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,A site is the birthplace of the saint .,neutral
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,The saint is a model .,neutral
+"A football game between a gold team and a white team, a team member from the gold team is signing a time-out.",The time-out is over .,neutral
+"A football game between a gold team and a white team, a team member from the gold team is signing a time-out.",The time-out is a pause .,entailment
+"A football game between a gold team and a white team, a team member from the gold team is signing a time-out.",Lawmakers take the time-out .,contradiction
+"A football game between a gold team and a white team, a team member from the gold team is signing a time-out.",The time-out is advisable .,neutral
+"A football game between a gold team and a white team, a team member from the gold team is signing a time-out.",A person suggests the time-out .,entailment
+"A football game between a gold team and a white team, a team member from the gold team is signing a time-out.",A brother never get the time-out .,contradiction
+Sitting guy handling a stapler while another guy looks on.,Now sells the stapler .,contradiction
+Sitting guy handling a stapler while another guy looks on.,The stapler grooms a snow .,contradiction
+Sitting guy handling a stapler while another guy looks on.,The stapler never run out of staples .,contradiction
+Sitting guy handling a stapler while another guy looks on.,Women are put through the stapler .,contradiction
+Sitting guy handling a stapler while another guy looks on.,The stapler would mandolin .,contradiction
+Very bad retro band on Valentine's day.,The retro is tough .,contradiction
+Very bad retro band on Valentine's day.,A panel has the retro feel .,contradiction
+Very bad retro band on Valentine's day.,A person steers clear of the retro .,contradiction
+Very bad retro band on Valentine's day.,The retro is a hit .,contradiction
+Very bad retro band on Valentine's day.,The retro is a fashion .,neutral
+Very bad retro band on Valentine's day.,The retro is cooled with people .,contradiction
+"A dark-skinned man in traditional African garb stares into the camera, his right eye appears to have a cataract.",The cataract is interesting for a study .,neutral
+"A dark-skinned man in traditional African garb stares into the camera, his right eye appears to have a cataract.",Scientists believe the cataract .,contradiction
+"A dark-skinned man in traditional African garb stares into the camera, his right eye appears to have a cataract.",The cataract strikes .,contradiction
+"A dark-skinned man in traditional African garb stares into the camera, his right eye appears to have a cataract.",The cataract is an eye disease .,entailment
+"A dark-skinned man in traditional African garb stares into the camera, his right eye appears to have a cataract.",The cataract kills people .,contradiction
+"A dark-skinned man in traditional African garb stares into the camera, his right eye appears to have a cataract.",The cataract is under control .,neutral
+Three asian women purchasing and shopping for postcards in a modern store.,A person is the author of the postcards .,entailment
+Three asian women purchasing and shopping for postcards in a modern store.,The postcards are sent .,neutral
+Three asian women purchasing and shopping for postcards in a modern store.,A form is no larger than the postcards .,contradiction
+Three asian women purchasing and shopping for postcards in a modern store.,The postcards are briefed .,contradiction
+Three asian women purchasing and shopping for postcards in a modern store.,The postcards are a card .,entailment
+Three asian women purchasing and shopping for postcards in a modern store.,A person recalls the postcards .,neutral
+A man in a red and white striped shirt wearing a headlamp is working on a device with different colored wires.,The headlamp is luminescent .,entailment
+A man in a red and white striped shirt wearing a headlamp is working on a device with different colored wires.,A person is presented as the headlamp .,contradiction
+A man in a red and white striped shirt wearing a headlamp is working on a device with different colored wires.,Nobody stops to think about the headlamp .,neutral
+A man in a red and white striped shirt wearing a headlamp is working on a device with different colored wires.,The headlamp pierces darkness .,entailment
+A man in a red and white striped shirt wearing a headlamp is working on a device with different colored wires.,An impact smashes the headlamp .,neutral
+A man in a red and white striped shirt wearing a headlamp is working on a device with different colored wires.,The headlamp is a light .,entailment
+A man with a yellow shirt and blue jeans re shingles a roof.,An astronaut remains in the re .,contradiction
+A man with a yellow shirt and blue jeans re shingles a roof.,The re is sold for a scrap .,contradiction
+A man with a yellow shirt and blue jeans re shingles a roof.,The re is decisive .,contradiction
+A man with a yellow shirt and blue jeans re shingles a roof.,A person skips the re .,contradiction
+A man with a yellow shirt and blue jeans re shingles a roof.,The re hits a high .,contradiction
+A large explosion occured near a red car at a gas station.,The explosion is a change of integrity .,contradiction
+A large explosion occured near a red car at a gas station.,The explosion dies .,contradiction
+A large explosion occured near a red car at a gas station.,A pulse triggers the explosion .,neutral
+A large explosion occured near a red car at a gas station.,The explosion is a discharge .,neutral
+A large explosion occured near a red car at a gas station.,A person notices the explosion .,entailment
+A large explosion occured near a red car at a gas station.,A program provides the explosion .,neutral
+A large explosion occured near a red car at a gas station.,The explosion is an increase .,contradiction
+A large explosion occured near a red car at a gas station.,The explosion is announced .,neutral
+A large explosion occured near a red car at a gas station.,The explosion is a release .,entailment
+"Man in black pants, white shirt playing a flue as a lady in pink dances",A chicken is infected with the flue .,contradiction
+"Man in black pants, white shirt playing a flue as a lady in pink dances",A person sets up the flue .,contradiction
+"Man in black pants, white shirt playing a flue as a lady in pink dances",A person detonates the flue .,contradiction
+"Man in black pants, white shirt playing a flue as a lady in pink dances",The flue is dismantled .,neutral
+"Man in black pants, white shirt playing a flue as a lady in pink dances",The flue is a projection .,contradiction
+"Man in black pants, white shirt playing a flue as a lady in pink dances",The flue is a respiratory disease of pigs .,contradiction
+Two people are riding down a log flume in a theme park.,The flume is a gorge .,neutral
+Two people are riding down a log flume in a theme park.,The flume allows people .,contradiction
+Two people are riding down a log flume in a theme park.,A body lands in the flume .,neutral
+Two people are riding down a log flume in a theme park.,The flume swirls with a snow .,contradiction
+Two people are riding down a log flume in a theme park.,The flume is poor .,contradiction
+Two people are riding down a log flume in a theme park.,Troops pull to the flume .,contradiction
+A man carrying steel beams across a lumberyard.,A person is a assistant foreman at the lumberyard .,neutral
+A man carrying steel beams across a lumberyard.,A sort exists in the lumberyard .,contradiction
+A man carrying steel beams across a lumberyard.,Information is gained in the lumberyard .,neutral
+A man carrying steel beams across a lumberyard.,The lumberyard oppressive .,contradiction
+A man carrying steel beams across a lumberyard.,A person drives to the lumberyard .,neutral
+A man carrying steel beams across a lumberyard.,The lumberyard is a workplace .,entailment
