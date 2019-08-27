@@ -2,10 +2,11 @@
 
 ## Dataset format:
 
- premise | hypothesis| label
- "bla bla", "bla bla", "entailment"
+premise | hypothesis| label
 
- csv format
+## File format:
+
+csv 
 
 ## FRACAS
 
